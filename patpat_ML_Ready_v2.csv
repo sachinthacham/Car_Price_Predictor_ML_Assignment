@@ -1,0 +1,3307 @@
+Price,Location,Mileage,Engine,Year,Fuel_Type,Make_Model
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6795000,Kurunegala,51000,650,2018,Hybrid,Suzuki Spacia
+4200000,Gampaha,114000,1000,2010,Petrol,Perodua Viva
+3500000,Kiribathgoda,90000,600,2013,Electric,Mitsubishi i-MiEV
+800000,Warakapola,1000000,1500,1980,Petrol,Mitsubishi Lancer
+5375000,Dehiwala,150000,1000,2007,Petrol,Toyota Vitz
+16000000,Piliyandala,78000,2143,2013,Hybrid,Mercedes Benz E Class
+8200000,Matara,90000,1500,2015,Petrol,Honda Fit
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+3450000,Kahawatta,167000,1000,2010,Petrol,Suzuki Estilo
+7650000,Mattakkuliya (Colombo 15),6800,650,2025,Petrol,Suzuki Wagon R
+9000000,Katugastota,96000,1000,2018,Petrol,Audi A1
+800000,Warakapola,1000000,1500,1980,Petrol,Mitsubishi Lancer
+4150000,Kandy,149000,1300,2003,Petrol,Suzuki Swift
+3650000,Kaduwela,0,660,2011,Petrol,Perodua Viva
+2650000,Kurunegala,123456,800,2006,Petrol,Suzuki Alto
+6475000,Panadura,22000,1490,2012,Hybrid,Toyota Aqua
+5600000,Ja-Ela,125112,660,2017,Petrol,Suzuki Hustler
+8250000,Nawala,0,658,2025,Petrol,Suzuki Hustler
+6850000,Kottawa,6600,660,2023,Petrol,Mitsubishi eK
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+4975000,Athurugiriya,200000,1000,2010,Petrol,Toyota Passo
+6000000,Dehiwala,190000,1300,2006,Petrol,Toyota Yaris
+4250000,Peradeniya,150000,1600,1991,Petrol,Mitsubishi Lancer
+3490000,Hanwella,128000,650,2015,Petrol,Suzuki Alto
+7750000,Ampara,7600,660,2024,Hybrid,Suzuki Wagon R
+1450000,Peradeniya,190000,1200,1989,Petrol,Mitsubishi Lancer
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7850000,Galle,176000,1300,2011,Hybrid,Honda Insight
+6650000,Kalagedihena,9300,650,2024,Petrol,Suzuki Alto
+7150000,Kottawa,6600,660,2024,Petrol,Suzuki Wagon R
+8400000,Kurunegala,0,660,2025,Hybrid,Suzuki Spacia
+5550000,Kandy,0,658,2014,Hybrid,Suzuki Wagon R
+2700000,Kurunegala,0,0,2007,Petrol,Suzuki Maruti
+3600000,Buttala,116000,796,2015,Petrol,Suzuki Alto
+6750000,Galle,138000,1500,2012,Petrol,Toyota Aqua
+4700000,Kurunegala,0,0,2017,Petrol,Suzuki Wagon R
+5650000,Kalagedihena,88000,650,2017,Petrol,Daihatsu Mira
+2750000,Dehiwala,171132,1599,2001,Petrol,Hyundai Matrix
+7150000,Kottawa,6600,660,2024,Petrol,Nissan Dayz
+6550000,Galle,139000,1500,2012,Petrol,Toyota Aqua
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+2250000,Galewela,130000,1000,2004,Petrol,Suzuki Zen
+7800000,Ratnapura,124000,1500,2015,Hybrid,Toyota Aqua
+4350000,Piliyandala,190000,1490,2003,Petrol,Honda City
+3950000,Ganemulla,145000,1300,2000,Petrol,Nissan N 16
+10250000,Kurunegala,137000,1500,2015,Petrol,Toyota Axio
+7300000,Kottawa,6600,660,2023,Petrol,Daihatsu Cast
+4850000,Giriulla,190000,1490,2003,Petrol,Nissan FB 15
+8500000,Kandy,128000,1500,2008,Petrol,Toyota Premio
+2850000,Matale,176000,1000,2007,Petrol,Perodua Kelisa
+7250000,Matale,160000,1500,2007,Petrol,Toyota Axio
+10800000,Kalutara,144000,1800,2014,Hybrid,Toyota Prius
+7325000,Kottawa,6600,660,2024,Petrol,Nissan Dayz
+16900000,Pita Kotte,160000,2497,2010,Petrol,BMW 5 Series
+4600000,Panadura,221113,1290,2003,Petrol,Nissan ExSunny
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+11750000,Kohuwala,121000,1500,2017,Hybrid,Toyota Axio
+9250000,Kohuwala,0,658,2023,Petrol,Suzuki Spacia
+5625000,Colombo Fort (Colombo 01),212647,1490,2003,Petrol,Honda Civic
+2880000,Gampaha,210000,1500,1999,Petrol,Nissan Cefiro
+5600000,Homagama,129000,1000,2017,Petrol,Toyota Wigo
+8100000,Kalmunai,56000,1000,2018,Hybrid,Toyota Vitz
+3775000,Badulla,22,850,2015,Petrol,Suzuki Alto
+7100000,Batticaloa,75000,650,2018,Hybrid,Suzuki Wagon R
+3600000,Balana,125000,800,2015,Petrol,Suzuki Alto
+4400000,Horana,154000,1300,2003,Petrol,Suzuki Swift
+4650000,Kurunegala,184177,1498,2001,Petrol,Nissan Sunny
+3595000,Panadura,0,1000,2007,Petrol,Perodua Kenari
+5250000,Piliyandala,81000,1200,2018,Petrol,Suzuki SX
+6500000,Alawatugoda,109000,650,2017,Petrol,Suzuki Wagon R
+3495000,Panadura,0,1300,2014,Petrol,Micro Panda Cross
+2895000,Panadura,0,1000,2014,Petrol,Micro Panda
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7500000,Kurunegala,2500,690,2024,Hybrid,Suzuki Wagon R
+6250000,Kurunegala,2500,690,2024,Hybrid,Daihatsu Mira
+8990000,Kurunegala,2500,690,2024,Hybrid,Toyota Custom
+3295000,Panadura,0,1500,2012,Petrol,Micro MX7
+2995000,Panadura,0,1300,2013,Petrol,Micro Panda Cross
+6300000,Akurana,88000,650,2018,Petrol,Suzuki Wagon R
+2495000,Panadura,0,1300,2012,Petrol,Micro Panda
+855000,Negombo,88422,1500,1985,Petrol,Nissan B11
+9000000,Kotte,120000,36,2016,Electric,Mercedes Benz B Class
+2990000,Moratuwa,130000,49,2013,Electric,Mitsubishi i-MiEV
+5025000,Badulla,127000,990,2009,Petrol,Toyota Passo
+3800000,Batticaloa,58000,650,2015,Petrol,Suzuki Alto
+4250000,Batticaloa,86530,814,2016,Petrol,Hyundai Eon
+6400000,Kottawa,6600,660,2023,Petrol,Daihatsu Mira
+8900000,Batticaloa,0,1000,2025,Petrol,Hyundai Eon
+7300000,Digana,0,650,2024,Petrol,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5100000,Kalmunai,85300,1000,2015,Petrol,Suzuki Celerio
+5600000,Kandy,147000,650,2017,Petrol,Suzuki Wagon R
+5100000,Ratnapura,128000,650,2015,Petrol,Mazda Flair
+6950000,Kegalle,89000,660,2018,Hybrid,Suzuki Wagon R
+8750000,Kelaniya,0,650,2025,Hybrid,Suzuki Wagon R
+6600000,Narahenpita (Colombo 05),63000,1000,2018,Petrol,Perodua Bezza
+4350000,Kegalle,2200000,1000,2003,Diesel,Nissan FB 15
+3750000,Wattala,131500,800,2015,Petrol,Suzuki Alto
+8300000,Kotahena (Colombo 13),3300,650,2024,Petrol,Suzuki Wagon R
+7450000,Piliyandala,127500,1500,2014,Petrol,Toyota Aqua
+11450000,Panadura,97000,1500,2015,Petrol,Toyota Premio
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+18200000,Delgoda,150000,1500,2018,Petrol,BMW X Series
+2875000,Delgoda,55000,1000,2015,Petrol,Micro Panda
+7400000,Pelmadulla,80460,1500,2014,Hybrid,Toyota Aqua
+2990000,Pelmadulla,190000,1970,1996,Diesel,Toyota Corolla
+4000000,Kirillawala,68500,800,2015,Petrol,Suzuki Alto
+6850000,Gampaha,102000,600,2017,Petrol,Suzuki Wagon R
+3585000,Anuradhapura,179000,800,2014,Petrol,Suzuki Alto
+5550000,Kaleliya,120000,1000,2008,Petrol,Toyota Vitz
+3600000,Kegalle,92000,800,2015,Petrol,Suzuki Alto
+4150000,Vavuniya,76000,800,2015,Petrol,Suzuki Alto
+3750000,Colombo Fort (Colombo 01),170000,1200,2001,Petrol,Nissan Primera
+7900000,Negombo,157000,1490,2006,Petrol,Toyota Camry
+5375000,Nugegoda,130000,1500,2003,Petrol,Toyota Vios
+1150000,Panadura,150000,1300,1985,Petrol,Nissan B11
+13500000,Padukka,106000,1500,2018,Hybrid,Toyota Axio
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+900000,Padaviya,20000,1200,1986,Petrol,Toyota DX Wagon
+8800000,Kegalle,154000,1490,2014,Hybrid,Honda Grace
+6300000,Kalutara,165000,1500,2007,Hybrid,Toyota Prius
+8200000,Kurunegala,0,660,2025,Petrol,Daihatsu Tanto
+7300000,Kuliyapitiya,0,600,2024,Hybrid,Suzuki Wagon R
+5450000,Kandy,37445,1000,2016,Petrol,Perodua Axia
+7925000,Trincomalee,190000,1330,2009,Hybrid,Honda Insight
+450000,Horana,0,1000,1959,Petrol,Ford Prefect
+13600000,Athurugiriya,146000,999,2019,Petrol,Audi Q2
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6700000,Angoda,0,650,2024,Petrol,Toyota Pixis
+1950000,Kaduwela,100000,800,2000,Petrol,Suzuki Maruti
+3400000,Kuliyapitiya,140000,1000,2016,Petrol,Renault KWID
+6250000,Kalutara,30250,650,2017,Petrol,Honda N WGN
+8000000,Akarella,245000,1329,2014,Petrol,Toyota Axio
+850000,Horana,0,1200,1977,Petrol,Toyota Corolla
+1450000,Horana,0,1300,1986,Petrol,Toyota Starlet
+5750000,Kurunegala,126000,650,2014,Petrol,Suzuki Wagon R
+3750000,Kotte,130000,800,2015,Petrol,Suzuki Alto
+8350000,Bopitiya,135000,1500,2013,Petrol,Toyota Axio
+2500000,Horana,0,1200,2005,Petrol,Hyundai Santro
+3690000,Malabe,151000,650,2003,Petrol,Daihatsu Mira
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8900000,Kollupitiya (Colombo 03),127000,1500,2015,Hybrid,Honda Grace
+3500000,Horana,0,1500,1996,Petrol,Toyota Corolla
+3900000,Horana,0,1000,2001,Petrol,Toyota Platz
+4675000,Adampan,92000,1000,2013,Petrol,Perodua Viva
+3400000,Matugama,23000,1500,1992,Petrol,Toyota Carina
+2300000,Kandy,0,0,2003,Petrol,Perodua Kancil
+5975000,Moratuwa,160000,790,2017,Petrol,Suzuki Wagon R
+4750000,Dehiwala,87000,1000,2014,Petrol,Suzuki Celerio
+3450000,Polonnaruwa,153968,1600,2000,Petrol,Hyundai Coupe
+6750000,Moratuwa,126650,1339,2012,Petrol,Honda Fit
+3375000,Piliyandala,134000,1000,2004,Petrol,Perodua Kelisa
+2400000,Anuradhapura,146935,1500,2001,Petrol,KIA Rio
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+1855000,Kahathuduwa,180000,1970,1990,Diesel,Toyota Corona
+6350000,Kirulapone,0,1800,2005,Petrol,Toyota Aqua
+3500000,Kirulapone,0,800,2010,Petrol,Suzuki Alto
+5975000,Panadura,160000,650,2017,Petrol,Suzuki Wagon R
+8400000,Katugastota,4000,1000,2023,Hybrid,Toyota Passo
+3800000,Anuradhapura,78000,796,2016,Petrol,Suzuki Alto
+7500000,Kuliyapitiya,85000,1000,2016,Petrol,Toyota Vitz
+7250000,Adampan,238000,1000,2016,Petrol,Toyota Vitz
+1750000,Nittambuwa,97285,990,1988,Diesel,Daihatsu Charade
+3550000,Morontuduwa,30200,1300,2016,Petrol,Micro Panda
+3600000,Minuwangoda,110000,800,2015,Petrol,Suzuki Alto
+5950000,Matara,116500,1000,2007,Petrol,Toyota Belta
+3400000,Anuradhapura,0,0,1996,Petrol,Toyota Corona
+6250000,Gampaha,169000,650,2017,Petrol,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+3350000,Badulla,46000,680,2015,Petrol,Suzuki Alto
+3550000,Wattala,132000,1390,2000,Petrol,Peugeot 206
+3550000,Wanela,82000,1000,2015,Petrol,Micro Panda
+4950000,Batticaloa,85328,1000,2015,Petrol,Suzuki Celerio
+3000000,Matale,200000,660,2010,Petrol,Suzuki Alto
+18000000,Kiribathgoda,0,1000,2023,Petrol,Audi A3
+9500000,Halloluwa,3000,990,2024,Petrol,Suzuki Spacia
+6950000,Batticaloa,61000,658,2018,Petrol,Suzuki Wagon R
+6800000,Kiribathgoda,132000,1500,2012,Hybrid,Toyota Aqua
+6900000,Pannipitiya,92500,990,2015,Petrol,Toyota Vitz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+4075000,Anuradhapura,210000,1490,2002,Petrol,Nissan Sunny
+3200000,Matale,250000,1500,1997,Petrol,Toyota Corolla
+12800000,Borella (Colombo 08),160000,1490,2016,Petrol,Toyota Allion
+11100000,Halloluwa,0,990,2025,Petrol,Toyota Roomy
+8499000,Negombo,46000,1000,2019,Petrol,Toyota Vitz
+2550000,Kobeigane,0,650,2002,Petrol,Toyota Axio
+1650000,Poddala,300000,1500,1987,Petrol,Nissan Sunny
+4790000,Horana,183500,1000,2004,Petrol,Honda Accord
+4950000,Horana,0,990,2014,Petrol,Suzuki Celerio
+6300000,Kurunegala,148000,2000,2001,Petrol,Toyota Mark II
+18850000,Kohuwala,75000,1500,2016,Petrol,BMW 3 Series
+5250000,Matale,200000,660,2017,Petrol,Suzuki Alto
+6750000,Galagedara,150000,1000,2015,Petrol,Toyota Vitz
+11200000,Welipennagahamulla,170000,1490,2016,Hybrid,Toyota Axio
+10495000,Panadura,0,1990,2011,Diesel,BMW 3 Series
+6850000,Kottawa,6600,660,2023,Petrol,Mitsubishi eK
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+4590000,Kurunegala,158000,1000,2007,Petrol,Toyota Passo
+3745000,Ja-Ela,128000,1300,2012,Petrol,Micro Voleex
+3000000,Kurunegala,123456,1500,1996,Petrol,Toyota Corolla
+4825000,Gampaha,131,1000,2009,Petrol,Toyota Passo
+3690000,Horana,135000,800,2015,Petrol,Suzuki Alto
+13400000,Dehiwala,67000,1000,2019,Petrol,Honda Civic
+13200000,Galewela,100000,1500,2016,Hybrid,Toyota Allion
+3350000,Kurunegala,153000,1000,2011,Petrol,Suzuki Alto
+3200000,Kurunegala,180000,1300,1999,Petrol,Toyota Corolla
+6700000,Alutgama,155000,1500,2010,Petrol,Honda Insight
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6100000,Wattala,115000,660,2018,Hybrid,Suzuki Wagon R
+5300000,Agalawatta,0,650,2015,Petrol,Suzuki Wagon R
+30000000,Heiyanthuduwa,27000,1497,2019,Petrol,Mercedes Benz E180 AMG
+7000000,Colombo Fort (Colombo 01),170000,1000,2013,Petrol,Toyota Aqua
+6150000,Bambalapitiya (Colombo 04),92000,650,2017,Petrol,Suzuki Wagon R
+4175000,Matara,122000,760,2004,Petrol,Suzuki Swift
+5750000,Ja-Ela,0,1500,2000,Petrol,Toyota Corolla
+6850000,Kadawatha,115500,996,2015,Petrol,Toyota Passo
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+4000000,Kelinkanda,0,800,1999,Petrol,Toyota Vitz
+6450000,Gampaha,72700,960,2017,Petrol,Suzuki Spacia
+5350000,Akurana,134000,1300,2007,Petrol,Toyota Yaris
+4050000,Alahengama,0,1300,1997,Petrol,Mitsubishi Lancer
+6500000,Kalpitiya,140000,1330,2011,Hybrid,Honda Fit
+13000000,Rajagiriya,28800,1500,2023,Hybrid,Toyota Yaris
+6850000,Kottawa,0,660,2023,Petrol,Mitsubishi eK
+8000000,Rajagiriya,18326,650,2024,Petrol,Suzuki Hustler
+5675000,Kurunegala,185000,996,2010,Petrol,Toyota Vitz
+4275000,Galle,110000,1320,2004,Petrol,Suzuki Swift
+9290000,Nittambuwa,1170000,1500,2015,Hybrid,Toyota Axio
+3550000,Nugegoda,180000,1300,2000,Petrol,Suzuki Swift
+6400000,Kottawa,1234,660,2023,Petrol,Daihatsu Mira
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5800000,Ragama,152000,2000,2000,Diesel,Toyota Corona
+3700000,Kadawatha,123000,800,2015,Petrol,Suzuki Alto
+5450000,Malabe,116000,1300,2008,Petrol,Suzuki Swift
+6190000,Malabe,147000,1500,2004,Petrol,Toyota Corolla
+3050000,Malabe,180000,1300,1993,Petrol,Toyota Corsa
+11500000,Kiribathgoda,68000,1200,2016,Petrol,Honda Grace
+2700000,Kotagala,202000,800,2008,Petrol,Suzuki Alto
+5890000,Weliveriya,78000,658,2016,Petrol,Daihatsu Move
+6890000,Minuwangoda,95000,660,2018,Hybrid,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+13700000,Nugegoda,139000,1500,2016,Petrol,Toyota Premio
+9900000,Wattala,10000,1000,2025,Petrol,Toyota Yaris
+8750000,Attanagalla,0,650,2025,Hybrid,Suzuki Wagon R
+16500000,Colombo Fort (Colombo 01),0,1500,2025,Hybrid,Toyota Axio
+15300000,Kollupitiya (Colombo 03),113000,1500,2019,Petrol,Toyota Premio
+5275000,Kadawatha,93000,1000,2017,Petrol,Suzuki Celerio
+5600000,Matara,90000,650,2016,Petrol,Suzuki Wagon R
+9600000,Kurunegala,0,650,2024,Hybrid,Suzuki Spacia
+6400000,Kottawa,6600,660,2023,Petrol,Daihatsu Mira
+7325000,Kottawa,6600,660,2024,Petrol,Nissan Dayz
+9800000,Kadawatha,124000,1500,2012,Petrol,Toyota Premio
+6075000,Sooriyawewa Town,115000,660,2017,Petrol,Suzuki Wagon R
+8400000,Ratnapura,0,1500,2012,Hybrid,Honda Shuttle
+5550000,Dehiwala,100000,660,2016,Petrol,Suzuki Wagon R
+9700000,Kurunegala,0,650,2024,Hybrid,Suzuki Spacia
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+1450000,Matale,200000,1300,1986,Petrol,Toyota Corolla
+6200000,Beruwala,204000,2000,2000,Petrol,Mercedes Benz C Class
+2600000,Matale,200000,1000,1967,Petrol,Austin Mini
+9875000,Moratuwa,119800,1500,2017,Hybrid,Honda Grace
+8790000,Kalmunai,59000,1000,2019,Petrol,Toyota Vitz
+8550000,Kalmunai,68000,1000,2019,Petrol,Toyota Vitz
+8995000,Alutgama,0,1500,2013,Hybrid,Toyota Prius
+12100000,Ambalangoda,198000,1500,2017,Hybrid,Toyota Axio
+1700000,Ratmalana,0,800,2002,Petrol,Suzuki Alto
+21500000,Balapitiya,20000,1000,2023,Petrol,Audi A3
+4790000,Kadawatha,56000,1000,2015,Petrol,Suzuki Celerio
+5475000,Kadawatha,106000,1000,2016,Petrol,Perodua Axia
+5275000,Kadawatha,115000,1000,2016,Petrol,Suzuki Celerio
+4325000,Mawathagama,145000,760,2007,Petrol,Suzuki Swift
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6000000,Pujapitiya,80000,700,2016,Petrol,Suzuki Spacia
+5500000,Kegalle,71000,760,2017,Petrol,Toyota Passo
+5400000,Angoda,140000,660,2016,Petrol,Mazda Flair
+6350000,Dehiwala,151000,1300,2008,Petrol,Toyota Belta
+6200000,Ratnapura,105000,650,2018,Petrol,Suzuki Wagon R
+6950000,Medawachchiya,178700,1490,2007,Hybrid,Toyota Prius
+10700000,Gampaha,52000,1490,2015,Petrol,Toyota Axio
+5480000,Pelmadulla,180000,1300,2009,Petrol,Mazda Demio
+3250000,Boralesgamuwa,105000,1490,2000,Petrol,Toyota Corolla
+12950000,Borella (Colombo 08),200000,1500,2015,Petrol,Toyota Premio
+4200000,Colombo Fort (Colombo 01),130000,960,2015,Petrol,Suzuki Celerio
+5325000,Kadawatha,58000,1000,2017,Petrol,Suzuki Celerio
+5825000,Kadawatha,83000,1000,2017,Petrol,Perodua Axia
+4675000,Kadawatha,103000,1000,2014,Petrol,Suzuki Celerio
+10500000,Gampaha,120000,1490,2013,Petrol,Toyota Allion
+6700000,Kurunegala,88000,760,2018,Hybrid,Suzuki Wagon R
+10300000,Kandy,110000,1490,2013,Petrol,Toyota Allion
+3000000,Chilaw,0,1500,1994,Petrol,Nissan Sunny
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+4290000,Matara,110000,960,2011,Petrol,Perodua Viva
+3050000,Kurunegala,0,800,2010,Petrol,Suzuki Maruti
+5500000,Anuradhapura,0,1500,2004,Petrol,Toyota Vios
+7750000,Nugegoda,1850,650,2024,Hybrid,Suzuki Wagon R
+5500000,Anuradhapura,0,1500,2008,Petrol,Toyota Carina
+4100000,Malgalla Talangalla,95600,800,2015,Petrol,Suzuki Alto
+3450000,Bemmulla,200000,1300,2001,Petrol,Nissan AD Wagon
+7700000,Matara,8000,650,2023,Hybrid,Suzuki Wagon R
+2250000,Veyangoda,210000,1500,2001,Petrol,Hyundai Accent
+1520000,Giriulla,95500,800,2005,Petrol,Chery QQ
+5675000,Negombo,55000,960,2018,Petrol,Toyota Pixis
+5900000,Monaragala,138000,960,2015,Petrol,Suzuki Spacia
+6850000,Moratuwa,120000,1490,2013,Petrol,Toyota Yaris
+6075000,Homagama,141000,960,2013,Petrol,Toyota Vitz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5800000,Colombo Fort (Colombo 01),172000,1600,2005,Petrol,Honda Civic
+8175000,Kandy,134000,1490,2015,Hybrid,Toyota Aqua
+7950000,Kotte,76500,1000,2023,Petrol,Toyota Yaris
+6385000,Attanagalla,88600,650,2017,Hybrid,Suzuki Wagon R
+4100000,Mirigama,194000,1600,2003,Petrol,Nissan Sunny
+3540000,Mulleriyawa New Town,122000,1061,2007,Petrol,Suzuki Wagon R
+7175000,Wellampitiya,76000,650,2018,Petrol,Suzuki Wagon R
+4700000,Yatiyantota,156000,760,2004,Petrol,Suzuki Swift
+2400000,Kadawatha,197000,760,2004,Petrol,Hyundai Santro
+9500000,Peradeniya,30500,1000,2018,Petrol,Toyota Vitz
+2175000,Divulapitiya,131200,800,2007,Petrol,Suzuki Maruti
+7550000,Wellampitiya,52000,1000,2017,Petrol,Daihatsu Boon
+7050000,Maharagama,101000,1490,2012,Hybrid,Toyota Aqua
+5490000,Kesbewa,107000,1300,2007,Petrol,Toyota Vitz
+8400000,Kalutara,200000,1780,2009,Hybrid,Toyota Prius
+7800000,Athurugiriya,128000,960,2015,Petrol,Toyota Vitz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+4375000,Hanwella,275000,1500,1999,Petrol,Toyota Corolla
+3700000,Kegalle,140000,1800,2001,Petrol,Nissan Primera
+3650000,Piliyandala,95000,0,2002,Petrol,Suzuki Maruti
+3795000,Maharagama,180000,880,2015,Petrol,Suzuki Alto
+1750000,Pilimatalawa,0,800,2010,Petrol,Suzuki Maruti
+8950000,Kandy,118000,1500,2010,Petrol,Toyota Premio
+4000000,Narahenpita (Colombo 05),135000,1300,1997,Petrol,Mitsubishi Lancer
+3700000,Medirigiriya,96000,796,2015,Petrol,Suzuki Alto
+6490000,Kadawatha,180000,998,2017,Petrol,Suzuki Wagon R
+9850000,Panadura,140000,1798,2013,Petrol,Toyota Prius
+4100000,Dehiwala,38400,1300,2016,Petrol,Micro Panda Cross
+7300000,Kandy,87565,1000,2016,Petrol,Toyota Vitz
+5650000,Panadura,91000,650,2010,Petrol,Toyota Vitz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8225000,Panadura,10000,650,2025,Hybrid,Mazda Flair
+9500000,Panadura,0,650,2024,Hybrid,Suzuki Spacia
+3600000,Panadura,53842,1000,2016,Petrol,Renault KWID
+2950000,Kadawatha,133000,660,2010,Petrol,Suzuki Alto
+10750000,Wattala,0,1000,2025,Petrol,Toyota Yaris
+9600000,Kurunegala,300,650,2024,Hybrid,Suzuki Spacia
+9600000,Kurunegala,200,650,2024,Hybrid,Suzuki Spacia
+3900000,Anuradhapura,22000,1500,2001,Petrol,Honda City
+8100000,Kotawehera,150000,1300,2015,Petrol,Toyota Aqua
+7500000,Hinatiyana Madawala,0,1300,2016,Petrol,Toyota Aqua
+7500000,Negombo,120000,1500,2014,Petrol,Toyota Aqua
+4000000,Kuliyapitiya,95000,800,2014,Petrol,Suzuki Alto
+5400000,Matara,141000,1200,2014,Petrol,Tata Indica
+8200000,Narammala,350,658,2025,Hybrid,Nissan Dayz
+9600000,Kurunegala,200,650,2024,Hybrid,Suzuki Spacia
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6300000,Minuwangoda,2000,658,2024,Petrol,Daihatsu Mira
+9600000,Kurunegala,0,650,2024,Hybrid,Suzuki Spacia
+5200000,Tangalla,205000,650,2014,Petrol,Suzuki Wagon R
+1375000,Kuruwita,0,1400,1980,Petrol,Mitsubishi Lancer
+8700000,Horana,1500,1500,2013,Petrol,Toyota Axio
+5600000,Anuradhapura,115000,16000,2003,Petrol,Mitsubishi Lancer
+7900000,Gampaha,110000,990,2017,Petrol,Toyota Vitz
+4500000,Anuradhapura,0,800,2016,Petrol,Suzuki Alto
+5500000,Mawathagama,180000,1496,2005,Petrol,Toyota Vios
+7050000,Delgoda,81000,990,2016,Petrol,Toyota Vitz
+2100000,Dehiowita,45000,796,2006,Petrol,Suzuki Maruti
+6400000,Panadura,175000,1500,2007,Petrol,Nissan Bluebird
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8100000,Kandy,134000,1300,2015,Petrol,Toyota Aqua
+7200000,Welpalla,0,990,2016,Petrol,Toyota Vitz
+6900000,Angoda,0,800,2018,Petrol,Suzuki Wagon R
+8500000,Boralesgamuwa,241000,1790,2010,Hybrid,Toyota Prius
+31900000,Kotahena (Colombo 13),0,82,2024,Electric,Tesla Model 3
+3275000,Matale,200000,1500,1996,Petrol,Nissan FB 14
+6550000,Ja-Ela,64000,660,2017,Petrol,Nissan Dayz
+4650000,Ragama,114000,1500,2015,Petrol,Suzuki Celerio
+8000000,Rajagiriya,18326,660,2024,Hybrid,Suzuki Hustler
+4250000,Dankotuwa,13000,2198,2003,Diesel,Nissan FB 15
+8350000,Borella (Colombo 08),0,1000,2024,Petrol,Daihatsu Taft
+9300000,Rajagiriya,9900,660,2024,Petrol,Daihatsu Taft
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5650000,Negombo,99300,650,2017,Petrol,Daihatsu Mira
+9500000,Kegalle,180000,1200,2013,Hybrid,Toyota Allion
+5100000,Moratuwa,97500,996,2015,Petrol,Suzuki Celerio
+4100000,Kandana,68000,990,2018,Hybrid,Toyota Vitz
+7650000,Kandy,55000,1500,2017,Petrol,Toyota Vitz
+3280000,Avissawella,140000,650,2014,Petrol,Suzuki Alto
+5200000,Mirigama,106000,0,2017,Petrol,Suzuki Alto
+3485000,Anuradhapura,132000,800,2015,Petrol,Suzuki Alto
+3685000,Gampaha,127800,1000,2011,Petrol,Perodua Viva
+4390000,Panadura,192000,1800,2001,Petrol,Honda Accord
+7650000,Kurunegala,133000,1500,2011,Petrol,Toyota Axio
+2040000,Divulapitiya,112000,800,2006,Petrol,Suzuki Maruti
+6800000,Rajagiriya,10000,660,2023,Petrol,Mitsubishi eK
+5350000,Gampaha,86000,650,2016,Petrol,Suzuki Wagon R
+8050000,Kottawa,6600,660,2023,Petrol,Toyota Passo
+8750000,Negombo,1000,658,2025,Petrol,Nissan Dayz
+8750000,Negombo,100,658,2024,Petrol,Honda N WGN
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+15200000,Alutwewa,53995,1500,2018,Petrol,Toyota Premio
+9500000,Dompe,107000,1500,2015,Hybrid,Toyota Axio
+8500000,Borella (Colombo 08),0,650,2024,Petrol,Suzuki Wagon R
+9000000,Matara,120000,1600,2017,Petrol,Honda Grace
+7700000,Angoda,100,660,2023,Petrol,Daihatsu Taft
+8450000,Angoda,100,658,2023,Petrol,Suzuki Spacia
+7950000,Nugegoda,0,658,2024,Petrol,Suzuki Spacia
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7550000,Kottawa,1234,658,2023,Petrol,Honda N BOX
+16500000,Colombo Fort (Colombo 01),134000,1997,2012,Petrol,BMW 5 Series
+7150000,Veyangoda,13700,650,2024,Petrol,Suzuki Wagon R
+3900000,Matale,150000,1200,2011,Petrol,Chevrolet Aveo
+7000000,Matale,160000,1500,2012,Petrol,Nissan Tiida
+6850000,Rajagiriya,0,660,2024,Petrol,Suzuki Alto
+4000000,Maharagama,0,1500,2004,Petrol,Nissan N 16
+8100000,Kottawa,1234,660,2023,Petrol,Toyota Passo
+9600000,Borella (Colombo 08),11700,1000,2023,Petrol,Daihatsu Thor
+9800000,Adampan,21000,1000,2022,Petrol,Daihatsu Thor
+1685000,Kuruwita,1000,1300,1986,Petrol,Toyota Corolla
+8300000,Rajagiriya,2500,659,2024,Petrol,Nissan Dayz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7250000,Kottawa,6600,660,2023,Petrol,Nissan Dayz
+7450000,Dehiwala,152000,1500,2014,Petrol,Toyota Aqua
+8100000,Kottawa,6600,660,2023,Petrol,Toyota Passo
+2490000,Dankotuwa,75000,1300,2012,Petrol,Geely Panda
+5250000,Akarawita,106900,650,2015,Petrol,Suzuki Wagon R
+4350000,Nawala,97000,1000,2015,Petrol,Suzuki Celerio
+2200000,Piliyandala,225000,1300,2005,Petrol,Proton Wira
+7100000,Adampan,1490,1490,2014,Hybrid,Toyota Aqua
+6250000,Nugegoda,93000,660,2015,Petrol,Suzuki Spacia
+12000000,Rajagiriya,104500,1500,2017,Petrol,Toyota Axio
+4600000,Kochchikade,246000,2000,2009,Petrol,KIA Optima
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6950000,Kandy,118000,1500,2013,Petrol,Honda Fit
+4575000,Colombo Fort (Colombo 01),138000,1000,2013,Petrol,Perodua Viva
+9500000,Nugegoda,134000,1800,2014,Hybrid,Toyota Prius
+7000000,Yakkala,158000,1490,2008,Petrol,Toyota Corolla
+21500000,Kirulapone,98000,3000,2010,Petrol,Mercedes Benz S Class
+8300000,Kandana,0,1200,2023,Petrol,Toyota Yaris
+3600000,Akarawita,95000,650,2015,Petrol,Suzuki Alto
+6375000,Gampaha,35,650,2025,Petrol,Suzuki Alto
+5100000,Adampan,217000,1400,2011,Petrol,Ford Fiesta
+7600000,Adampan,132000,1490,2013,Hybrid,Toyota Aqua
+6550000,Kurunegala,94000,650,2018,Petrol,Suzuki Wagon R
+5775000,Rajagiriya,115500,660,2017,Petrol,Nissan Dayz
+3990000,Adampan,150000,1000,2011,Petrol,Suzuki Estilo
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6875000,Kirillawala,180000,1496,2007,Petrol,Toyota Axio
+4200000,Kirulapone,134000,1000,2004,Petrol,Suzuki Swift
+4800000,Dehiwala,174500,0,1998,Petrol,BMW 5 Series
+6100000,Kandy,112450,1000,2013,Petrol,Toyota Vitz
+6900000,Ratmalana,0,660,2024,Petrol,Daihatsu Mira
+12990000,Panadura,117000,1800,2016,Hybrid,Toyota Prius
+8950000,Horana,142000,1800,2012,Hybrid,Toyota Prius
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8990000,Kandy,118000,1500,2010,Petrol,Toyota Premio
+6000000,Negombo,160000,0,2017,Petrol,Suzuki Wagon R
+4000000,Nittambuwa,142000,1430,2004,Petrol,Chevrolet Cruze
+32500000,Kohuwala,18000,2000,2018,Petrol,Mercedes Benz E Class
+2900000,Kadawatha,225000,1000,1999,Petrol,Nissan March
+7800000,Baddegama,150000,1496,2015,Hybrid,Toyota Aqua
+6400000,Malabe,290,1497,2012,Hybrid,Toyota Aqua
+6900000,Negombo,5000,660,2023,Petrol,Daihatsu Mira
+5690000,Malabe,112630,1000,2009,Petrol,Toyota Vitz
+8750000,Mawathagama,3000,658,2024,Petrol,Suzuki Hustler
+6375000,Kirillawala,60000,996,2017,Petrol,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+36500000,Kohuwala,45000,2000,2017,Petrol,BMW 7 Series
+43500000,Kohuwala,18000,2000,2017,Petrol,BMW 740Le
+6975000,Pannala,72000,650,2018,Petrol,Suzuki Wagon R
+1990000,Minuwangoda,84585,800,2006,Petrol,Suzuki Maruti
+17350000,Gampaha,3150,1500,2023,Petrol,Toyota Corolla
+13000000,Homagama,93000,1490,2019,Hybrid,Toyota Corolla
+6650000,Kandy,96000,650,2018,Petrol,Suzuki Wagon R
+13700000,Moratuwa,107000,1797,2010,Petrol,Mercedes Benz E200
+9550000,Gampaha,11500,1200,2024,Petrol,Toyota Yaris
+9350000,Gampaha,0,660,2025,Petrol,Suzuki Wagon R
+10500000,Moratuwa,163000,1800,2008,Petrol,Mercedes Benz C200
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7650000,Yakkala,2000,650,2024,Petrol,Suzuki Wagon R
+7750000,Yakkala,1300,650,2025,Petrol,Suzuki Wagon R
+8900000,Bambalapitiya (Colombo 04),141800,1500,2015,Hybrid,Honda Grace
+7150000,Horana,75000,650,2018,Hybrid,Suzuki Wagon R
+6590000,Nittambuwa,0,650,2024,Petrol,Daihatsu Mira
+3900000,Dehiwala,68000,1300,2003,Petrol,Suzuki Swift
+3350000,Minuwangoda,180000,2000,1999,Petrol,Mitsubishi Galant
+3700000,Watinapaha,64384,1000,2011,Petrol,Maruti Estilo
+9720000,Horana,0,1000,2023,Petrol,Toyota Yaris
+7500000,Negombo,0,650,2024,Petrol,Suzuki Wagon R
+6790000,Nittambuwa,112000,1490,2012,Hybrid,Toyota Aqua
+8390000,Nittambuwa,0,650,2025,Hybrid,Suzuki Wagon R
+780000,Matugama,256897,1300,1983,Petrol,Nissan B11
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+4575000,Kadawatha,150000,996,2016,Petrol,Suzuki Celerio
+7900000,Kelaniya,0,999,2024,Petrol,Suzuki Hustler
+7850000,Kotte,76000,1000,2023,Petrol,Toyota Yaris
+6800000,Panadura,151000,1500,2003,Petrol,Toyota Allion
+9650000,Ratmalana,83000,1240,2018,Hybrid,Suzuki Swift
+4000000,Kotikawatta,139896,1299,2002,Petrol,Nissan Sunny
+1275000,Pilimatalawa,0,1300,1999,Petrol,Peugeot 306
+7500000,Negombo,1700,650,2024,Petrol,Suzuki Wagon R
+7500000,Negombo,1700,650,2024,Petrol,Suzuki Wagon R
+7500000,Negombo,650,650,2024,Petrol,Suzuki Wagon R
+6500000,Rajagiriya,200000,1600,2007,Petrol,Toyota Corolla
+12000000,Ja-Ela,105000,1000,2018,Petrol,Honda Civic
+7450000,Gampaha,11895,650,2023,Petrol,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+11200000,Alutgama,95000,1000,2018,Petrol,Honda Civic
+9400000,Kelaniya,0,999,2024,Petrol,Toyota Yaris
+10700000,Kelaniya,0,999,2024,Petrol,Toyota Yaris
+6200000,Ja-Ela,231000,1500,2003,Petrol,Toyota Corolla
+2250000,Narahenpita (Colombo 05),155000,1500,2001,Petrol,KIA Rio
+6375000,Katunayake,90000,650,2018,Petrol,Suzuki Wagon R
+2085000,Nugegoda,120000,800,2006,Petrol,Suzuki Maruti
+8650000,Sainthamaruthu,81700,1000,2019,Petrol,Toyota Vitz
+5375000,Matara,80000,650,2015,Petrol,Suzuki Wagon R
+5500000,Maharagama,132500,1300,2009,Petrol,Suzuki Swift
+6500000,Rajagiriya,200000,1600,2007,Petrol,Toyota Corolla
+7350000,Kandy,110000,1600,2008,Petrol,Toyota Corolla
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7700000,Mawanella,21500,1000,2016,Petrol,Toyota Vitz
+7290000,Ambalangoda,8000,650,2024,Petrol,Suzuki Wagon R
+6850000,Embilipitiya,104045,1333,2009,Hybrid,Honda Insight
+18300000,Ratmalana,120000,2143,2015,Diesel,Mercedes Benz E Class
+8050000,Homagama,0,660,2024,Petrol,Daihatsu Taft
+3290000,Panadura,53000,1200,2013,Petrol,Geely Panda
+9100000,Dehiwala,0,1200,2024,Petrol,Nissan Roox
+6200000,Nittambuwa,1200,650,2024,Hybrid,Suzuki Alto
+3500000,Batticaloa,68000,800,2015,Petrol,Suzuki Alto
+6200000,Nittambuwa,1200,650,2024,Hybrid,Suzuki Alto
+2300000,Embilipitiya,182000,1970,1994,Diesel,Toyota Corolla
+7250000,Anuradhapura,220000,1500,2007,Petrol,Toyota Axio
+3450000,Nuwara Eliya,97000,1295,2000,Petrol,Toyota Corolla
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5000000,Boralesgamuwa,181000,1500,2008,Petrol,Nissan Tiida
+3800000,Ja-Ela,89000,800,2018,Petrol,Renault KWID
+7700000,Kalutara,76000,1000,2017,Petrol,Suzuki Swift
+6275000,Kadawatha,125000,1500,2004,Petrol,Toyota Corolla
+6375000,Madurankuliya,115000,650,2018,Petrol,Suzuki Wagon R
+6290000,Kohuwala,42000,1000,2017,Petrol,Toyota Wigo
+3600000,Ambalangoda,60231,1000,2011,Petrol,Suzuki Alto
+3775000,Kadawatha,50000,800,2015,Petrol,Suzuki Alto
+4200000,Borella (Colombo 08),143000,1200,2011,Petrol,Suzuki Swift
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+9900000,Mount Lavinia,186000,1500,2015,Hybrid,Toyota Axio
+6650000,Kandy,88000,650,2018,Petrol,Suzuki Wagon R
+8975000,Moratuwa,123,123,2015,Hybrid,Honda Fit
+4500000,Ganemulla,125250,1300,2003,Petrol,Suzuki Swift
+2150000,Homagama,92000,800,2007,Petrol,Suzuki Maruti
+4625000,Nugegoda,73428,998,2015,Petrol,Suzuki Celerio
+22500000,Wellampitiya,38000,2000,2019,Petrol,Mercedes Benz C200
+6700000,Gampaha,177000,1600,2008,Petrol,Toyota Corolla
+8900000,Gampaha,182000,1490,2012,Petrol,Toyota Allion
+5500000,Negombo,142000,2000,1994,Petrol,Subaru Legacy
+8200000,Pasyala,1500,650,2023,Petrol,Nissan Dayz
+18000000,Dehiwala,150000,3500,2005,Petrol,Mercedes Benz S Class
+3900000,Nugegoda,72000,800,2015,Petrol,Suzuki Alto
+2675000,Horana,170000,1000,1995,Petrol,Nissan March
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7400000,Athurugiriya,180000,1200,2013,Petrol,Toyota Aqua
+7800000,Kadawatha,143000,1000,2015,Petrol,Honda Fit
+6900000,Yakkala,108000,1000,2012,Hybrid,Toyota Aqua
+5995000,Gampaha,78000,658,2016,Petrol,Daihatsu Move
+4475000,Kadawatha,1000,1000,2014,Petrol,Suzuki Celerio
+3800000,Elpitiya,150000,1500,2000,Petrol,Nissan FB 15
+8675000,Kelaniya,146038,1490,2007,Petrol,Toyota Premio
+3625000,Uswetakeiyawa,123400,998,2011,Petrol,Suzuki A Star
+8350000,Kollupitiya (Colombo 03),155000,1300,2010,Petrol,Toyota Allion
+8900000,Kohuwala,0,650,2025,Petrol,Suzuki Wagon R
+12000000,Attanagalla,116500,1490,2018,Hybrid,Toyota Axio
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+1300000,Pilimatalawa,0,990,1987,Petrol,Daihatsu Charade
+9800000,Kelaniya,8500,1000,2023,Petrol,Toyota Yaris
+10200000,Kelaniya,0,1000,2025,Petrol,Toyota Yaris
+2095000,Pilimatalawa,0,800,2006,Petrol,Suzuki Maruti
+10000000,Kelaniya,0,1000,2025,Petrol,Toyota Yaris
+9800000,Kelaniya,4500,1000,2024,Petrol,Toyota Yaris
+9700000,Kelaniya,6500,1000,2023,Petrol,Toyota Yaris
+3975000,Thalapathpitiya,1500,1490,2001,Petrol,Nissan Sunny
+10200000,Slave Island (Colombo 02),180000,1469,2017,Petrol,Toyota Axio
+16100000,Dehiwala,63000,1500,2018,Petrol,Toyota Premio
+675000,Pilimatalawa,0,1400,1987,Petrol,Mitsubishi Lancer
+7300000,Narammala,0,650,2024,Petrol,Suzuki Wagon R
+2550000,Maradana (Colombo 10),120500,1300,2012,Petrol,Micro Panda
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7550000,Nittambuwa,152000,1500,2013,Hybrid,Toyota Aqua
+3200000,Eppawala,97291,800,2012,Petrol,Suzuki Alto
+2500000,Pilimatalawa,0,1200,1996,Diesel,Toyota Corolla
+8500000,Wellampitiya,2400,660,2025,Hybrid,Suzuki Wagon R
+7950000,Maspotha,0,1000,2025,Petrol,Toyota Passo
+4300000,Moratuwa,165000,1300,2004,Petrol,Suzuki Swift
+7450000,Welimada,22,650,2018,Hybrid,Suzuki Wagon R
+8750000,Nugegoda,200000,1800,2012,Hybrid,Toyota Prius
+4300000,Moratuwa,165000,1300,2004,Petrol,Suzuki Swift
+3700000,Beruwala,138000,800,2016,Petrol,Suzuki Alto
+3800000,Kalmunai,98000,800,2015,Petrol,Suzuki Alto
+8900000,Kelaniya,0,660,2025,Hybrid,Suzuki Wagon R
+9000000,Kottawa,81000,1500,2012,Petrol,Toyota Axio
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+2375000,Kandy,0,800,2011,Petrol,Suzuki Maruti
+4500000,Kandy,0,1000,2013,Petrol,Perodua Viva
+2275000,Kandy,0,800,2011,Petrol,Suzuki Maruti
+3390000,Mirigama,142560,1500,2013,Petrol,Suzuki Alto
+3695000,Kottawa,104255,800,2015,Petrol,Suzuki Alto
+6800000,Kandy,0,650,2016,Petrol,Daihatsu Cast
+7950000,Kandy,58000,996,2018,Petrol,Toyota Vitz
+6050000,Dehiwala,145000,1000,2015,Petrol,Toyota Passo
+14000000,Hokandara,138000,1800,2016,Petrol,Toyota Prius
+5270000,Pepiliyana,224000,1490,2004,Petrol,Toyota Vios
+6540000,Anuradhapura,525,660,2025,Petrol,Daihatsu Mira
+1460000,Moratuwa,253000,2000,1992,Diesel,Mitsubishi Lancer
+8700000,Kegalle,0,1490,2015,Hybrid,Honda Grace
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+12500000,Boralesgamuwa,125000,1500,2018,Hybrid,Toyota Axio
+4150000,Kotahena (Colombo 13),122000,1000,2015,Petrol,Suzuki Alto
+7250000,Kegalle,88000,1500,2013,Petrol,Toyota Aqua
+6200000,Akurana,240300,1200,2006,Petrol,Honda Airwave
+4700000,Kuliyapitiya,0,1300,2008,Petrol,Suzuki Swift
+3750000,Vavuniya,85000,800,2015,Petrol,Suzuki Alto
+5750000,Piliyandala,137000,998,2017,Petrol,Perodua Axia
+6750000,Hokandara,210000,1500,2008,Hybrid,Toyota Prius
+5875000,Malabe,119000,650,2017,Hybrid,Suzuki Wagon R
+8390000,Malabe,115000,1500,2015,Hybrid,Toyota Aqua
+7850000,Dehiwala,78000,1000,2017,Petrol,Suzuki Swift
+4000000,Dehiwala,170000,1300,2006,Petrol,Suzuki Swift
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+12500000,Padukka,26700,1000,2017,Petrol,Honda Civic
+5750000,Piliyandala,163000,1500,2006,Petrol,Toyota Corolla
+5650000,Negombo,142000,1000,2009,Petrol,Toyota Vitz
+12300000,Kohuwala,0,1500,2024,Petrol,Suzuki Swift
+6795000,Kohuwala,74000,1000,2018,Petrol,Suzuki Wagon R
+9400000,Kohuwala,0,650,2024,Petrol,Suzuki Spacia
+3850000,Ratmalana,175000,998,2010,Petrol,Suzuki Estilo
+5450000,Kandy,181000,1500,2005,Petrol,Toyota Vios
+3550000,Batticaloa,117000,800,2015,Petrol,Suzuki Alto
+3350000,Hanwella,245588,1330,1993,Petrol,Toyota Starlet
+4500000,Batticaloa,24500,814,2016,Petrol,Hyundai Eon
+5200000,Makandura,102500,1000,2015,Petrol,Suzuki Celerio
+7150000,Kuliyapitiya,77000,1000,2016,Petrol,Toyota Vitz
+5150000,Borella (Colombo 08),188000,1000,2007,Petrol,Toyota Vitz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+4850000,Narahenpita (Colombo 05),170000,1300,2002,Petrol,Toyota Corolla
+7125000,Kiribathgoda,6900,660,2023,Petrol,Nissan Dayz
+5825000,Kadawatha,48000,1000,2018,Petrol,Suzuki Celerio
+4975000,Kadawatha,96000,1000,2016,Petrol,Suzuki Celerio
+5790000,Kadawatha,78000,1000,2019,Petrol,Suzuki Celerio
+7250000,Rambukkana,3180,660,2023,Petrol,Suzuki Wagon R
+5650000,Kirillawala,110000,660,2017,Petrol,Suzuki Wagon R
+7400000,Dehiwala,5000,660,2024,Petrol,Suzuki Wagon R
+5075000,Pepiliyana,180000,1000,2007,Petrol,Toyota Vitz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5500000,Pepiliyana,90000,650,2017,Petrol,Daihatsu Move
+2850000,Pepiliyana,0,1300,2001,Petrol,Hyundai Accent
+4675000,Kirillawala,146000,996,2007,Petrol,Toyota Passo
+7550000,Kirillawala,177000,1496,2010,Petrol,Toyota Axio
+4755000,Panadura,0,998,2016,Petrol,Suzuki Wagon R
+2800000,Akuressa,0,650,2011,Petrol,Suzuki Maruti
+4800000,Veyangoda,120000,1350,1998,Petrol,Mazda Familia
+6000000,Pita Kotte,75000,1000,2008,Petrol,Toyota Vitz
+3700000,Nugegoda,180000,1300,2000,Petrol,Suzuki Swift
+6200000,Madampe,74500,998,2017,Petrol,KIA Picanto
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+3790000,Athurugiriya,97942,800,2015,Petrol,Suzuki Alto
+6800000,Kadawatha,130000,990,2017,Petrol,Toyota Vitz
+850000,Narammala,20000,1300,1981,Petrol,Nissan B310
+3000000,Kottawa,145000,990,2001,Petrol,Nissan March
+8150000,Gampaha,110000,1800,2010,Hybrid,Toyota Prius
+5500000,Peradeniya,120000,1600,2008,Petrol,Honda Civic
+690000,Negombo,100000,1200,1966,Petrol,Volkswagen Beetle
+7190000,Colombo Fort (Colombo 01),3400,660,2024,Petrol,Suzuki Wagon R
+7190000,Colombo Fort (Colombo 01),2800,660,2024,Petrol,Nissan Dayz
+8800000,Nawala,97350,1500,2015,Hybrid,Honda Grace
+7500000,Biyagama,211000,1500,2011,Petrol,Toyota Prius
+12450000,Piliyandala,190000,1490,2015,Petrol,Toyota Premio
+3100000,Negombo,170000,1000,2012,Petrol,Suzuki Alto
+3600000,Gampaha,125000,800,2014,Petrol,Suzuki Alto
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+3390000,Colombo Fort (Colombo 01),110000,800,2014,Petrol,Suzuki Alto
+4500000,Battaramulla,66800,1000,2018,Petrol,Micro Panda Cross
+3590000,Anamaduwa,92000,800,2015,Petrol,Suzuki Alto
+2875000,Pasyala,184000,796,2009,Petrol,Suzuki Alto
+4800000,Akarawita,122000,1000,2015,Petrol,Suzuki Celerio
+3750000,Nittambuwa,60000,800,2015,Petrol,Suzuki Alto
+5275000,Bandaragama,106900,650,2015,Petrol,Suzuki Wagon R
+5850000,Kuliyapitiya,165000,1500,1999,Petrol,Toyota Carina
+5475000,Kotikawatta,110000,1000,2017,Petrol,Suzuki Celerio
+2400000,Kuliyapitiya,195000,1500,1992,Petrol,Nissan FB 13
+5650000,Piliyandala,189000,1300,2008,Petrol,Toyota Yaris
+11580000,Narammala,136000,1500,2014,Petrol,Toyota Premio
+5425000,Kadawatha,86000,1000,2016,Petrol,Perodua Axia
+5790000,Kadawatha,78000,1000,2018,Petrol,Suzuki Celerio
+5475000,Polonnaruwa,120000,650,2014,Petrol,Suzuki Wagon R
+2550000,Horana,0,1000,2013,Petrol,Micro Panda
+15000000,Balapitiya,20000,1500,2023,Hybrid,Toyota Aqua
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+2700000,Kurunegala,0,800,2001,Petrol,Suzuki Alto
+3300000,Kurunegala,1200,1500,1994,Petrol,Nissan Sunny
+5990000,Ambalangoda,91000,1300,2008,Petrol,Mitsubishi Lancer
+2800000,Kolonnawa,150000,1300,2012,Petrol,Micro Panda
+1650000,Elpitiya,28500,800,2000,Petrol,Suzuki Maruti
+3750000,Ekala,78625,800,2015,Petrol,Suzuki Alto
+2850000,Athurugiriya,129000,1100,2003,Petrol,Suzuki Wagon R
+8800000,Polonnaruwa,0,650,2025,Hybrid,Suzuki Wagon R
+4500000,Bibile,0,1500,2002,Diesel,Nissan Sunny
+5250000,Panadura,120000,1000,2007,Petrol,Toyota Vitz
+3877000,Alutgama,137000,1500,2001,Petrol,Honda City
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7600000,Wattala,0,660,2024,Petrol,Daihatsu Taft
+7250000,Nikaweratiya,0,1200,2007,Petrol,Toyota Axio
+3475000,Piliyandala,68700,1500,2012,Petrol,Micro MX7
+3000000,Avissawella,131000,800,2011,Petrol,Suzuki Alto
+9600000,Kaduwela,0,1000,2024,Petrol,Toyota Yaris
+2850000,Ratmalana,160000,1000,2000,Petrol,Nissan March
+5995000,Gampaha,78000,658,2016,Petrol,Daihatsu Move
+48900000,Maradana (Colombo 10),0,1500,2025,Hybrid,Mercedes Benz C200
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7150000,Kottawa,6600,660,2024,Petrol,Nissan Dayz
+7995000,Rajagiriya,100000,660,2023,Hybrid,Mitsubishi eK
+5975000,Wellampitiya,150000,990,2007,Petrol,Toyota Belta
+8100000,Kottawa,6600,660,2023,Petrol,Toyota Passo
+9300000,Athurugiriya,195000,1460,2010,Petrol,Toyota Allion
+7150000,Maharagama,30000,1498,2008,Petrol,Toyota Corolla
+7050000,Kottawa,1000,660,2024,Petrol,Mitsubishi eK
+6975000,Kottawa,6600,660,2023,Petrol,Mitsubishi eK
+6900000,Polonnaruwa,135000,990,2016,Petrol,Toyota Vitz
+7650000,Panadura,125000,1000,2017,Petrol,Suzuki Swift
+5990000,Maharagama,24000,1242,2010,Petrol,Suzuki Swift
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+2800000,Matale,120000,1200,2015,Petrol,Tata Indica
+3900000,Maharagama,96000,800,2015,Petrol,Suzuki Alto
+3500000,Godakawela,103000,796,2015,Petrol,Suzuki Alto
+8100000,Nugegoda,161000,1490,2012,Petrol,Toyota Axio
+2850000,Kuruwita,200000,1500,1993,Petrol,Mitsubishi Lancer
+12600000,Yakkala,95000,1500,2018,Hybrid,Honda Shuttle
+6385000,Dehiwala,131000,660,2016,Petrol,Suzuki Spacia
+7650000,Yakkala,2700,650,2025,Petrol,Suzuki Wagon R
+6790000,Yakkala,68000,650,2018,Hybrid,Suzuki Wagon R
+8900000,Panadura,121000,1500,2010,Petrol,Toyota Allion
+7500000,Marawila,42000,1000,2017,Petrol,Toyota Vitz
+8900000,Kandy,0,658,2023,Petrol,Honda N BOX
+7600000,Kandy,0,1496,2005,Petrol,Toyota Premio
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6800000,Kandy,0,659,2016,Petrol,Nissan Roox
+5800000,Badulla,163000,1300,2007,Petrol,Toyota Vitz
+3400000,Galle,224000,800,2015,Petrol,Suzuki Alto
+10500000,Negombo,18000,1000,2023,Petrol,Toyota Roomy
+8900000,Akarawita,150000,1490,2010,Petrol,Toyota Allion
+18500000,Kohuwala,0,1500,2025,Hybrid,Toyota Yaris Ativ
+37500000,Kohuwala,90000,3000,2014,Petrol,Mercedes Benz S Class
+13350000,Kohuwala,0,1000,2025,Petrol,Nissan Almera
+13400000,Kohuwala,0,1000,2025,Petrol,Nissan Almera
+390000,Negombo,100000,1400,1972,Petrol,Mitsubishi Lancer
+17500000,Kohuwala,70000,2000,2015,Diesel,Mercedes Benz E Class
+2950000,Ragama,149000,1000,2002,Petrol,Nissan March
+3500000,Piliyandala,0,2000,1997,Diesel,Toyota Corolla
+4800000,Anuradhapura,154000,1500,2002,Petrol,Nissan FB 15
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+2550000,Anuradhapura,120000,1650,1995,Petrol,Toyota Corona
+4400000,Dompe,167320,1000,2011,Petrol,Perodua Elite
+2800000,Galle,126000,800,2010,Petrol,Suzuki Alto
+5490000,Ja-Ela,240000,1500,2007,Petrol,Nissan Tiida
+5975000,Kalubowila,59000,1000,2018,Petrol,KIA Picanto
+5750000,Kalubowila,149000,1000,2011,Petrol,Toyota Vitz
+7800000,Raddolugama,115000,1240,2017,Hybrid,Suzuki Swift
+3750000,Hanwella,110,800,2015,Petrol,Suzuki Alto
+4200000,Badulla,173000,1300,2003,Petrol,Nissan N 16
+7800000,Polonnaruwa,0,650,2024,Hybrid,Suzuki Wagon R
+5650000,Ella,1234,1500,2008,Petrol,Honda ARIA
+4675000,Kalubowila,225000,1500,2004,Petrol,Nissan Sunny
+15500000,Anuradhapura,90000,1500,2017,Hybrid,Toyota Premio
+7500000,Boralesgamuwa,93000,1000,2017,Petrol,Toyota Vitz
+4900000,Ragama,78000,1000,2016,Petrol,Suzuki Celerio
+8000000,Homagama,69000,900,2017,Petrol,Toyota Roomy
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+3525000,Ragama,115000,1000,2010,Petrol,Suzuki Estilo
+3800000,Sainthamaruthu,89000,800,2011,Petrol,Suzuki Estilo
+14500000,Dankotuwa,76000,1490,2018,Petrol,Toyota Premio
+3850000,Sainthamaruthu,125000,1490,2001,Petrol,Nissan FB 15
+3575000,Ragama,98000,1000,2012,Petrol,Suzuki Estilo
+6675000,Malabe,64000,650,2017,Hybrid,Suzuki Wagon R
+3650000,Dehiwala,302000,2000,1999,Diesel,Toyota Sprinter
+4750000,Mattakkuliya (Colombo 15),103000,1800,2015,Petrol,Micro Emgrand 7
+6800000,Kalpitiya,139000,1330,2011,Hybrid,Honda Fit
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+12500000,Nugegoda,125000,1500,2018,Hybrid,Toyota Axio
+9000000,Ja-Ela,119700,1500,2014,Petrol,Toyota Axio
+485000,Pilimatalawa,120000,1496,1973,Petrol,Mitsubishi Lancer
+5550000,Wattala,100000,650,2014,Petrol,Suzuki Wagon R
+620000,Pilimatalawa,150000,1496,1973,Petrol,Mitsubishi Lancer
+3975000,Polgolla,137000,998,2010,Petrol,Suzuki A Star
+485000,Pilimatalawa,160000,1167,1974,Petrol,Toyota Corolla
+20500000,Cinnamon Garden (Colombo 07),65000,1500,2017,Petrol,BMW M Series
+6775000,Adampan,139000,2000,2000,Diesel,BMW 3 Series
+5450000,Athurugiriya,198000,1500,2000,Petrol,Toyota Corolla
+8300000,Gampaha,149000,1995,2014,Hybrid,Subaru XV
+4800000,Nugegoda,125000,1000,2008,Petrol,Toyota Passo
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+9800000,Karapitiya,128000,1500,2014,Hybrid,Toyota Axio
+4300000,Ampitiya,241000,1300,2003,Petrol,Suzuki Swift
+2650000,Matugama,215000,1970,1996,Diesel,Nissan Sunny
+19500000,Cinnamon Garden (Colombo 07),65000,1500,2017,Petrol,BMW F30
+8300000,Matara,121000,1490,2016,Hybrid,Honda Grace
+9000000,Kalutara,96000,1490,2016,Hybrid,Honda Grace
+4975000,Ragama,158000,1500,2005,Petrol,Toyota Vios
+16300000,Anuradhapura,112000,1500,2018,Petrol,Toyota Premio
+7100000,Anuradhapura,132000,1500,2013,Hybrid,Toyota Aqua
+3180000,Battaramulla,250000,1500,1992,Petrol,Mitsubishi Lancer
+9200000,Borella (Colombo 08),22000,1000,2022,Petrol,Toyota Yaris
+5400000,Wellawatta (Colombo 06),150000,1500,2004,Petrol,Honda Civic
+6700700,Athurugiriya,170000,1300,2007,Petrol,Toyota Yaris
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7575000,Nittambuwa,0,660,2025,Petrol,Suzuki Wagon R
+3350000,Padukka,47200,800,2016,Petrol,Datsun Redi Go
+5290000,Kadawatha,92000,1000,2017,Petrol,Suzuki Celerio
+1790000,Padukka,65900,800,2007,Petrol,Chery QQ
+6525000,Mount Lavinia,175000,1490,2012,Hybrid,Toyota Aqua
+4595000,Adampan,161000,1000,2015,Petrol,Suzuki Celerio
+2890000,Malabe,235000,1300,1996,Petrol,Nissan Sunny
+2375000,Malabe,60000,800,2000,Petrol,Suzuki Maruti
+7750000,Dehiwala,158000,1500,2014,Hybrid,Toyota Aqua
+6890000,Malabe,61000,650,2018,Petrol,Suzuki Wagon R
+5790000,Kadawatha,111000,1000,2017,Petrol,Perodua Axia
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+2430000,Kahathuduwa,84000,800,2010,Petrol,Suzuki Maruti
+8000000,Ambalangoda,6500,660,2024,Hybrid,Suzuki Spacia
+4490000,Badulla,100000,1240,2002,Petrol,Nissan March
+7950000,Kandy,118000,1500,2007,Petrol,Toyota Premio
+3600000,Minuwangoda,165000,1000,1997,Petrol,Nissan March
+8990000,Kandy,118000,1500,2010,Petrol,Toyota Premio
+1850000,Wattala,265000,1300,1993,Petrol,Ford Laser
+7250000,Dekatana,116680,990,2013,Petrol,Toyota Vitz
+3550000,Peradeniya,102000,1000,2010,Petrol,Suzuki Estilo
+9000000,Negombo,0,660,2025,Petrol,Nissan Roox
+8500000,Negombo,0,660,2025,Petrol,Daihatsu Taft
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+9250000,Negombo,200,660,2025,Petrol,Nissan Roox
+6950000,Kohuwala,85000,1500,2013,Petrol,Honda Fit
+18275000,Nugegoda,1500,1000,2013,Petrol,BMW i Series
+5600000,Dehiwala,280000,1500,2002,Petrol,Honda Civic
+8890000,Kohuwala,105000,1500,2015,Petrol,Toyota Aqua
+7450000,Kelaniya,114000,1200,2013,Petrol,Toyota Aqua
+2500000,Moratuwa,0,1500,2012,Petrol,Micro Panda
+4000000,Homagama,140000,1330,1993,Petrol,Toyota Starlet
+13500000,Andiambalama,176000,1490,2016,Petrol,Toyota Premio
+7950000,Kohuwala,12400,660,2024,Hybrid,Suzuki Wagon R
+12000000,Colombo Fort (Colombo 01),69699,2488,2016,Petrol,Mazda 6
+3900000,Delgoda,119000,796,2015,Petrol,Suzuki Alto
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+4200000,Ratmalana,172000,1300,2003,Petrol,Nissan Sunny
+4250000,Kollupitiya (Colombo 03),0,1500,2005,Hybrid,Toyota Vios
+13200000,Nattandiya,86000,1500,2018,Petrol,Toyota Premio
+3495000,Panadura,150000,660,2003,Petrol,Suzuki Alto
+4190000,Galle,165810,1000,2011,Petrol,Perodua Viva
+6375000,Wennappuwa,131000,1300,2010,Petrol,Toyota Belta
+9050000,Kandy,118000,1500,2010,Petrol,Toyota Premio
+4875000,Kosgoda,185000,796,2017,Petrol,Suzuki Alto
+35800000,Kotahena (Colombo 13),0,0,2024,Electric,Mercedes Benz EQB
+4500000,Dematagoda (Colombo 09),82500,998,2015,Petrol,Suzuki Alto
+6000000,Kalmunai,98000,1300,2008,Petrol,Nissan Sunny
+5475000,Dodangaslanda,190000,1300,2006,Petrol,Toyota Corolla
+8100000,Katugastota,139000,1500,2015,Petrol,Toyota Aqua
+28000000,Katugastota,90000,2000,2017,Petrol,BMW M Series
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5700000,Hambantota,120000,650,2015,Hybrid,Suzuki Wagon R
+4290000,Ruwanwella,222000,1500,2005,Petrol,Suzuki Swift
+5000000,Galle,97000,658,2014,Petrol,Suzuki Wagon R
+2495000,Piliyandala,165000,1300,1998,Petrol,Suzuki Swift
+3590000,Nugegoda,120000,800,2015,Petrol,Suzuki Alto
+5800000,Kalmunai,134000,655,2017,Hybrid,Suzuki Wagon R
+7250000,Kottawa,6600,660,2023,Petrol,Suzuki Spacia
+8700000,Beruwala,140000,1490,2014,Petrol,Toyota Axio
+7100000,Godagama,197,1500,2008,Petrol,Toyota Axio
+6650000,Mirigama,145000,1500,2012,Petrol,Toyota Aqua
+2660000,Maharagama,240000,1500,1998,Petrol,Mitsubishi Lancer
+7575000,Kottawa,6600,660,2026,Petrol,Honda N BOX
+5300000,Anuradhapura,73000,650,2017,Petrol,Suzuki Wagon R
+7575000,Kottawa,6600,660,2023,Petrol,Nissan Roox
+6900000,Samanthurai,82000,650,2018,Petrol,Suzuki Wagon R
+7500000,Minuwangoda,166000,1000,2017,Petrol,Toyota Vitz
+8200000,Kottawa,6600,660,2023,Petrol,Toyota Passo
+8100000,Kottawa,6600,660,2023,Petrol,Toyota Passo
+2495000,Godagama,118000,1300,2011,Petrol,Micro Panda
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7950000,Bandaragama,77000,1000,2017,Petrol,Suzuki Swift
+6700000,Homagama,189000,0,2012,Petrol,Toyota Aqua
+6650000,Kollupitiya (Colombo 03),115000,650,2018,Petrol,Suzuki Wagon R
+6600000,Kiribathgoda,173000,1500,2012,Petrol,Toyota Aqua
+5790000,Kadawatha,91000,1000,2017,Petrol,Perodua Axia
+8500000,Battaramulla,200000,1500,2014,Hybrid,Toyota Axio
+8150000,Kurunegala,7660,660,2023,Petrol,Nissan Dayz
+4990000,Kadawatha,94000,1000,2016,Petrol,Suzuki Celerio
+5725000,Kadawatha,64000,1000,2018,Petrol,Suzuki Celerio
+5790000,Kadawatha,119000,1000,2017,Petrol,Perodua Axia
+2900000,Adampan,31000,1200,2015,Petrol,Tata Indica
+10250000,Nugegoda,120000,1500,2016,Hybrid,Toyota Axio
+3875000,Panadura,154000,1300,2004,Petrol,Suzuki Swift
+6600000,Kadawatha,170000,1000,2015,Petrol,Toyota Vitz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5375000,Kadawatha,93000,1000,2016,Petrol,Perodua Axia
+5050000,Kadawatha,116000,1000,2016,Petrol,Suzuki Celerio
+4950000,Adampan,0,650,2015,Petrol,Toyota Pixis
+1750000,Kaduruwela,261000,1200,2005,Petrol,Tata Indica
+4100000,Wellawatta (Colombo 06),130000,990,2011,Petrol,Suzuki Alto
+1400000,Adampan,120000,660,2016,Petrol,Tata Nano
+18900000,Ambalangoda,11000,1000,2023,Hybrid,Audi A3
+4500000,Athurugiriya,0,1500,2000,Petrol,Toyota Sprinter
+9800000,Kurunegala,11000,658,2024,Petrol,Suzuki Spacia
+6000000,Galle,200000,1497,2008,Hybrid,Toyota Prius
+5375000,Kottawa,36359,660,2016,Petrol,Suzuki Alto
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5500000,Gampaha,183000,660,2014,Hybrid,Suzuki Wagon R
+7850000,Horana,9800,20,2023,Electric,Nissan Sakura
+5700000,Dematagoda (Colombo 09),84000,800,2016,Petrol,Nissan NV100
+5475000,Dematagoda (Colombo 09),89000,800,2016,Petrol,Nissan NV100
+7500000,Nugegoda,123000,1000,2017,Petrol,Toyota Vitz
+12500000,Baddegama,119000,1000,2017,Petrol,Honda Civic
+2800000,Matara,467000,1800,1988,Diesel,Toyota Corolla
+8000000,Adampan,0,1300,2004,Petrol,Toyota Allion
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5900000,Rambukkana,0,900,2014,Petrol,Suzuki Wagon R
+6950000,Ratnapura,0,1000,2016,Petrol,Toyota Vitz
+6700000,Homagama,95000,650,2017,Petrol,Suzuki Spacia
+4900000,Piliyandala,114000,1000,2016,Petrol,Suzuki Celerio
+3100000,Kaduruwela,0,800,2012,Petrol,Suzuki Alto
+6000000,Kottawa,0,1300,2007,Petrol,Toyota Vitz
+6500000,Dedunupitiya,0,900,2015,Petrol,Suzuki Wagon R
+3800000,Mamaduwa,0,1300,2018,Petrol,Renault KWID
+9600000,Anuradhapura,2550000,1800,2014,Petrol,Toyota Prius
+3000000,Galkulama,0,800,2010,Petrol,Suzuki Maruti
+3900000,Horagala,0,800,2015,Petrol,Suzuki Alto
+4000000,Kesbewa,0,800,2015,Petrol,Suzuki Alto
+8300000,Karapitiya,75000,1000,2018,Petrol,Toyota Vitz
+8500000,Anuradhapura,70000,1000,2019,Hybrid,Toyota Vitz
+9600000,Anuradhapura,0,1500,2015,Petrol,Toyota Axio
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+10200000,Maharagama,136000,1800,2012,Hybrid,Toyota Prius
+5300000,Nittambuwa,75000,1300,2017,Petrol,Daihatsu Mira
+3200000,Nittambuwa,75000,1300,2005,Petrol,Peugeot 206
+9600000,Mudungoda,0,1300,2015,Petrol,Honda Grace
+4000000,Beliatta,0,800,2015,Petrol,Suzuki Alto
+6000000,Biyagama,0,1500,2005,Petrol,Hyundai Accent
+7800000,Wellampitiya,120000,1500,2014,Petrol,Honda Grace
+9800000,Nagoda,146000,1490,2017,Petrol,Honda Grace
+9750000,Kurunegala,0,1500,2007,Petrol,Toyota Allion
+6950000,Katunayake,110000,660,2017,Hybrid,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6750000,Veyangoda,8000,650,2023,Petrol,Mitsubishi eK
+15800000,Kelaniya,139000,2000,2012,Petrol,BMW i Series
+3575000,Kandy,170000,800,2014,Petrol,Suzuki Alto
+5395000,Kottawa,76500,650,2014,Petrol,Daihatsu Mira
+4500000,Rajagiriya,140000,996,2015,Petrol,Suzuki Celerio
+5300000,Slave Island (Colombo 02),130000,650,2015,Petrol,Suzuki Wagon R
+9650000,Chilaw,85800,1500,2010,Petrol,Toyota Premio
+7590000,Ja-Ela,46000,1000,2017,Petrol,Toyota Vitz
+8650000,Maharagama,178000,1500,2008,Petrol,Toyota Allion
+12100000,Jambugahapitiya,123000,1500,2017,Hybrid,Toyota Axio
+8190000,Ja-Ela,63000,1000,2018,Petrol,Toyota Vitz
+15600000,Matara,98000,1500,2018,Petrol,Toyota Premio
+8350000,Kattankudi,103000,1500,2019,Hybrid,Toyota Vitz
+7650000,Negombo,134000,1500,2013,Petrol,Honda Fit
+3625000,Kandy,211000,1350,1999,Petrol,Nissan March
+2625000,Wellawatta (Colombo 06),165500,1341,2003,Petrol,Hyundai Accent
+1499000,Kottawa,245000,1300,1987,Petrol,Nissan Sunny
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6750000,Godagama,123000,1200,2016,Petrol,Suzuki Baleno
+3980000,Embilipitiya,112000,800,2015,Petrol,Suzuki Alto
+11200000,Kandy,180000,1500,2013,Petrol,Toyota Premio
+6700000,Dehiwala,140000,1500,2013,Hybrid,Toyota Aqua
+6500000,Baddegama,92000,998,2018,Petrol,Suzuki Wagon R
+8800000,Baddegama,120000,1495,2013,Petrol,Honda Fit
+2275000,Maho,0,650,2008,Petrol,Suzuki Maruti
+8650000,Kurunegala,4500,690,2023,Hybrid,Suzuki Spacia
+7250000,Kurunegala,4500,690,2023,Hybrid,Mitsubishi eK
+8500000,Kurunegala,1500,690,2025,Hybrid,Suzuki Wagon R
+6300000,Kurunegala,3500,690,2023,Hybrid,Daihatsu Mira
+5290000,Kurunegala,85000,690,2014,Hybrid,Suzuki Wagon R
+2875000,Avissawella,125559,1500,1997,Petrol,Nissan FB 15
+4200000,Anuradhapura,280000,2440,1996,Diesel,Toyota Mark II
+3600000,Kegalle,200274,1320,2002,Petrol,Suzuki Swift
+8100000,Kelaniya,220,660,2023,Petrol,Suzuki Wagon R
+3550000,Badalgama,140000,998,2008,Petrol,Mitsubishi Minica
+3450000,Kelaniya,75000,1000,2007,Petrol,Perodua Kelisa
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+12400000,Ragama,48900,1500,2013,Petrol,Toyota Premio
+2745000,Alawwa,52000,1000,2014,Petrol,Micro Panda
+5695000,Bandaragama,100000,650,2014,Hybrid,Suzuki Wagon R
+2895000,Bandaragama,100000,800,2005,Petrol,Suzuki Alto
+3900000,Kalutara,143000,800,2010,Petrol,Suzuki Astra
+1145000,Alawwa,65000,800,1996,Petrol,Suzuki Maruti
+10750000,Kurunegala,145000,1800,2012,Hybrid,Toyota Prius
+7790000,Pita Kotte,143000,1500,2015,Hybrid,Honda Fit
+630000,Warakapola,0,1300,1985,Petrol,Toyota DX Wagon
+10300000,Katugastota,200,1000,2025,Hybrid,Toyota Yaris
+3565000,Veyangoda,110008,1200,2015,Petrol,Tata Indigo
+6750000,Kurunegala,72000,650,2018,Hybrid,Suzuki Wagon R
+7000000,Nugegoda,185000,1600,2008,Petrol,Toyota Corolla
+12700000,Katugastota,0,1400,2018,Petrol,Audi Q2
+2925000,Ragama,0,800,2010,Petrol,Suzuki Alto
+3585000,Ragama,0,800,2014,Petrol,Suzuki Alto
+9750000,Hungama,187000,1800,2013,Petrol,Toyota Prius
+10300000,Katugastota,0,1500,2025,Hybrid,Toyota Yaris
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+3400000,Kelaniya,247000,1300,1993,Petrol,Toyota Starlet
+11950000,Kekirawa,110000,1800,2013,Petrol,Toyota Prius
+7800000,Anuradhapura,106000,1000,2015,Petrol,Toyota Aqua
+6700000,Anuradhapura,150200,660,2017,Petrol,Suzuki Spacia
+6795000,Sri Jayawardenepura Kotte,11200,1500,2012,Hybrid,Toyota Aqua
+9150000,Anuradhapura,178000,1500,2015,Petrol,Toyota Axio
+2860000,Horana,350000,796,2007,Petrol,Suzuki Alto
+3980000,Dehiwala,112877,800,2015,Petrol,Suzuki Alto
+4100000,Kaduwela,102000,1197,2010,Petrol,Suzuki Swift
+1760000,Mawanella,0,1000,1985,Petrol,Toyota Corolla
+3575000,Mawanella,0,1000,2001,Petrol,Nissan March
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6700000,Horana,84000,650,2017,Hybrid,Suzuki Wagon R
+3775000,Ragama,0,800,2015,Petrol,Suzuki Alto
+3800000,Vavuniya,94000,800,2015,Petrol,Suzuki Alto
+4850000,Athurugiriya,228000,1500,2005,Petrol,Nissan FB 15
+7800000,Watapuluwa,8000,1197,2023,Petrol,Hyundai Grand i10
+3475000,Kalutara,110000,660,2015,Petrol,Suzuki Alto
+2975000,Gothatuwa,131000,1300,2013,Petrol,Micro Panda Cross
+5500000,Anuradhapura,140000,1000,2019,Petrol,Toyota Pixis
+6800000,Anuradhapura,250000,1300,2004,Petrol,Mitsubishi Lancer
+9050000,Moratuwa,184000,1500,2014,Hybrid,Toyota Axio
+6500000,Keppetipola,0,900,2018,Petrol,Suzuki Wagon R
+5750000,Narahenpita (Colombo 05),81000,0,2017,Petrol,Suzuki Wagon R
+12300000,Kollupitiya (Colombo 03),145000,0,2015,Petrol,Toyota Premio
+7000000,Ja-Ela,250000,1500,2012,Petrol,Toyota Aqua
+8975000,Maharagama,216000,1800,2012,Petrol,Toyota Prius
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6800000,Rajagiriya,124000,1459,2013,Hybrid,Toyota Aqua
+2795000,Kolonnawa,138000,799,2007,Petrol,Suzuki Alto
+8600000,Rajagiriya,216000,1900,2010,Hybrid,Toyota Prius
+3725000,Rajagiriya,95000,800,2015,Petrol,Suzuki Alto
+12490000,Kohuwala,175000,1500,2015,Petrol,Toyota Premio
+14000000,Slave Island (Colombo 02),165000,1968,2013,Diesel,Audi A6
+3585000,Narahenpita (Colombo 05),345000,2000,2000,Petrol,Nissan HP11
+7650000,Galle,148000,1496,2014,Petrol,Toyota Aqua
+16750000,Kohuwala,89000,1500,2019,Petrol,Toyota Premio
+8650000,Kohuwala,0,660,2025,Petrol,Suzuki Wagon R
+3145000,Horana,37000,1000,2017,Petrol,Zotye Z100
+16000000,Negombo,185000,2500,2015,Petrol,Mazda 6
+4300000,Battaramulla,140000,1000,2013,Petrol,Perodua Viva
+7890000,Galle,79000,1000,2018,Petrol,Toyota Vitz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+12950000,Delgoda,108000,1500,2016,Petrol,Toyota Allion
+15700000,Akkaraipattu,176000,1500,2010,Petrol,Toyota Premio
+16700000,Wellawatta (Colombo 06),113000,1500,2019,Petrol,Toyota Premio
+13700000,Kurunegala,135000,1500,2017,Petrol,Toyota Premio
+9300000,Kurunegala,153000,1500,2015,Petrol,Toyota Axio
+7250000,Kohuwala,170000,1500,2013,Petrol,Toyota Aqua
+8700000,Kohuwala,26000,1000,2019,Petrol,Toyota Vitz
+6995000,Ratnapura,60000,650,2019,Hybrid,Suzuki Wagon R
+7000000,Buttala,0,1300,2003,Petrol,Toyota Vios
+2250000,Yakkala,150000,2000,1992,Diesel,Nissan Sunny
+2700000,Batticaloa,112000,1200,2015,Petrol,Tata Indica
+6850000,Siyambalewa,0,650,2018,Petrol,Suzuki Wagon R
+4000000,Godagama,0,800,2015,Petrol,Suzuki Alto
+8350000,Biyagama,35000,998,2019,Petrol,Suzuki Baleno
+4000000,Angoda,0,800,2015,Petrol,Suzuki Alto
+6795000,Sri Jayawardenepura Kotte,75000,1300,2011,Petrol,Toyota Aqua
+6075000,Malabe,149700,2007,2007,Petrol,Mazda Axela
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+3250000,Badulla,100000,1290,1999,Petrol,Nissan AD Wagon
+6300000,Piliyandala,35360,650,2017,Hybrid,Suzuki Wagon R
+1550000,Kandy,14000,1000,1990,Petrol,Daihatsu Charade
+7500000,Anuradhapura,3000,650,2024,Petrol,Suzuki Wagon R
+2850000,Agarapathana,0,2000,1994,Petrol,Honda Accord
+6600000,Anuradhapura,3000,658,2025,Petrol,Daihatsu Mira
+3650000,Malabe,350000,1975,1999,Diesel,Toyota Corolla
+3175000,Hali Ela,90367,800,2010,Petrol,Suzuki Alto
+4990000,Malabe,130000,1300,2008,Petrol,Suzuki Swift
+8390000,Colombo Fort (Colombo 01),0,660,2024,Petrol,Nissan Dayz
+7175000,Colombo Fort (Colombo 01),0,650,2025,Petrol,Mitsubishi eK
+12000000,Nugegoda,97000,1490,2015,Petrol,Toyota Premio
+6400000,Colombo Fort (Colombo 01),6600,660,2024,Petrol,Daihatsu Mira
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+12800000,Nittambuwa,145000,1500,2018,Hybrid,Toyota Axio
+13490000,Colombo Fort (Colombo 01),0,1000,2025,Petrol,Nissan Almera
+16500000,Colombo Fort (Colombo 01),0,1200,2025,Petrol,Toyota Yaris Ativ
+4900000,Ratmalana,130000,1000,2016,Petrol,Suzuki Celerio
+2190000,Ratnapura,67500,800,2007,Petrol,Suzuki Maruti
+15700000,Colombo Fort (Colombo 01),113000,1500,2019,Petrol,Toyota Premio
+5790000,Piliyandala,96000,650,2016,Hybrid,Suzuki Wagon R
+5900000,Narammala,7500,658,2023,Petrol,Subaru Pleo
+5325000,Ratnapura,178000,1300,2003,Petrol,Toyota IST
+6790000,Ja-Ela,116000,1500,2015,Petrol,Toyota Vitz
+11700000,Monaragala,106000,1500,2014,Petrol,Toyota Premio
+7650000,Kandy,0,660,2023,Petrol,Suzuki Wagon R
+5600000,Katuwawala,71000,1000,2016,Petrol,Perodua Axia
+5200000,Moratuwa,218000,1500,2007,Petrol,Nissan Tiida
+4575000,Moratuwa,127000,1300,2011,Petrol,Toyota Passo
+4580000,Minuwangoda,170000,1500,2002,Petrol,Nissan Sunny
+7750000,Hapugala,180000,1500,2014,Hybrid,Honda Fit
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7450000,Maharagama,121000,1500,2011,Petrol,Toyota Avanza
+7575000,Moratuwa,125000,1500,2014,Hybrid,Honda Fit
+5825000,Kirindiwela,173000,1500,2003,Petrol,Toyota Corolla
+4725000,Pannipitiya,150000,650,2008,Petrol,Toyota Passo
+9800000,Sri Jayawardenepura Kotte,108000,1500,2007,Petrol,Toyota Premio
+2450000,Piliyandala,226800,1950,1998,Diesel,Nissan Sunny
+8200000,Pannala,61345,1000,2018,Petrol,Toyota Vitz
+3275000,Pannala,65110,800,2010,Petrol,Suzuki Alto
+4675000,Dekatana,190000,1500,1998,Petrol,Toyota Corolla
+6190000,Galle,190000,0,2007,Petrol,Toyota Yaris
+6850000,Sapugaskanda,0,660,2024,Petrol,Daihatsu Mira
+6450000,Pannala,122000,1330,2013,Petrol,Honda Fit
+6790000,Sapugaskanda,6610,660,2023,Petrol,Daihatsu Mira
+3100000,Moratuwa,0,1300,2013,Petrol,Micro Panda Cross
+7500000,Nugegoda,172000,1490,2013,Hybrid,Toyota Aqua
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5575000,Pitipana Homagama,106000,1490,2007,Petrol,Honda Civic
+3290000,Kirillawala,119000,1200,2015,Petrol,Tata Indigo
+6690000,Maharagama,87900,1490,2016,Hybrid,Toyota Vitz
+5350000,Mulleriyawa New Town,115618,660,2017,Petrol,Suzuki Alto
+4100000,Horana,196,1000,2014,Petrol,Suzuki Wagon R
+4750000,Moratuwa,60000,1000,2015,Petrol,Suzuki Celerio
+9800000,Wellawatta (Colombo 06),130000,1500,2017,Petrol,Honda Grace
+6700000,Kottawa,1330000,1500,2013,Hybrid,Toyota Aqua
+8900000,Ibbagamuwa,53000,1300,2022,Petrol,Toyota Yaris
+5750000,Gampola,145000,1000,2015,Petrol,Suzuki Wagon R
+2340000,Katugastota,150000,1500,1995,Petrol,Nissan Presea
+5100000,Gampola,0,1000,2005,Hybrid,Toyota Vitz
+7850000,Matugama,154000,1800,2008,Petrol,Toyota Axio
+15500000,Kohuwala,80915,1500,2017,Petrol,Toyota Premio
+8200000,Kolonnawa,59000,1000,2017,Petrol,Toyota Roomy
+9950000,Moratuwa,0,660,2025,Petrol,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6390000,Sooriyawewa Town,114000,0,2017,Petrol,Suzuki Wagon R
+3550000,Pannala,0,1500,2004,Petrol,Nissan Pulsar
+1250000,Pannala,0,1470,1988,Petrol,Mitsubishi Lancer
+4250000,Nugegoda,69800,1200,2011,Petrol,Suzuki Swift
+5650000,Kottawa,200000,1500,2000,Petrol,Toyota Corolla
+5280000,Anuradhapura,195000,1500,2004,Petrol,Toyota Corolla
+10500000,Kandy,175000,1799,2014,Hybrid,Toyota Prius
+5300000,Piliyandala,192000,1500,2000,Petrol,Toyota Corolla
+1650000,Kandy,294000,1390,1990,Petrol,Toyota Corolla
+4300000,Nugegoda,75000,1300,2018,Petrol,Micro Panda
+3350000,Rajagiriya,75000,1300,2000,Petrol,Daihatsu Charade
+5350000,Ratnapura,219386,1500,2001,Petrol,Toyota Corolla
+8600000,Rajagiriya,100000,1200,2010,Petrol,Toyota Prius
+7800000,Rajagiriya,113000,1500,2015,Hybrid,Honda Fit
+6600000,Kotte,64000,800,2018,Petrol,Suzuki Wagon R
+4300000,Kochchikade,200000,990,2000,Petrol,Toyota Vitz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5800000,Boralesgamuwa,87000,1500,2017,Hybrid,Suzuki Wagon R
+6400000,Boralesgamuwa,75000,650,2018,Hybrid,Suzuki Wagon R
+3670000,Hingurakgoda,75000,1200,2015,Petrol,Hyundai Eon
+7300000,Kottawa,6600,660,2024,Petrol,Nissan Dayz
+18500000,Kiribathgoda,19500,1000,2023,Petrol,Audi A3
+6050000,Kandy,113000,0,2015,Petrol,Suzuki Wagon R
+6350000,Kottawa,6600,660,2023,Petrol,Daihatsu Mira
+7790000,Kottawa,48500,660,2023,Hybrid,Nissan Roox
+3850000,Monaragala,123456,1500,2002,Petrol,Toyota Corolla
+7650000,Kottawa,6600,660,2023,Petrol,Honda N BOX
+7700000,Kottawa,6600,660,2023,Petrol,Nissan Roox
+2500000,Anuradhapura,123456,1500,1994,Petrol,Nissan FB 15
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8590000,Dehiwala,134500,1790,2011,Hybrid,Toyota Prius
+7050000,Gampaha,102000,600,2017,Petrol,Suzuki Wagon R
+8200000,Boralesgamuwa,121000,1500,2014,Hybrid,Toyota Axio
+5200000,Boralesgamuwa,152000,1500,2015,Hybrid,Suzuki Wagon R
+18950000,Sapugaskanda,0,1984,2023,Petrol,Audi A3
+3525000,Nikaweratiya,18100,650,2004,Petrol,Suzuki Alto
+5800000,Sapugaskanda,175755,1242,2009,Petrol,Suzuki Swift
+8350000,Alutgama,30000,660,2022,Hybrid,Suzuki Spacia
+5350000,Alutgama,160000,650,2007,Petrol,Toyota Vitz
+7375000,Kiribathgoda,172000,1200,2009,Petrol,Honda Insight
+8500000,Alutgama,180000,2000,2012,Petrol,KIA Sportage
+6950000,Polonnaruwa,66815,990,2015,Petrol,Toyota Vitz
+5375000,Alutgama,100000,650,2014,Hybrid,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5700000,Boralesgamuwa,87000,1500,2017,Hybrid,Suzuki Wagon R
+6195000,Negombo,195000,1490,2002,Petrol,Toyota Allion
+8200000,Ja-Ela,121000,1500,2014,Hybrid,Toyota Axio
+5540000,Raddolugama,245000,650,2015,Petrol,Honda N BOX
+9375000,Madawala Bazaar,4000,650,2024,Hybrid,Suzuki Spacia
+8750000,Agaliya,96000,1500,2012,Petrol,Toyota Premio
+5500000,Hokandara,0,650,2014,Petrol,Suzuki Wagon R
+6000000,Kurunegala,0,1500,2002,Petrol,Mitsubishi Lancer
+4000000,Gampola,0,800,2015,Petrol,Suzuki Alto
+6525000,Gampaha,68000,650,2018,Petrol,Suzuki Wagon R
+3500000,Horana,0,800,2013,Petrol,Suzuki Alto
+850000,Rambukkana,223300,1400,1982,Petrol,Mitsubishi Lancer
+3350000,Padukka,47090,800,2016,Petrol,Datsun Redi Go
+2275000,Morontuduwa,93000,800,2011,Petrol,Suzuki Maruti
+6700000,Dehiwala,160000,1490,2012,Hybrid,Toyota Aqua
+4000000,Godagama,52000,1000,2018,Petrol,Micro Panda
+5000000,Gampaha,173000,1500,2003,Petrol,Toyota Vios
+4200000,Piliyandala,1000,1500,2007,Petrol,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+1790000,Padukka,65900,800,2007,Petrol,Chery QQ
+3275000,Matale,150000,1500,1996,Petrol,Nissan Sunny
+5185000,Kurunegala,226000,1000,2007,Petrol,Toyota Vitz
+3500000,Bingiriya,0,1500,1998,Petrol,Toyota Carina
+7000000,Murunkan,0,1000,2017,Petrol,Daihatsu Tanto
+3850000,Battaramulla,75000,1000,2015,Petrol,Suzuki Alto
+11800000,Marawila,140000,1800,2012,Hybrid,Toyota Alpha
+5100000,Anuradhapura,199000,1500,2008,Petrol,Honda Aria
+5875000,Gampaha,114000,650,2016,Petrol,Suzuki Wagon R
+6150000,Maharagama,130000,660,2017,Hybrid,Suzuki Wagon R
+7100000,Maharagama,69000,660,2018,Petrol,Suzuki Wagon R
+5450000,Kurunegala,133000,0,2014,Petrol,Suzuki Wagon R
+7490000,Anuradhapura,94000,1000,2017,Petrol,Toyota Vitz
+7600000,Kottawa,6600,660,2023,Petrol,Honda N BOX
+9150000,Anuradhapura,2800,999,2025,Petrol,Nissan Magnite
+1900000,Ja-Ela,65000,1500,2000,Petrol,KIA Mentor
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8600000,Ragama,93000,1496,2014,Petrol,Toyota Aqua
+7250000,Anuradhapura,97000,650,2018,Petrol,Suzuki Wagon R
+5300000,Hokandara,89000,0,2014,Petrol,Suzuki Wagon R
+7850000,Anuradhapura,91000,1000,2017,Hybrid,Toyota Vitz
+7300000,Athurugiriya,69000,0,2018,Petrol,Suzuki Wagon R
+8500000,Rajagiriya,168000,0,2015,Petrol,Toyota Axio
+8300000,Athurugiriya,145000,1500,2014,Petrol,Toyota Axio
+5400000,Godagama,140000,1500,2003,Petrol,Honda ARIA
+9950000,Wattala,160000,1500,2015,Hybrid,Toyota Axio
+7350000,Matara,140000,1500,2013,Petrol,Toyota Aqua
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+19300000,Kurunegala,0,1000,2025,Petrol,Toyota Yaris Ativ
+5700000,Galle,90000,650,2016,Petrol,Suzuki Wagon R
+14500000,Athurugiriya,40000,1500,2019,Petrol,Mazda 2
+8900000,Jambugahapitiya,123000,1496,2014,Hybrid,Toyota Aqua
+13200000,Nugegoda,101000,1200,2017,Petrol,Volkswagen Beetle
+2795000,Kottawa,67000,1000,2015,Petrol,Geely Panda
+5300000,Athurugiriya,72000,1000,2016,Petrol,KIA Picanto
+790000,Wariyapola,0,1300,1982,Petrol,Mitsubishi Lancer
+2700000,Kalubowila,114000,1300,1995,Petrol,Suzuki Cultus
+7250000,Kottawa,0,660,2024,Hybrid,Mitsubishi eK
+6200000,Wattala,159000,1330,2012,Petrol,Honda Fit
+9500000,Dehiwala,160000,17900000,2012,Hybrid,Toyota Prius
+5000000,Anuradhapura,112000,998,2014,Hybrid,Suzuki Wagon R
+1400000,Pilimatalawa,165000,660,1998,Petrol,Suzuki Alto
+4875000,Monaragala,220000,1500,2000,Petrol,Toyota Carina
+13800000,Kottawa,0,1500,2024,Hybrid,Toyota Axio
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8850000,Kadugannawa,160000,1000,2015,Hybrid,Honda Grace
+4100000,Kekirawa,220000,1500,1998,Petrol,Nissan FB 15
+7290000,Kiribathgoda,172000,1234,2009,Petrol,Honda Insight
+6950000,Anuradhapura,216000,1490,2013,Hybrid,Toyota Aqua
+6200000,Kurunegala,90000,998,2018,Petrol,Toyota Wigo
+3890000,Wattala,88487,800,2015,Petrol,Suzuki Alto
+5175000,Dehiwala,137424,1300,2007,Petrol,Suzuki Swift
+10800000,Nikaweratiya,79000,1500,2017,Petrol,Toyota Axio
+7050000,Kandy,2000,650,2023,Petrol,Suzuki Wagon R
+8300000,Bandaragama,146152,1500,2015,Hybrid,Honda Fit
+6130000,Kiribathgoda,86990,1240,2016,Petrol,Suzuki Ignis
+9100000,Ragama,135000,1500,2015,Hybrid,Honda Grace
+12700000,Pannipitiya,84000,1000,2018,Petrol,Honda Civic
+3800000,Kalmunai,78000,800,2015,Petrol,Suzuki Alto
+4060000,Piliyandala,280000,1300,2004,Petrol,Nissan Sunny
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+3550000,Gampaha,92929,1000,2013,Petrol,Suzuki Alto
+7000000,Aluthkade (Colombo 12),154000,1300,2016,Petrol,Toyota Vitz
+6900000,Kottawa,6600,660,2023,Petrol,Nissan Clipper
+3000000,Anamaduwa,123456,1500,1992,Petrol,Toyota Corolla
+9350000,Kottawa,6600,660,2023,Hybrid,Suzuki XBee
+5200000,Anuradhapura,150000,660,2017,Petrol,Suzuki Wagon R
+7250000,Kottawa,6600,660,2024,Petrol,Nissan Dayz
+7600000,Kottawa,6600,660,2023,Petrol,Daihatsu Taft
+7800000,Kottawa,6600,660,2025,Petrol,Daihatsu Taft
+7150000,Kottawa,6600,660,2024,Petrol,Nissan Dayz
+6925000,Kottawa,6600,660,2023,Petrol,Mitsubishi eK
+5890000,Boralesgamuwa,126000,660,2016,Petrol,Suzuki Hustler
+5690000,Malabe,136000,650,2015,Hybrid,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7575000,Kottawa,6600,660,2023,Petrol,Honda N BOX
+13800000,Kottawa,5000,1500,2024,Hybrid,Toyota Axio
+7575000,Kottawa,6600,660,2023,Petrol,Honda N BOX
+5900000,Batticaloa,158000,650,2015,Petrol,Suzuki Wagon R
+6950000,Kalmunai,85000,650,2018,Petrol,Suzuki Wagon R
+7150000,Gampaha,75000,660,2018,Petrol,Suzuki Spacia
+8350000,Kottawa,6600,660,2023,Petrol,Toyota Passo
+50000000,Kohuwala,0,1500,2025,Petrol,Mercedes Benz C200
+12900000,Kohuwala,48000,1500,2018,Petrol,Honda Civic
+3850000,Delgoda,150000,1000,2009,Petrol,Perodua Viva
+11000000,Horana,2000,1198,2023,Petrol,Nissan Note
+8300000,Horana,2000,658,2023,Petrol,Daihatsu Taft
+8300000,Horana,0,658,2023,Petrol,Daihatsu Taft
+8300000,Kottawa,0,650,2025,Hybrid,Suzuki Wagon R
+7700000,Gampaha,79000,1496,2018,Hybrid,Toyota Vitz
+11000000,Anuradhapura,500,1198,2023,Petrol,Nissan Note
+7000000,Moratuwa,110000,1339,2011,Petrol,Honda Fit
+5200000,Kalmunai,80000,1000,2015,Petrol,Suzuki Celerio
+5400000,Wattala,175000,1500,2002,Petrol,Toyota Corolla
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5975000,Boralesgamuwa,45000,660,2016,Petrol,KIA Picanto
+2200000,Batticaloa,125000,800,2010,Petrol,Chery QQ
+6750000,Marawila,60000,650,2017,Hybrid,Suzuki Wagon R
+5725000,Kadawatha,64000,1000,2018,Petrol,Suzuki Celerio
+5290000,Kadawatha,115000,1000,2016,Petrol,Suzuki Celerio
+5790000,Kadawatha,119000,1000,2017,Petrol,Perodua Axia
+6000000,Athurugiriya,83000,660,2014,Hybrid,Suzuki Wagon R
+5750000,Kadawatha,111000,1000,2017,Petrol,Perodua Axia
+5390000,Kadawatha,64000,1000,2018,Petrol,Suzuki Celerio
+9800000,Hapugala,88500,1500,2017,Hybrid,Honda Grace
+3700000,Kundasale,200000,800,2014,Petrol,Suzuki Alto
+7025000,Nittambuwa,152600,1500,2013,Petrol,Toyota Aqua
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6700000,Kiribathgoda,210000,1500,2005,Petrol,Toyota Allion
+7000000,Embilipitiya,1013000,1333,2009,Hybrid,Honda Insight
+22000000,Gampaha,107000,2000,2014,Diesel,BMW M Series
+4500000,Monaragala,190000,1490,2004,Petrol,Nissan Bluebird
+4200000,Kalmunai,48000,800,2017,Petrol,Hyundai Eon
+3450000,Dambulla,100000,900,2003,Petrol,Nissan March
+5995000,Panadura,0,650,2018,Petrol,Suzuki Wagon R
+3295000,Panadura,0,1500,2012,Petrol,Micro MX7
+7500000,Kurunegala,3400,690,2024,Hybrid,Suzuki Wagon R
+6500000,Kurunegala,3500,690,2024,Hybrid,Daihatsu Mira
+9500000,Kurunegala,3500,690,2025,Hybrid,Suzuki Spacia
+7500000,Kurunegala,3500,690,2025,Hybrid,Suzuki Wagon R
+7200000,Kurunegala,3500,690,2023,Hybrid,Suzuki Wagon R
+8500000,Kurunegala,3500,690,2023,Hybrid,Toyota Yaris
+7850000,Kurunegala,3500,690,2025,Hybrid,Daihatsu Taft
+4400000,Kandana,183000,1500,1998,Petrol,Toyota Corsa
+4350000,Adampan,103000,1000,2012,Petrol,Perodua Elite
+7950000,Horana,129000,1500,2015,Hybrid,Toyota Aqua
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6400000,Pallekelle,61000,658,2017,Petrol,Daihatsu Move
+8500000,Borella (Colombo 08),235000,1790,2010,Petrol,Toyota Premio
+9400000,Bombuwala,115000,1500,2015,Hybrid,Toyota Axio
+3870000,Meegoda,0,1005,2001,Petrol,Mazda Familia
+13000000,Kadawatha,120000,2000,2011,Diesel,BMW 3 Series
+12890000,Kadawatha,8200,1200,2024,Hybrid,Nissan Note
+7450000,Pannipitiya,130000,660,2018,Hybrid,Suzuki Spacia
+3700000,Colombo Fort (Colombo 01),128000,800,2015,Petrol,Suzuki Alto
+2750000,Alawwa,0,1290,1996,Petrol,Toyota Tercel
+3850000,Katunayake,119678,1000,2012,Petrol,Suzuki A Star
+8900000,Galnewa,0,650,2025,Petrol,Daihatsu Taft
+4300000,Anuradhapura,0,1300,1990,Petrol,Mitsubishi Lancer
+5800000,Matara,200000,1300,2010,Petrol,Toyota Vitz
+3675000,Homagama,103000,800,2015,Petrol,Suzuki Alto
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+3625000,Katugastota,75000,1000,2000,Petrol,Toyota Starlet
+5600000,Mahiyanganaya,100000,1300,2003,Petrol,Mitsubishi Lancer
+4600000,Polonnaruwa,100000,1000,1992,Petrol,Mitsubishi Lancer
+1900000,Badulla,100000,1300,1990,Petrol,Toyota DX Wagon
+14500000,Panadura,131500,1500,2014,Petrol,Lexus LX
+7650000,Kandana,4500,660,2024,Petrol,Suzuki Wagon R
+4150000,Katunayake,187654,1300,2004,Petrol,Suzuki Swift
+2775000,Moratuwa,100000,1600,1998,Petrol,Ford Laser
+5475000,Gampaha,170000,1500,2002,Petrol,Mitsubishi Lancer
+4285000,Moratuwa,112000,1000,2011,Petrol,Perodua Elite
+5650000,Moratuwa,167236,1000,2016,Petrol,Perodua Axia
+5600000,Welimada,63710,660,2014,Petrol,Suzuki Wagon R
+8975000,Kadawatha,85000,1329,2017,Petrol,Toyota Yaris Ativ
+4300000,Anuradhapura,200000,1300,2002,Petrol,Mitsubishi Lancer
+3785000,Moratuwa,120724,800,2016,Petrol,Renault KWID
+6950000,Moratuwa,90930,650,2017,Hybrid,Suzuki Wagon R
+8900000,Negombo,218136,2171,2003,Petrol,BMW 5 Series
+5750000,Nugegoda,145000,1000,2016,Petrol,KIA Picanto
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5400000,Akurana,128000,1000,2007,Petrol,Toyota Vitz
+8275000,Horana,31000,660,2023,Petrol,Daihatsu Taft
+2550000,Narahenpita (Colombo 05),150000,1500,2002,Petrol,KIA Rio
+6550000,Anuradhapura,93000,660,2018,Hybrid,Suzuki Wagon R
+4200000,Ukuwela,169000,1800,2000,Petrol,Nissan Bluebird
+6120000,Talawatugoda,140000,998,2017,Petrol,Perodua Bezza
+4450000,Gampaha,119000,1300,2004,Petrol,Suzuki Swift
+8675000,Bellanwila,0,660,2024,Hybrid,Nissan Roox
+3800000,Batticaloa,58000,650,2014,Petrol,Suzuki Alto
+4900000,Kelaniya,191000,1500,1998,Petrol,Honda Civic
+5250000,Kadawatha,97000,1000,2016,Petrol,KIA Picanto
+6985000,Pannipitiya,92000,1000,2015,Petrol,Toyota Vitz
+5350000,Waikkal,152000,1000,2008,Petrol,Toyota Vitz
+5200000,Waikkal,149000,1000,2007,Petrol,Toyota Vitz
+5350000,Waikkal,170000,1300,2009,Petrol,Suzuki Swift
+2300000,Kalutara,144000,1500,2000,Petrol,Hyundai Sonata
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+4600000,Ragama,180000,1600,1998,Petrol,Toyota Corona
+2950000,Gampaha,100000,800,2011,Petrol,Suzuki Alto
+890000,Kuliyapitiya,100000,1500,1985,Petrol,Toyota Carina
+2150000,Yakkala,100000,1300,1998,Petrol,Nissan Sunny
+8100000,Katugastota,0,990,2014,Petrol,Honda Fit
+6800000,Borella (Colombo 08),27000,1000,2016,Petrol,Honda S660
+3700000,Balangoda,0,800,2016,Petrol,Suzuki Alto
+9400000,Negombo,27650,1000,2023,Petrol,Toyota Yaris
+2800000,Katugastota,295000,1500,1995,Petrol,Toyota Corolla
+7500000,Raddolugama,104000,1500,2013,Hybrid,Toyota Aqua
+3300000,Polonnaruwa,86525,1300,2013,Petrol,Micro Panda Cross
+5350000,Embilipitiya,210000,1500,2004,Petrol,Honda Civic
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7350000,Kurunegala,106000,1500,2014,Hybrid,Toyota Aqua
+6450000,Matale,159500,1300,2010,Petrol,Toyota Belta
+3700000,Battaramulla,200000,800,2015,Petrol,Suzuki Alto
+9500000,Kurunegala,20000,1000,2023,Petrol,Toyota Yaris
+1590000,Kiribathgoda,47000,1331,1992,Petrol,Toyota Corolla
+6000000,Baduraliya,150000,650,2017,Hybrid,Suzuki Wagon R
+5100000,Galle,87000,650,2014,Petrol,Suzuki Wagon R
+3700000,Ampara,92000,690,2015,Petrol,Suzuki Alto
+3800000,Baduraliya,116000,800,2015,Petrol,Suzuki Alto
+2450000,Thihagoda,70000,800,2011,Petrol,Suzuki Maruti
+1175000,Kurunegala,0,1400,1980,Petrol,Mitsubishi Lancer
+5175000,Pallewela,82000,1000,2016,Petrol,Suzuki Alto
+4800000,Mandawala,75000,1300,2001,Petrol,Nissan Sunny
+5150000,Trincomalee,78000,1000,2016,Petrol,Suzuki Celerio
+6250000,Veyangoda,139000,1000,2014,Petrol,Toyota Vitz
+8500000,Kurunegala,0,650,2023,Petrol,Nissan Dayz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+4400000,Moratuwa,165000,1300,2004,Petrol,Suzuki Swift
+7790000,Kottawa,13500,660,2023,Petrol,Honda N BOX
+2630000,Ampara,165000,1500,2002,Petrol,Hyundai Accent
+28700000,Kohuwala,7000,1330,2023,Petrol,Mercedes Benz A250
+7150000,Anuradhapura,128000,1600,2006,Petrol,Toyota Corolla
+8200000,Kohuwala,0,650,2023,Petrol,Nissan Dayz
+6950000,Galle,136000,1500,2012,Hybrid,Toyota Aqua
+2690000,Batawala,280000,1000,2002,Petrol,Toyota Corolla
+5890000,Ja-Ela,132000,660,2017,Petrol,Suzuki Spacia
+6750000,Wattala,82000,1000,2010,Petrol,Honda Fit
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7720000,Ragama,5000,660,2024,Hybrid,Suzuki Wagon R
+5500000,Rajagiriya,175000,2000,1998,Petrol,Honda Integra
+7125000,Kottawa,0,650,2023,Petrol,Mitsubishi eK
+9350000,Kottawa,0,1000,2023,Petrol,Suzuki XBee
+7950000,Badulla,32900,1000,2016,Petrol,Toyota Vitz
+7600000,Kottawa,0,660,2023,Petrol,Daihatsu Taft
+8350000,Kottawa,0,1000,2023,Petrol,Toyota Passo
+8575000,Kottawa,0,660,2023,Petrol,Daihatsu Thor
+8200000,Moratuwa,180000,1500,2007,Petrol,Toyota Allion
+4875000,Ambalantota,280000,2140,2001,Diesel,Toyota Corolla
+2700000,Dompe,100000,1300,1997,Petrol,Toyota Tercel
+19700000,Kalubowila,50000,2000,2015,Hybrid,Mercedes Benz Car
+3900000,Vavuniya,94000,800,2015,Petrol,Suzuki Alto
+7150000,Kottawa,0,660,2024,Petrol,Nissan Dayz
+7800000,Kottawa,0,990,2025,Petrol,Daihatsu Taft
+7250000,Kottawa,0,660,2024,Petrol,Nissan Dayz
+7500000,Hokandara,138000,1800,2011,Hybrid,Toyota Prius
+3500000,Colombo Fort (Colombo 01),111000,650,2012,Petrol,Suzuki Alto
+3500000,Horana,75000,800,2011,Petrol,Suzuki Alto
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+3600000,Uragasmanhandiya,193000,1240,2002,Petrol,Nissan March
+9000000,Panadura,230000,1500,2010,Petrol,Toyota Allion
+4350000,Kuliyapitiya,84000,1000,2015,Petrol,Suzuki Alto
+7500000,Kelaniya,38000,990,2018,Petrol,Toyota Vitz
+6500000,Kelaniya,20000,660,2023,Petrol,Toyota Pixis
+12000000,Kottawa,103140,1200,2019,Petrol,Toyota Yaris Ativ
+8700000,Kelaniya,8900,650,2023,Petrol,Nissan Dayz
+8000000,Wattala,120000,1500,2014,Petrol,Toyota Aqua
+3750000,Moratuwa,70000,800,2015,Petrol,Suzuki Alto
+3800000,Pannala,0,650,2015,Petrol,Suzuki Alto
+2275000,Minuwangoda,294000,1500,1990,Petrol,Toyota Sprinter
+2750000,Karativu,350000,1970,1996,Diesel,Nissan FB 14
+3200000,Dodangoda,123,800,2007,Petrol,Suzuki Alto
+6290000,Kesbewa,17900,1200,2023,Petrol,Daihatsu Mira
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8850000,Ampara,85000,1200,2014,Petrol,Toyota Axio
+8800000,Wariyapola,0,660,2025,Petrol,Suzuki Wagon R
+6075000,Pallewela,75000,1000,2018,Petrol,Suzuki Every
+5950000,Pallewela,75000,1000,2018,Petrol,Suzuki Every
+6950000,Kottawa,6600,660,2023,Petrol,Mitsubishi eK
+2900000,Piliyandala,150000,1000,2014,Petrol,Micro Panda
+7300000,Kottawa,6600,660,2024,Petrol,Nissan Dayz
+3300000,Bibile,160000,1300,2002,Petrol,Mazda Familia
+6350000,Kottawa,6600,660,2023,Petrol,Daihatsu Mira
+4000000,Trincomalee,83000,800,2016,Petrol,Suzuki Alto
+6650000,Dehiwala,124000,660,2017,Hybrid,Suzuki Spacia
+7650000,Kottawa,6600,660,2023,Petrol,Honda N BOX
+1675000,Piliyandala,238000,1300,1993,Petrol,Ford Laser
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+1625000,Mawathagama,124000,1500,1987,Petrol,Toyota Carina
+3290000,Katugastota,146000,899,2011,Petrol,Suzuki Alto
+6400000,Kurunegala,247000,650,2011,Petrol,Honda Fit
+5200000,Katugastota,75000,650,2015,Petrol,Suzuki Wagon R
+3380000,Hingurakgoda,75000,1300,2003,Petrol,Nissan Cefiro
+3900000,Katunayake,100000,1300,2006,Petrol,Tata Indica
+6600000,Nugegoda,81300,650,2017,Petrol,Suzuki Wagon R
+9000000,Polonnaruwa,100000,1500,2007,Petrol,Toyota Premio
+6900000,Ratnapura,135000,1000,2016,Petrol,Toyota Vitz
+5500000,Kottawa,100000,1800,2003,Petrol,Mitsubishi Lancer
+8300000,Embilipitiya,193000,1500,2014,Hybrid,Honda Grace
+3300000,Kadawatha,148000,800,2016,Petrol,Datsun Redi Go
+6990000,Kurunegala,107000,990,2016,Petrol,Toyota Vitz
+3850000,Embilipitiya,100000,1200,2003,Petrol,Suzuki Swift
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5350000,Batticaloa,153000,1320,2005,Petrol,Suzuki Swift
+2150000,Matara,100000,800,2006,Petrol,Suzuki Maruti
+4130000,Kaduwela,100000,1300,2000,Petrol,Nissan FB 15
+5250000,Maradana (Colombo 10),138000,1300,2005,Petrol,Suzuki Swift
+3950000,Kimbulapitiya,75000,1000,1999,Petrol,Toyota Starlet
+8100000,Kelaniya,0,650,2023,Petrol,Suzuki Wagon R
+3450000,Peradeniya,75000,1000,2007,Petrol,Perodua Kelisa
+2395000,Godagama,106000,1495,2000,Petrol,Hyundai Accent
+2795000,Godagama,95000,1699,2001,Petrol,Hyundai Elantra
+1495000,Katunayake,100000,1000,1992,Petrol,Nissan Sunny
+4100000,Malabe,200000,1500,1999,Petrol,Honda Civic
+3500000,Negombo,216000,1940,2001,Petrol,Nissan Wingroad
+7250000,Moratuwa,156487,1500,2009,Petrol,Toyota Prius
+4450000,Anuradhapura,198000,1600,2004,Petrol,Nissan Sunny
+6900000,Kesbewa,100000,1500,2012,Petrol,Toyota Aqua
+5500000,Malabe,90000,1000,2016,Petrol,Perodua Axia
+3600000,Panadura,210000,1500,2001,Petrol,Mazda Familia
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7300000,Anuradhapura,12000,650,2024,Petrol,Suzuki Wagon R
+1650000,Bandarawela,297500,1500,1984,Petrol,Nissan B11
+2250000,Mirigama,0,800,2011,Petrol,Suzuki Maruti
+2600000,Kesbewa,0,1000,1992,Petrol,Mitsubishi Lancer
+1495000,Katunayake,0,1000,1992,Petrol,Nissan Sunny
+850000,Negombo,200000,1400,1982,Petrol,Mitsubishi Lancer
+5790000,Dambulla,100000,1600,2003,Petrol,Mitsubishi Lancer
+3650000,Kesbewa,0,800,2014,Petrol,Suzuki Alto
+7300000,Boralesgamuwa,140000,1000,2017,Hybrid,Toyota Vitz
+3175000,Anuradhapura,80000,989,2006,Petrol,Perodua Kelisa
+1175000,Pelmadulla,0,1300,1986,Petrol,Toyota DX Wagon
+3200000,Delgoda,120000,1500,1998,Petrol,Nissan Sunny
+5870000,Kandy,100000,1800,2014,Petrol,MG 6
+9000000,Panadura,155000,1500,2015,Hybrid,Honda Grace
+4800000,Kinniya,41000,1000,2017,Petrol,Suzuki Celerio
+8300000,Kurunegala,120000,690,2008,Petrol,Toyota Premio
+8050000,Habarakada,0,1000,2018,Petrol,Toyota Vitz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+14575000,Divulapitiya,142000,1500,2018,Petrol,Toyota Premio
+6675000,Kuruwita,0,1330,2009,Hybrid,Honda Insight
+640000,Piliyandala,0,1200,1983,Petrol,Nissan B310
+2575000,Gurudeniya,79288,800,2012,Petrol,Suzuki Maruti
+11460000,Ja-Ela,201500,2000,2011,Diesel,BMW 3 Series
+5900000,Kohuwala,50000,650,2018,Petrol,Suzuki Wagon R
+17900000,Kohuwala,58000,1590,2017,Petrol,Mercedes Benz CLA
+1275000,Padukka,0,1500,1985,Petrol,Honda Civic
+5800000,Homagama,181000,1500,2004,Petrol,Honda Civic
+7150000,Pannipitiya,45000,1000,2015,Petrol,Toyota Vitz
+7900000,Negombo,0,650,2025,Petrol,Suzuki Wagon R
+7500000,Negombo,0,650,2024,Petrol,Suzuki Wagon R
+7400000,Negombo,0,650,2023,Petrol,Suzuki Wagon R
+7700000,Makola,180000,1339,2008,Hybrid,Honda Civic
+5790000,Kadawatha,91000,1000,2017,Petrol,Perodua Axia
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+4100000,Maharagama,100000,0,2013,Petrol,Perodua Elite
+8990000,Battaramulla,118000,1500,2015,Hybrid,Honda Grace
+5750000,Vavuniya,120000,1259,2005,Petrol,Toyota Corolla
+1575000,Warakapola,100000,1300,1990,Petrol,Mazda Familia
+7095000,Panadura,2500,660,2024,Petrol,Suzuki Wagon R
+6650000,Pannipitiya,64000,660,2017,Petrol,Suzuki Wagon R
+7400000,Negombo,22194,650,2023,Petrol,Suzuki Wagon R
+2000000,Kahathuduwa,125000,800,2008,Petrol,Suzuki Alto
+12900000,Nugegoda,120000,2000,2013,Diesel,Audi A6
+7400000,Negombo,17567,650,2024,Petrol,Suzuki Wagon R
+7400000,Negombo,3000,650,2024,Petrol,Suzuki Wagon R
+9200000,Negombo,0,650,2023,Petrol,Suzuki Spacia
+8500000,Kirindiwela,13600,1500,2012,Petrol,Honda Insight
+3900000,Anuradhapura,927000,1000,2016,Petrol,Suzuki Alto
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6000000,Wellawatta (Colombo 06),38050,1000,2017,Petrol,KIA Picanto
+5800000,Nikaweratiya,90000,650,2018,Petrol,Suzuki Wagon R
+5150000,Boralesgamuwa,180000,1000,2007,Petrol,Toyota Vitz
+16200000,Panadura,142000,1800,2012,Diesel,Audi A6
+6750000,Baddegama,143000,1496,2013,Petrol,Toyota Aqua
+8535000,Kadawatha,0,658,2025,Hybrid,Suzuki Wagon R
+6950000,Nikaweratiya,49968,650,2018,Petrol,Suzuki Wagon R
+8980000,Bellanwila,45000,1000,2024,Hybrid,Toyota Yaris
+5850000,Vavuniya,156000,1000,2010,Petrol,Suzuki Swift
+6300000,Kiribathgoda,183000,1500,2007,Petrol,Toyota Belta
+2750000,Ruwanwella,120000,650,2001,Petrol,Daihatsu Hijet
+3750000,Gampaha,98000,1500,1998,Petrol,Mitsubishi Galant
+7400000,Kurunegala,0,650,2024,Petrol,Suzuki Alto
+2750000,Matara,100000,1600,2000,Petrol,Ford Laser
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+2500000,Delgoda,254000,1500,2001,Petrol,Toyota Soluna
+5300000,Ragama,87275,1000,2010,Petrol,Toyota Passo
+7750000,Yakkala,175000,1500,2012,Petrol,Toyota Axio
+6600000,Agalawatta,137867,990,2010,Petrol,Toyota Vitz
+2200000,Maharagama,132000,1450,1992,Petrol,Toyota Corolla
+2550000,Maharagama,125580,1970,1991,Diesel,Toyota Corolla
+8200000,Kiribathkumbura,56000,990,2017,Petrol,Toyota Vitz
+13500000,Alutgama,203000,1490,2017,Petrol,Honda Vezel
+780000,Dummalasuriya,0,1300,1979,Petrol,Toyota Corolla
+3000000,Ambalangoda,0,1000,2015,Petrol,Micro Panda
+4000000,Batticaloa,41000,999,2016,Petrol,Renault KWID
+13250000,Kotte,75000,1000,2017,Petrol,Honda Civic
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+2800000,Kadawatha,158100,1500,2001,Petrol,Hyundai Accent
+3850000,Deiyandara,88000,1200,2015,Petrol,Suzuki Alto
+1750000,Anuradhapura,180000,1500,2001,Petrol,Honda Civic
+5100000,Peradeniya,93000,650,2017,Hybrid,Suzuki Alto
+3900000,Anuradhapura,103000,800,2016,Petrol,Suzuki Alto
+4250000,Narammala,276545,1500,1999,Petrol,Mitsubishi Lancer
+7100000,Kegalle,159300,1500,2008,Petrol,Toyota Axio
+12700000,Malabe,41750,1400,2013,Petrol,Toyota Premio
+6800000,Gampaha,740000,998,2019,Petrol,Perodua Axia
+7350000,Kottawa,21000,660,2023,Petrol,Nissan Dayz
+7600000,Kalmunai,141000,1330,2014,Petrol,Toyota Aqua
+5250000,Kirulapone,0,650,2015,Petrol,Suzuki Wagon R
+5850000,Battaramulla,251000,650,2018,Petrol,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6400000,Colombo Fort (Colombo 01),260000,1000,2012,Petrol,Toyota Aqua
+7000000,Kollupitiya (Colombo 03),114000,1000,2017,Petrol,Toyota Vitz
+6495000,Ampitiya,200,1490,2007,Hybrid,Toyota Prius
+6400000,Dematagoda (Colombo 09),91500,650,2015,Petrol,Nissan Dayz
+1950000,Bandarawela,0,800,2006,Petrol,Suzuki Maruti
+6400000,Kandy,140,658,2017,Petrol,Suzuki Wagon R
+7700000,Kandy,130000,1000,2014,Petrol,Toyota Aqua
+3450000,Kandy,80000,800,2002,Petrol,Suzuki Swift
+3950000,Ampara,55000,800,2015,Petrol,Suzuki Alto
+3275000,Gothatuwa,181000,1000,2007,Petrol,Perodua Kelisa
+6975000,Kotte,0,660,2024,Petrol,Daihatsu Mira
+4000000,Nikaweratiya,170000,1500,2000,Petrol,Nissan N 16
+3300000,Colombo Fort (Colombo 01),101000,1500,2000,Petrol,Toyota Soluna
+5900000,Colombo Fort (Colombo 01),115280,650,2018,Petrol,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5075000,Kadawatha,94000,1000,2016,Petrol,Suzuki Celerio
+5790000,Kadawatha,91000,1000,2017,Petrol,Perodua Axia
+6450000,Kurunegala,128000,1000,2019,Petrol,Perodua Bezza
+5825000,Kadawatha,140000,1000,2008,Petrol,Toyota Vitz
+8250000,Delgoda,58000,1500,2015,Petrol,Mazda 2
+5700000,Bibile,120000,1500,2002,Petrol,Mazda Familia
+6600000,Seeduwa,940000,666,2017,Petrol,Suzuki Wagon R
+7450000,Negombo,143000,1000,2017,Petrol,Toyota Vitz
+9690000,Hingurakgoda,75000,1300,2020,Petrol,Toyota Allion
+1375000,Alawwa,75000,1200,2000,Petrol,Daewoo Matiz
+3380000,Hingurakgoda,75000,1300,1988,Petrol,Nissan Cefiro
+1900000,Kesbewa,75000,1300,2005,Petrol,Tata Indica
+6690000,Kekanadurra,109000,658,2018,Petrol,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7500000,Ganemulla,75000,1300,2007,Petrol,Toyota Axio
+13000000,Galle,125000,1500,2018,Hybrid,Toyota Axio
+4600000,Kelaniya,65000,814,2018,Petrol,Hyundai Eon
+3875000,Ganemulla,75000,1200,2015,Petrol,Suzuki Alto
+13725000,Delgoda,163000,1500,2016,Hybrid,Toyota Prius
+5450000,Pettah (Colombo 11),203000,1500,2006,Petrol,Nissan Wingroad
+3395000,Pelmadulla,71752,1000,2016,Petrol,Micro Panda
+8300000,Kurunegala,160000,1800,2008,Petrol,Toyota Premio
+5200000,Matara,143000,1500,2003,Petrol,Toyota Vios
+4900000,Karapitiya,136000,1000,2012,Petrol,Suzuki Wagon R
+10500000,Maspotha,147000,1800,2013,Hybrid,Toyota Prius
+7150000,Chilaw,139000,1500,2012,Hybrid,Toyota Aqua
+8490000,Matara,218000,1500,2013,Petrol,Toyota Axio
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5690000,Valaichenai,280000,1200,2002,Petrol,Toyota Corolla
+13500000,Malabe,90000,1500,2016,Petrol,Toyota Allion
+10700000,Kalawila Kiranthidiya,125000,1500,2016,Hybrid,Honda Grace
+3995000,Panadura,91000,1000,2018,Petrol,Micro Panda
+7800000,Kadawatha,63000,1000,2018,Petrol,Toyota Vitz
+3750000,Athurugiriya,72000,800,2016,Petrol,Renault KWID
+3525000,Athurugiriya,65000,800,2017,Petrol,Datsun Redi Go
+6575000,Wattala,140000,1300,2008,Petrol,Toyota Yaris
+8500000,Bandarawela,139000,1400,2013,Petrol,Toyota Avanza
+1780000,Kalagedihena,0,1300,1988,Petrol,Toyota Corona
+9300000,Ja-Ela,270000,1320,2013,Hybrid,Honda Fit
+6450000,Negombo,186100,1330,2011,Hybrid,Honda Fit
+8900000,Rajagiriya,115000,1500,2013,Petrol,Toyota Axio
+4200000,Galle,33000,800,2015,Petrol,Hyundai Eon
+2950000,Minuwangoda,60500,1000,2015,Petrol,Micro Panda
+2450000,Talawatugoda,119000,800,2010,Petrol,Suzuki Maruti
+6400000,Ganemulla,7000,650,2024,Petrol,Daihatsu Mira
+6550000,Ganemulla,1000,650,2025,Petrol,Daihatsu Mira
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6000000,Ratnapura,67790,660,2019,Petrol,Suzuki Alto
+2075000,Matale,218000,1680,1990,Diesel,Nissan B13
+5575000,Piliyandala,114000,660,2016,Petrol,Suzuki Wagon R
+6950000,Kottawa,6600,660,2023,Petrol,Mitsubishi eK
+3850000,Homagama,108000,800,2015,Petrol,Suzuki Alto
+7900000,Matara,117500,990,2017,Petrol,Suzuki Swift
+8175000,Hanwella,111,1500,2015,Hybrid,Toyota Aqua
+3780000,Piliyandala,151900,650,2004,Petrol,Suzuki Alto
+5700000,Athurugiriya,5500,1000,2017,Petrol,Suzuki Celerio
+8200000,Gampaha,110000,1800,2007,Petrol,Toyota Allion
+12900000,Kadawatha,74000,1500,2018,Hybrid,Toyota Axio
+3290000,Matara,0,800,2011,Petrol,Suzuki Alto
+43500000,Nittambuwa,40000,2979,2014,Petrol,BMW ActiveHybrid 7
+13100000,Kandy,240000,1500,2015,Petrol,Toyota Premio
+3550000,Kandy,150000,800,2014,Petrol,Suzuki Alto
+2650000,Anuradhapura,0,1000,2010,Petrol,Micro Panda
+4750000,Kelaniya,91000,1500,2002,Petrol,Nissan Sunny
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7800000,Agalawatta,186000,1000,2017,Petrol,Toyota Vitz
+3125000,Kotikawatta,87000,1000,2017,Petrol,Zotye Z100
+7300000,Makola,12000,660,2023,Petrol,Daihatsu Tanto
+8250000,Ampara,195000,1500,2014,Hybrid,Toyota Aqua
+8257000,Nawala,130000,1000,2017,Petrol,Suzuki Swift
+12950000,Gampaha,66000,998,2018,Petrol,Honda Civic
+8275000,Rajagiriya,14500,660,2023,Petrol,Mitsubishi eK
+7075000,Baddegama,210000,1500,2007,Petrol,Toyota Axio
+9600000,Nugegoda,80000,1000,2014,Hybrid,Honda Fit
+3895000,Homagama,104000,800,2016,Petrol,Suzuki Alto
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8375000,Rajagiriya,1000,660,2023,Hybrid,Suzuki Wagon R
+3250000,Beliatta,1003000,1000,2017,Petrol,Geely Panda
+7300000,Boralesgamuwa,140000,1000,2017,Petrol,Toyota Vitz
+3000000,Kottawa,154000,1300,1988,Petrol,Toyota Starlet
+2050000,Yakkala,93000,624,2015,Petrol,Tata Nano
+7200000,Dehiwala,159400,1500,2012,Hybrid,Honda Fit
+9075000,Narahenpita (Colombo 05),103050,1500,2013,Hybrid,Toyota Axio
+6500000,Kurunegala,88000,1000,2013,Petrol,Toyota Vitz
+16400000,Matara,126000,1500,2019,Petrol,Toyota Premio
+7000000,Homagama,0,1299,2008,Petrol,Mitsubishi Lancer
+7425000,Kadawatha,118000,1000,2016,Petrol,Toyota Vitz
+6550000,Kegalle,179000,1490,2002,Petrol,Toyota Allion
+7525000,Kotte,9000,660,2024,Hybrid,Mazda Flair
+4200000,Welimada,150000,1800,2002,Petrol,Nissan Primera
+5150000,Piliyandala,66200,1000,2015,Petrol,Suzuki Celerio
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5550000,Malabe,132000,1300,2008,Petrol,Suzuki Swift
+6000000,Kelaniya,242884,1300,2006,Petrol,Mitsubishi Lancer
+3600000,Ratnapura,131000,800,2003,Petrol,Suzuki Alto
+13725000,Delgoda,163000,1500,2016,Hybrid,Toyota Prius
+8490000,Matara,218000,1500,2013,Hybrid,Toyota Axio
+6100000,Kadawatha,106000,650,2016,Petrol,Suzuki Hustler
+13000000,Galle,125000,1500,2018,Hybrid,Toyota Axio
+6450000,Kandy,0,650,2018,Hybrid,Suzuki Wagon R
+7150000,Chilaw,139000,1500,2012,Hybrid,Toyota Aqua
+6750000,Gampaha,0,650,2024,Petrol,Daihatsu Mira
+8900000,Gampaha,0,660,2023,Petrol,Suzuki Spacia
+8850000,Kochchikade,40000,1000,2023,Petrol,Toyota Yaris
+7010000,Kurunegala,171000,1500,2012,Hybrid,Toyota Aqua
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8300000,Kelaniya,50900,1000,2019,Petrol,Suzuki Baleno
+7250000,Gampaha,0,650,2024,Petrol,Suzuki Wagon R
+9100000,Negombo,132000,1496,2013,Hybrid,Honda Fit
+7600000,Sravasthipura,171136,1500,2007,Petrol,Toyota Axio
+8800000,Adampan,100000,1200,2016,Hybrid,Honda Grace
+7900000,Morontuduwa,131440,1000,2016,Petrol,Suzuki Baleno
+9500000,Kelaniya,140009,1000,2024,Petrol,Toyota Passo
+8500000,Kelaniya,27000,660,2023,Petrol,Suzuki Wagon R
+14900000,Kelaniya,0,1000,2025,Petrol,Honda City
+4250000,Akuregoda,150000,1300,2007,Petrol,Nissan March
+9500000,Pannipitiya,277000,1500,2017,Hybrid,Honda Grace
+3500000,Kadawatha,187000,1500,1992,Petrol,Toyota Marino
+9100000,Kesbewa,169000,1500,2008,Petrol,Toyota Allion
+5500000,Kandy,0,650,2017,Hybrid,Suzuki Wagon R
+5350000,Anuradhapura,115000,1500,2001,Petrol,Toyota Corolla
+7300000,Anuradhapura,12000,660,2024,Petrol,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8000000,Kandy,0,0,2018,Petrol,Toyota Vitz
+5500000,Kandy,0,650,2014,Hybrid,Suzuki Wagon R
+7275000,Matara,160000,1500,2013,Hybrid,Honda Fit
+10700000,Nikaweratiya,1370000,1500,2015,Petrol,Toyota Axio
+8390000,Matara,19000,660,2025,Petrol,Suzuki Wagon R
+7900000,Adampan,56000,1000,2018,Petrol,Toyota Vitz
+7600000,Polonnaruwa,18000,658,2023,Petrol,Suzuki Wagon R
+6500000,Nikaweratiya,144000,650,2018,Petrol,Suzuki Wagon R
+6600000,Maharagama,18000,1497,2013,Hybrid,Toyota Aqua
+9900000,Kandy,288,650,2025,Petrol,Suzuki Spacia
+6980000,Marawila,83000,1000,2017,Petrol,Daihatsu Boon
+14750000,Nugegoda,0,1500,2025,Hybrid,Toyota Axio
+7350000,Boralesgamuwa,76000,1000,2018,Petrol,Toyota Vitz
+11400000,Minuwangoda,130000,1400,2017,Petrol,Toyota Axio
+12000000,Nikaweratiya,170000,1500,2016,Petrol,Toyota Premio
+10600000,Kohuwala,0,1000,2025,Petrol,Toyota Yaris
+8500000,Kohuwala,111000,1500,2015,Petrol,Toyota Axio
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8500000,Gampaha,0,890,2024,Petrol,Daihatsu Taft
+12500000,Tangalla,145000,1500,2018,Hybrid,Toyota Axio
+5890000,Kaduwela,35000,660,2014,Hybrid,Suzuki Wagon R
+10500000,Dehiwala,93000,1500,2014,Hybrid,Toyota Prius
+6300000,Wellawatta (Colombo 06),98000,1,2012,Petrol,Toyota Aqua
+6500000,Nittambuwa,91000,660,2018,Hybrid,Suzuki Wagon R
+5600000,Kottawa,200000,1500,2002,Petrol,Honda Civic
+3500000,Dompe,150000,800,2015,Petrol,Suzuki Alto
+7300000,Anuradhapura,150000,1500,2003,Petrol,Toyota Allion
+7000000,Anuradhapura,140000,1500,2005,Petrol,Toyota Corolla
+1750000,Puttalam,18000,800,2005,Petrol,Suzuki Maruti
+10890000,Kalutara,139000,1500,2013,Petrol,Toyota Premio
+5800000,Ja-Ela,227700,1500,2008,Petrol,Honda Airwave
+6800000,Dematagoda (Colombo 09),123000,1000,2015,Petrol,Toyota Vitz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+3200000,Polonnaruwa,0,650,2015,Petrol,Geely Panda
+5925000,Horana,85000,660,2015,Hybrid,Suzuki Hustler
+44000000,Wellawatta (Colombo 06),0,1332,2025,Petrol,Mercedes Benz CLA
+7000000,Ja-Ela,48000,660,2017,Hybrid,Suzuki Wagon R
+5750000,Ethul Kotte,154000,660,2016,Hybrid,Suzuki Hustler
+3650000,Mihintale,125000,800,2015,Petrol,Suzuki Alto
+8350000,Wennappuwa,69100,1000,2018,Petrol,Toyota Vitz
+7650000,Hokandara,80000,1000,2017,Petrol,Toyota Vitz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+13500000,Kandy,116000,2200,2013,Diesel,Mercedes Benz C Class
+1585000,Hanwella,0,800,2004,Petrol,Suzuki Maruti
+9500000,Mirigama,126000,1499,2014,Hybrid,Toyota Axio
+6250000,Athurugiriya,12000,650,2024,Petrol,Daihatsu Mira
+8375000,Kottawa,6000,1000,2023,Petrol,Toyota Passo
+7600000,Kollupitiya (Colombo 03),0,1200,2018,Petrol,Toyota Vitz
+11500000,Kandy,17600000,1200,2015,Petrol,Toyota Prius
+7890000,Kottawa,15100,660,2023,Petrol,Daihatsu Taft
+4100000,Mount Lavinia,34070,1000,2017,Petrol,Renault KWID
+6750000,Kegalle,90000,1000,2016,Petrol,Toyota Vitz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7900000,Maharagama,112000,0,2018,Petrol,Toyota Vitz
+41000000,Kohuwala,10000,1500,2023,Petrol,Mercedes Benz C200
+6900000,Badulla,85000,690,2013,Diesel,Toyota Prius
+7250000,Boralesgamuwa,100000,1000,2017,Petrol,Toyota Vitz
+6500000,Dehiwala,230000,70,2014,Electric,Nissan Leaf
+6950000,Chilaw,70000,650,2018,Petrol,Suzuki Wagon R
+9800000,Mirigama,126000,1500,2014,Petrol,Toyota Axio
+2150000,Weligama,277269,2300,1989,Diesel,Mitsubishi Galant
+5500000,Gonapola Junction,153000,1300,2007,Petrol,Toyota Vitz
+5800000,Kiribathgoda,90000,658,2018,Petrol,Suzuki Wagon R
+6625000,Nikaweratiya,0,650,2024,Petrol,Daihatsu Mira
+4050000,Kadawatha,75000,800,2017,Petrol,Suzuki Alto
+3500000,Kotahena (Colombo 13),155000,1000,2011,Petrol,Suzuki Alto
+7300000,Nikaweratiya,130000,1500,2014,Petrol,Toyota Aqua
+12000000,Nikaweratiya,170000,1500,2016,Petrol,Toyota Premio
+9700000,Polonnaruwa,0,1500,2010,Petrol,Toyota Premio
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+9150000,Colombo Fort (Colombo 01),184000,1500,2014,Hybrid,Toyota Axio
+1450000,Pannipitiya,75000,1300,2011,Petrol,Tata Nano
+4300000,Nikaweratiya,0,650,2011,Petrol,Perodua Elite
+4650000,Nikaweratiya,180000,1000,2016,Petrol,KIA Picanto
+2030000,Kiribathgoda,0,800,2005,Petrol,Suzuki Maruti
+5375000,Matale,0,1500,2001,Petrol,Toyota Corolla
+5125000,Piliyandala,100000,660,2017,Petrol,Suzuki Alto
+8250000,Ampara,195000,1500,2014,Hybrid,Toyota Aqua
+7850000,Wellawa,109000,1500,2014,Petrol,Honda Fit
+7800000,Galle,10000,998,2023,Petrol,Suzuki Wagon R
+6900000,Horana,182000,1500,2012,Hybrid,Toyota Aqua
+7990000,Colombo Fort (Colombo 01),120000,1500,2012,Hybrid,Toyota Aqua
+8250000,Dambulla,218000,1500,2014,Petrol,Toyota Axio
+6100000,Kadawatha,106000,650,2016,Petrol,Suzuki Hustler
+3550000,Monaragala,189000,1493,2000,Petrol,Honda City
+5450000,Kotahena (Colombo 13),0,0,2018,Petrol,Daihatsu Mira
+5400000,Ambalangoda,140000,650,2014,Petrol,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8800000,Kandy,0,650,2025,Hybrid,Suzuki Wagon R
+7950000,Borella (Colombo 08),51492,1000,2019,Petrol,Suzuki Baleno
+6790000,Anuradhapura,78500,650,2018,Hybrid,Suzuki Wagon R
+3600000,Ja-Ela,140000,1500,1991,Petrol,Honda CRX
+5890000,Ja-Ela,132000,650,2017,Petrol,Suzuki Spacia
+4200000,Kaduwela,185000,2000,2003,Petrol,Toyota Mark II
+5000000,Embilipitiya,83000,660,2014,Petrol,Suzuki Wagon R
+8575000,Katunayake,25000,1496,2015,Petrol,Toyota Axio
+2050000,Borella (Colombo 08),85000,800,2006,Petrol,Suzuki Maruti
+5700000,Baddegama,59000,1200,2021,Petrol,Mahindra KUV
+5790000,Kadawatha,91000,1000,2017,Petrol,Perodua Axia
+5690000,Ja-Ela,75000,658,2014,Petrol,Suzuki Wagon R
+3050000,Minuwangoda,32000,996,2010,Petrol,Suzuki Alto
+6150000,Ahungalla,81000,650,2018,Hybrid,Suzuki Wagon R
+3500000,Kadawatha,180000,1500,1992,Petrol,Toyota Marino
+8500000,Kirulapone,0,1800,2010,Petrol,Toyota Premio
+4400000,Minuwangoda,213000,1330,1997,Petrol,Toyota Starlet
+6900000,Pelawatta,100000,650,2018,Petrol,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+3800000,Ja-Ela,152000,800,2015,Petrol,Suzuki Alto
+9250000,Gampaha,0,650,2025,Petrol,Nissan Roox
+6850000,Gampaha,0,650,2025,Petrol,Daihatsu Mira
+8800000,Gampaha,0,650,2025,Hybrid,Suzuki Wagon R
+9500000,Marawila,145000,1496,2015,Petrol,Toyota Axio
+3800000,Katugastota,63000,658,2016,Petrol,Suzuki Alto
+3600000,Haputale,200000,1300,2004,Petrol,Suzuki Swift
+3550000,Kirulapone,0,1400,2005,Petrol,Suzuki Alto
+5125000,Kandy,133000,658,2014,Petrol,Suzuki Wagon R
+8600000,Kohuwala,0,650,2025,Petrol,Suzuki Wagon R
+6925000,Kalmunai,62600,650,2018,Hybrid,Suzuki Wagon R
+9500000,Kurunegala,2300,690,2023,Hybrid,Suzuki Wagon R
+8875000,Alawwa,128000,1500,2007,Petrol,Toyota Axio
+3850000,Kandana,116000,800,2016,Petrol,Suzuki Alto
+6950000,Balapitiya,5000,660,2025,Petrol,Daihatsu Mira
+9200000,Akarawita,150000,0,2015,Petrol,Toyota Axio
+3850000,Kirulapone,0,1500,1995,Petrol,Nissan Sunny
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6450000,Kandy,35000,1496,2013,Petrol,Toyota Aqua
+4500000,Gampaha,0,1000,2001,Petrol,Nissan Sylphy
+3850000,Kalmunai,105000,800,2015,Petrol,Suzuki Alto
+3190000,Rikillagaskada,47353,1200,2015,Petrol,Tata Indigo
+3850000,Delgoda,150000,1000,2009,Petrol,Perodua Viva
+8975000,Bandaragama,171000,1800,2011,Hybrid,Toyota Prius
+5450000,Horana,150000,660,2016,Petrol,Daihatsu Mira
+5175000,Kadawatha,96000,1000,2016,Petrol,Suzuki Celerio
+5175000,Kadawatha,102000,1000,2016,Petrol,Suzuki Celerio
+3275000,Piliyandala,119000,800,2012,Petrol,Suzuki Alto
+4350000,Adampan,107000,1500,2000,Petrol,Nissan FB 15
+6250000,Matale,90000,660,2016,Petrol,Honda N WGN
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+9275000,Ambalangoda,166350,1800,2011,Hybrid,Toyota Prius
+1895000,Seeduwa,226000,1490,2001,Petrol,Nissan Wingroad
+15000000,Medawachchiya,53507,1500,2016,Petrol,Toyota Premio
+4900000,Matale,50600,70,2013,Electric,Nissan Leaf
+5850000,Boralesgamuwa,138500,650,2015,Petrol,Suzuki Wagon R
+4300000,Pilimatalawa,140000,1300,2003,Petrol,Suzuki Swift
+9600000,Homagama,170000,1329,2017,Petrol,Toyota Yaris
+9450000,Pasyala,168000,1500,2013,Petrol,Toyota Prius
+8200000,Mount Lavinia,8400,1000,2023,Petrol,Toyota Passo
+35000000,Rajagiriya,53000,1497,2019,Petrol,Mercedes Benz E Class
+2400000,Pannipitiya,134000,1300,1993,Petrol,Nissan Sunny
+7500000,Gampaha,0,1317,2013,Petrol,Honda Fit
+7600000,Rajagiriya,1580,660,2024,Hybrid,Suzuki Hustler
+7900000,Maharagama,35000,49,2023,Electric,Tata Tiago
+8375000,Kottawa,18100,1000,2023,Petrol,Toyota Passo
+7790000,Kottawa,3400,660,2023,Hybrid,Mitsubishi eK
+4000000,Panadura,91000,1000,2018,Petrol,Micro Panda
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+3000000,Galagedara,196000,1300,1996,Petrol,Nissan FB 14
+7950000,Kottawa,44000,1000,2017,Petrol,Toyota Vitz
+6550000,Homagama,214000,1300,2007,Petrol,Mitsubishi Lancer
+6450000,Homagama,116300,1600,2007,Petrol,Toyota Corolla
+8800000,Gampaha,160000,1500,2012,Petrol,Toyota Axio
+6550000,Gampaha,8000,650,2024,Petrol,Suzuki Alto
+1140000,Kotiyakumbura,0,1450,1985,Petrol,Toyota Carina
+8900000,Dehiwala,146000,1490,2015,Hybrid,Honda Grace
+12990000,Nugegoda,25000,1200,2023,Hybrid,Nissan Aura
+5700000,Padukka,123300,660,2017,Hybrid,Suzuki Wagon R
+6050000,Walasmulla,85000,990,2007,Petrol,Toyota Vitz
+2850000,Piliyandala,0,1000,2015,Petrol,Micro Panda
+2890000,Kottawa,100000,1500,1996,Petrol,Nissan FB 14
+3750000,Sri Jayawardenepura Kotte,78000,1000,2015,Petrol,Suzuki Alto
+5600000,Panadura,95000,660,2016,Petrol,Suzuki Wagon R
+2500000,Adampan,134500,624,2017,Petrol,Tata Nano
+5675000,Akuressa,83300,1790,2002,Petrol,Toyota Corolla
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+4880000,Homagama,100500,1000,2015,Petrol,Suzuki Celerio
+5000000,Muddaragama,64000,1300,2014,Petrol,Suzuki Swift
+11990000,Maharagama,0,1500,2022,Hybrid,Toyota Yaris
+2700000,Aralaganwila,0,1490,1997,Petrol,Nissan Pulsar
+7200000,Pussellawa,216000,1200,2009,Petrol,Honda Insight
+4300000,Kegalle,155000,1300,2005,Petrol,Suzuki Swift
+7200000,Pussellawa,54000,650,2018,Petrol,Suzuki Wagon R
+6800000,Pussellawa,140000,650,2017,Petrol,Suzuki Wagon R
+6300000,Dehiwala,76000,650,2017,Petrol,Daihatsu Cast
+6800000,Chilaw,80000,1000,2016,Petrol,Toyota Vitz
+2975000,Neboda,193000,800,2011,Petrol,Suzuki Alto
+900000,Marawila,85000,990,1985,Petrol,Daihatsu Charade
+3295000,Bandaragama,92000,1500,2011,Petrol,Micro MX7
+6295000,Panadura,0,650,2018,Petrol,Suzuki Wagon R
+5985000,Panadura,0,670,2016,Petrol,Suzuki Spacia
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+1280000,Gampaha,60000,1400,1980,Petrol,Mitsubishi Lancer
+3875000,Mulleriyawa New Town,55600,1000,2018,Petrol,Micro Panda
+13200000,Dankotuwa,130000,1500,2014,Petrol,Toyota Premio
+9200000,Kadawatha,145000,1500,2014,Hybrid,Honda Grace
+12800000,Anuradhapura,122000,1500,2018,Hybrid,Toyota Axio
+3675000,Dematagoda (Colombo 09),280000,1490,1996,Diesel,Toyota Starlet
+4090000,Gampaha,95000,1000,2011,Petrol,Suzuki A Star
+3600000,Battaramulla,140000,1499,1999,Petrol,Mazda Familia
+3200000,Galewela,89999,2000,2000,Petrol,Hyundai Sonata
+2790000,Hambantota,23425,1500,1995,Diesel,Toyota Starlet
+7200000,Kotte,600,660,2024,Petrol,Suzuki Wagon R
+3950000,Homagama,69110,1300,2017,Petrol,Micro Panda Cross
+6500000,Wennappuwa,120000,1300,2012,Petrol,Honda Shuttle
+3000000,Boralesgamuwa,212000,1500,1996,Petrol,Nissan N 16
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6200000,Rajagiriya,198000,1300,2011,Hybrid,Honda Fit
+4750000,Beruwala,190000,1500,2004,Petrol,Honda Aria
+3800000,Pilimatalawa,270000,2000,1997,Petrol,Toyota Corolla
+5200000,Katugastota,75000,1500,2000,Petrol,Suzuki Wagon R
+49500000,Borella (Colombo 08),67000,2000,2017,Hybrid,BMW 740Le
+11200000,Homagama,145000,1500,2013,Petrol,Toyota Premio
+750000,Katuneriya,150000,1000,1980,Petrol,Mitsubishi Lancer
+1350000,Katuneriya,160000,800,1984,Petrol,Toyota Corolla
+2590000,Katugastota,0,1000,2002,Petrol,Suzuki Alto
+4275000,Katugastota,0,1500,2002,Petrol,Toyota Vitz
+2250000,Katuneriya,56000,800,1995,Petrol,Alfa Romeo Car
+650000,Katuneriya,150000,800,1984,Petrol,Toyota Starlet
+1350000,Katuneriya,150000,8000,1984,Petrol,Toyota Corolla
+5375000,Veyangoda,100000,1500,2001,Petrol,Toyota Corolla
+2695000,Pasyala,1000000,1300,2002,Petrol,Nissan Primera
+4300000,Batticaloa,51000,649,2016,Petrol,Hyundai Eon
+5275000,Malabe,159000,1500,2004,Petrol,Nissan Tiida
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5500000,Puttalam,127000,650,2016,Hybrid,Suzuki MR wagon
+5275000,Malabe,240000,1500,2004,Petrol,Toyota Vios
+3600000,Gampaha,0,800,2015,Petrol,Suzuki Alto
+5675000,Malabe,118000,650,2014,Petrol,Suzuki Wagon R
+6575000,Malabe,80000,650,2018,Petrol,Suzuki Wagon R
+9750000,Gampaha,11500,990,2024,Petrol,Toyota Yaris
+9850000,Gampaha,2700,990,2024,Petrol,Toyota Yaris
+8800000,Wattala,45500,990,2018,Petrol,Toyota Vitz
+21000000,Mount Lavinia,75000,2000,2012,Diesel,BMW 5 Series
+7150000,Gampaha,12500,660,2023,Petrol,Suzuki Wagon R
+2475000,Horana,145000,1400,1991,Petrol,Nissan B13
+3840000,Piliyandala,201000,1300,2003,Petrol,Nissan March
+7350000,Kohuwala,7000,650,2023,Petrol,Mitsubishi Space Wagon
+10550000,Kohuwala,120000,1500,2017,Petrol,Honda Grace
+7700000,Colombo Fort (Colombo 01),136000,1500,2016,Hybrid,Toyota Aqua
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8750000,Kurunegala,0,658,2025,Hybrid,Suzuki Wagon R
+7250000,Kurunegala,0,658,2025,Petrol,Suzuki Wagon R
+5100000,Gampaha,195000,1000,2007,Petrol,Toyota Vitz
+8950000,Waskaduwa,0,650,2025,Hybrid,Suzuki Wagon R
+48700000,Cinnamon Garden (Colombo 07),67000,2000,2017,Hybrid,BMW 740Le
+9475000,Panadura,87000,1500,2016,Petrol,Toyota Axio
+4925000,Kadawatha,93000,1000,2015,Petrol,Suzuki Celerio
+2250000,Meegoda,110000,800,2007,Petrol,Suzuki Maruti
+4775000,Homagama,0,1300,2004,Petrol,Suzuki Swift
+7200000,Ingiriya,129100,1490,2013,Petrol,Toyota Aqua
+6900000,Kadawatha,125000,1600,2007,Petrol,Toyota Corolla
+3800000,Hasalaka,0,800,2016,Petrol,Renault KWID
+5590000,Kaduwela,138000,1000,2007,Petrol,Toyota Vitz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+9000000,Colombo Fort (Colombo 01),0,650,2023,Petrol,Honda N BOX
+6400000,Kirulapone,107000,650,2018,Petrol,Suzuki Wagon R
+8900000,Mawathagama,0,650,2024,Petrol,Suzuki Hustler
+7200000,Mawathagama,0,650,2024,Petrol,Suzuki Hustler
+3500000,Kadawatha,180000,1500,1992,Petrol,Toyota AE100
+3150000,Minuwangete,68000,630,2017,Petrol,Micro Panda
+8000000,Ragama,210000,1300,2011,Petrol,Honda Fit
+8350000,Nugegoda,210000,1500,2010,Hybrid,Toyota Prius
+7200000,Matara,140000,1500,2012,Hybrid,Toyota Aqua
+4650000,Negombo,83600,1000,2016,Petrol,Suzuki Alto
+5900000,Battaramulla,130000,650,2017,Hybrid,Suzuki Wagon R
+6800000,Mawathagama,0,650,2023,Petrol,Suzuki Wagon R
+7990000,Kadawatha,3500,0,2024,Petrol,Daihatsu Taft
+4600000,Pannala,130828,1490,2003,Petrol,Nissan FB 15
+3600000,Nugegoda,127600,1000,2007,Petrol,Perodua Kelisa
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5550000,Kirulapone,0,650,2010,Petrol,Suzuki Wagon R
+6500000,Mawathagama,0,650,2023,Petrol,Daihatsu Mira
+7200000,Mawathagama,0,650,2024,Petrol,Suzuki Wagon R
+1675000,Ja-Ela,0,1500,1988,Petrol,Toyota Corona
+6700000,Kirulapone,0,1800,2012,Petrol,Honda Civic
+4900000,Kaduwela,75000,1300,2017,Petrol,Suzuki Alto
+7000000,Malabe,158000,1500,2013,Hybrid,Toyota Aqua
+7200000,Nittambuwa,11300,650,2024,Hybrid,Suzuki Alto
+8700000,Seeduwa,134000,1300,2013,Hybrid,Honda Fit
+8150000,Gampaha,0,1500,2010,Petrol,Toyota Axio
+7200000,Pussellawa,230000,1200,2013,Petrol,Toyota Aqua
+2100000,Katuneriya,150000,1490,2001,Petrol,Toyota Carina
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+9800000,Nittambuwa,4300,1000,2023,Hybrid,Toyota Yaris
+7800000,Pussellawa,90000,1200,2016,Petrol,Toyota Vitz
+7200000,Pussellawa,107000,650,2018,Petrol,Suzuki Wagon R
+6600000,Kadawatha,180000,1500,2008,Hybrid,Toyota Prius
+5300000,Nittambuwa,190000,1900,2003,Petrol,Toyota Vios
+5250000,Veyangoda,179000,650,2015,Petrol,Suzuki Wagon R
+9250000,Kurunegala,0,650,2025,Petrol,Suzuki Wagon R
+6450000,Gampaha,120000,650,2017,Petrol,Suzuki Wagon R
+7500000,Kelaniya,106000,1300,2008,Petrol,Toyota Belta
+8650000,Embilipitiya,15000,660,2023,Petrol,Daihatsu Move
+13850000,Embilipitiya,0,1000,2024,Petrol,Nissan Aura
+4975000,Kadawatha,98000,1000,2015,Petrol,Suzuki Celerio
+5400000,Kelaniya,254249,800,2014,Petrol,Suzuki Wagon R
+2575000,Badulla,77100,1300,2011,Petrol,Micro Panda
+8600000,Embilipitiya,2000,660,2023,Petrol,Nissan Roox
+13750000,Embilipitiya,3500,1200,2024,Petrol,Nissan Aura
+13350000,Embilipitiya,0,1200,2023,Petrol,Nissan Aura
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6990000,Embilipitiya,0,660,2024,Petrol,Daihatsu Mira
+5750000,Kadawatha,115000,1000,2017,Petrol,Perodua Axia
+8190000,Embilipitiya,16000,660,2023,Petrol,Suzuki Wagon R
+8450000,Embilipitiya,0,660,2023,Hybrid,Nissan Dayz
+5375000,Kadawatha,129000,1000,2016,Petrol,Suzuki Celerio
+8950000,Embilipitiya,0,660,2024,Petrol,Suzuki Wagon R
+5175000,Kadawatha,71000,1000,2016,Petrol,Suzuki Celerio
+8150000,Embilipitiya,0,660,2023,Petrol,Daihatsu Move
+4250000,Kurunegala,0,1500,2001,Petrol,Nissan FB 15
+7500000,Pussellawa,105000,650,2018,Petrol,Suzuki Wagon R
+20500000,Anuradhapura,65500,1490,2016,Petrol,Mercedes Benz CLA
+7000000,Angoda,78000,1000,2015,Petrol,Toyota Vitz
+21750000,Kiribathgoda,82000,2000,2014,Petrol,Mercedes Benz C200
+5950000,Kurunegala,85000,658,2017,Hybrid,Suzuki Wagon R
+2850000,Diyabeduma,139000,800,2006,Petrol,Suzuki Alto
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+15400000,Kandy,70000,1500,2018,Petrol,Toyota Premio
+2875000,Minuwangoda,244449,1490,1996,Petrol,Nissan Pulsar
+10700000,Kalutara,135000,1790,2013,Petrol,Toyota Prius
+8750000,Kohuwala,0,650,2025,Petrol,Suzuki Wagon R
+9700000,Horana,145000,1790,2012,Petrol,Toyota Prius
+9200000,Kotikawatta,240000,1500,2017,Hybrid,Honda Grace
+3500000,Boralesgamuwa,109000,800,2011,Petrol,Suzuki A Star
+2590000,Horana,0,1000,2013,Petrol,Micro Panda
+8500000,Nikaweratiya,0,650,2025,Petrol,Suzuki Wagon R
+3950000,Mattakkuliya (Colombo 15),176000,1300,2002,Petrol,Suzuki Swift
+18000000,Boralesgamuwa,60000,1400,2019,Petrol,Audi A4
+3600000,Boralesgamuwa,79000,800,2015,Petrol,Suzuki Alto
+3400000,Boralesgamuwa,98000,800,2016,Petrol,Renault KWID
+3650000,Boralesgamuwa,102000,800,2016,Petrol,Renault KWID
+3650000,Boralesgamuwa,119000,1000,2011,Petrol,Suzuki A Star
+6500000,Nugegoda,2200,660,2024,Petrol,Suzuki Alto
+12000000,Ragama,78000,1800,2012,Hybrid,Toyota Prius
+6400000,Nugegoda,18300,658,2024,Petrol,Suzuki Alto
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5700000,Pannala,113512,998,2015,Petrol,Perodua Axia
+7800000,Pussellawa,140000,1200,2014,Petrol,Toyota Aqua
+4275000,Kiribathgoda,165000,1000,2015,Petrol,Suzuki Alto
+8975000,Minuwangoda,161000,1330,2013,Petrol,Honda Fit
+1750000,Katunayake,82000,803,2006,Petrol,Chery QQ
+4250000,Malabe,157600,1300,2004,Petrol,Suzuki Swift
+3850000,Kalmunai,105000,800,2015,Petrol,Suzuki Alto
+8200000,Gampaha,84000,1000,2017,Petrol,Toyota Vitz
+5050000,Avissawella,67000,1000,2016,Petrol,Suzuki Celerio
+3850000,Kurunegala,86000,650,2015,Petrol,Suzuki Alto
+3195000,Bandaragama,57000,1000,2015,Petrol,Micro Panda
+3790000,Bandarawela,140000,790,2015,Petrol,Suzuki Alto
+6500000,Ampitiya,0,658,2018,Hybrid,Suzuki Wagon R
+7200000,Pussellawa,60000,1200,2018,Petrol,Toyota Wigo
+2230000,Horana,1000000,1498,1995,Petrol,Mazda Familia
+6350000,Alutnuwara,0,1500,2004,Petrol,Mercedes Benz C200
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+2000000,Matale,180000,1300,1987,Petrol,Toyota Starlet
+7000000,Hettipola,8000,650,2025,Petrol,Suzuki Wagon R
+3950000,Kirillawala,153000,1300,2007,Petrol,Suzuki Swift
+9900000,Kandy,4000,650,2024,Hybrid,Suzuki Spacia
+9950000,Kandy,4000,650,2024,Hybrid,Suzuki Spacia
+6575000,Murutalawa,1170000,658,2017,Petrol,Suzuki Wagon R
+6800000,Pannala,251780,1000,2013,Petrol,Toyota Aqua
+4000000,Batticaloa,180000,1490,2000,Petrol,Nissan FB 15
+7700000,Kurunegala,140000,1490,2014,Petrol,Honda Fit
+2500000,Wennappuwa,88345,1300,2012,Petrol,Micro Panda
+12450000,Ragama,78000,1800,2012,Hybrid,Toyota Prius
+11800000,Gampaha,50000,1500,2018,Hybrid,Toyota Axio
+7290000,Gampaha,80000,1500,2014,Petrol,Honda Fit
+6850000,Balapitiya,0,660,2025,Petrol,Daihatsu Mira
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+550000,Adampan,0,1400,1978,Petrol,Nissan B310
+10790000,Horana,156000,1500,2013,Petrol,Toyota Allion
+6150000,Ampara,150000,1490,2003,Petrol,Toyota Corolla
+3450000,Agaliya,150000,690,2002,Petrol,Suzuki Swift
+6700000,Ambalangoda,182300,1600,2008,Petrol,Toyota Corolla
+5100000,Ambalangoda,150000,1300,2010,Petrol,Nissan Note X
+5000000,Nugegoda,82000,1000,2015,Petrol,Suzuki Celerio
+6300000,Ambalangoda,183000,1300,2011,Hybrid,Honda Fit
+5650000,Ambalangoda,118000,650,2014,Hybrid,Suzuki Wagon R
+9700000,Ambalangoda,0,1500,2017,Hybrid,Toyota Axio Fielder
+8600000,Ambalangoda,140000,1500,2014,Hybrid,Honda Grace
+6600000,Divulapitiya,3900,660,2023,Petrol,Daihatsu Mira
+5750000,Wadduwa,139000,660,2016,Petrol,Suzuki Wagon R
+6850000,Adampan,102000,800,2017,Hybrid,Suzuki Spacia
+7200000,Embilipitiya,0,1490,2008,Petrol,Toyota Prius
+5250000,Kaduwela,190000,1500,2003,Petrol,Toyota Vios
+3250000,Kaduwela,56000,1000,2020,Petrol,Zotye Z100
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8600000,Kurunegala,0,660,2025,Hybrid,Suzuki Wagon R
+6900000,Mahiyanganaya,0,1500,2007,Petrol,Toyota Axio
+8200000,Adampan,52000,990,2017,Petrol,Toyota Vitz
+8800000,Kurunegala,0,650,2025,Petrol,Suzuki Wagon R
+1600000,Kelaniya,129000,800,2006,Petrol,Chery QQ
+7350000,Anuradhapura,6369,660,2024,Hybrid,Suzuki Wagon R
+8500000,Pussellawa,143000,1500,2015,Petrol,Toyota Aqua
+5050000,Athurugiriya,110000,650,2016,Hybrid,Suzuki Alto
+7500000,Kurunegala,10900,660,2024,Petrol,Suzuki Wagon R
+4200000,Gampaha,121000,1000,2005,Petrol,Toyota Passo
+5250000,Delgoda,154000,990,2008,Petrol,Toyota Passo
+5300000,Homagama,250000,1000,2004,Petrol,Toyota Vios
+8700000,Kurunegala,14500,660,2024,Hybrid,Suzuki Spacia
+8200000,Pussellawa,140000,1330,2014,Petrol,Honda Fit
+5690000,Walasmulla,130000,658,2015,Petrol,Suzuki Wagon R
+2390000,Delgoda,117116,812,2007,Petrol,Chery QQ
+8500000,Pussellawa,143000,1500,2015,Petrol,Toyota Aqua
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8000000,Kurunegala,5000,660,2023,Hybrid,Suzuki Wagon R
+2390000,Delgoda,170406,1100,2002,Petrol,Hyundai Santro
+6850000,Ampara,100000,650,2018,Hybrid,Suzuki Wagon R
+7350000,Polonnaruwa,0,660,2024,Petrol,Mitsubishi Space Wagon
+7200000,Pussellawa,110000,650,2018,Petrol,Suzuki Wagon R
+8250000,Kottawa,6600,660,2023,Petrol,Toyota Passo
+7925000,Matale,99000,1500,2014,Petrol,Honda Fit
+9250000,Anuradhapura,164000,1500,2016,Hybrid,Honda Grace
+1750000,Kiribathgoda,438547,1300,1991,Diesel,Toyota Corolla
+7400000,Kottawa,6600,660,2024,Petrol,Nissan Dayz
+8800000,Kottawa,6600,660,2023,Petrol,Daihatsu Thor
+8050000,Matara,0,660,2025,Hybrid,Suzuki Wagon R
+7500000,Kegalle,4054,660,2024,Petrol,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8700000,Kalutara,500,658,2024,Petrol,Daihatsu Tanto
+8900000,Colombo Fort (Colombo 01),180000,1500,2016,Petrol,Toyota Axio
+5850000,Kalmunai,83000,650,2015,Petrol,Suzuki Wagon R
+8400000,Kalmunai,94000,1000,2018,Petrol,Toyota Vitz
+8150000,Badulla,130000,1500,2014,Petrol,Honda Fit
+9750000,Kohuwala,7000,650,2024,Petrol,Suzuki Spacia
+6400000,Kohuwala,68000,1600,2011,Petrol,KIA Cerato
+13500000,Kohuwala,0,1000,2025,Petrol,Nissan Almera
+2850000,Kotahena (Colombo 13),140000,0,2008,Petrol,Chevrolet Aveo
+7200000,Pussellawa,155000,1500,2007,Petrol,Toyota Axio
+8780000,Kurunegala,0,650,2025,Petrol,Suzuki Wagon R
+6490000,Anamaduwa,74000,650,2017,Petrol,Suzuki Wagon R
+7200000,Pussellawa,114000,1200,2015,Petrol,Honda Grace
+2375000,Warakapola,350000,1000,2003,Petrol,Suzuki Alto
+9800000,Ambalangoda,0,658,2025,Petrol,Suzuki Spacia
+7200000,Ambalangoda,30000,658,2023,Petrol,Nissan Dayz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5250000,Ambalangoda,306000,1500,2001,Petrol,Toyota Corolla
+3500000,Kalmunai,98500,1000,2010,Petrol,Suzuki Estilo
+6850000,Battuluoya,83000,660,2017,Hybrid,Suzuki Wagon R
+14400000,Kurunegala,86000,1500,2017,Petrol,Toyota Premio
+7775000,Kottawa,6600,660,2023,Petrol,Daihatsu Taft
+7925000,Kalmunai,82500,1000,2018,Petrol,Toyota Vitz
+7200000,Adampan,58000,1000,2016,Petrol,Toyota Vitz
+4100000,Wattala,170000,2000,2001,Petrol,Alfa Romeo 156
+5500000,Sooriyawewa Town,90000,660,2017,Petrol,Suzuki Wagon R
+8650000,Akkaraipattu,76000,1000,2019,Petrol,Toyota Vitz
+7275000,Kottawa,6600,660,2023,Petrol,Suzuki Spacia
+7290000,Matara,4900,660,2024,Petrol,Suzuki Wagon R
+7250000,Kottawa,6600,660,2023,Petrol,Mitsubishi eK
+6450000,Kottawa,2808,660,2024,Petrol,Daihatsu Mira
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+2500000,Delgoda,240420,1500,2001,Petrol,Toyota Soluna
+7250000,Kandy,0,1000,2016,Petrol,Toyota Vitz
+6500000,Kurunegala,3000,650,2023,Petrol,Daihatsu Mira
+5175000,Kurunegala,175000,1200,2003,Petrol,Nissan FB 15
+5800000,Battaramulla,120000,1300,2009,Petrol,Suzuki Swift
+5475000,Nugegoda,70000,650,2016,Petrol,Suzuki Alto
+2550000,Kurunegala,168000,1200,2011,Hybrid,Honda Insight
+16800000,Kurunegala,0,1200,2025,Petrol,Honda City
+3500000,Ambalangoda,90000,795,2015,Petrol,Suzuki Alto
+6950000,Ambalangoda,235000,1799,2011,Petrol,Honda Civic
+5100000,Rambukkana,108021,650,2017,Petrol,Suzuki Alto
+3300000,Avissawella,2,1300,2003,Petrol,Nissan March
+3100000,Kaduwela,260000,1800,2000,Petrol,Nissan Sunny
+5300000,Kurunegala,72000,80,2014,Electric,Nissan Leaf
+6800000,Gunnepana,81500,660,2017,Petrol,Honda N WGN
+3470000,Kaduwela,71300,1300,2014,Petrol,Micro Panda Cross
+9000000,Polonnaruwa,10098,990,2018,Petrol,Toyota Vitz
+4900000,Batticaloa,140000,1200,2010,Petrol,Suzuki Swift
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+3890000,Athurugiriya,210000,1000,2011,Petrol,Perodua Elite
+4375000,Horana,120000,1000,2010,Petrol,Perodua Viva
+8500000,Ambalangoda,238000,1500,2009,Petrol,Toyota Allion
+5800000,Ambalangoda,38000,1330,2010,Hybrid,Honda Fit
+5675000,Ambalangoda,90000,650,2014,Hybrid,Suzuki Wagon R
+4900000,Ambalangoda,0,650,2015,Hybrid,Suzuki Wagon R
+6750000,Ambalangoda,72000,1000,2019,Petrol,Perodua Bezza
+3500000,Nugegoda,100000,2000,1999,Petrol,Hyundai XG 30
+5450000,Wattala,110813,650,2015,Petrol,Daihatsu Mira
+5900000,Kuliyapitiya,129500,1300,2010,Petrol,Toyota Vitz
+13150000,Aniwatta,114000,1500,2017,Petrol,Toyota Allion
+1680000,Badulla,77000,800,2007,Petrol,Chery QQ
+5800000,Matara,84000,650,2014,Petrol,Suzuki Wagon R
+9200000,Malabe,127000,1500,2017,Hybrid,Toyota Aqua
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6500000,Galle,80000,650,2017,Petrol,Suzuki Wagon R
+7250000,Divulapitiya,4210,660,2023,Hybrid,Suzuki Alto
+7890000,Trincomalee,175000,1500,2013,Petrol,Toyota Aqua
+5890000,Homagama,183000,650,2016,Petrol,Suzuki Wagon R
+12600000,Mount Lavinia,0,1000,2025,Petrol,Honda City
+7265000,Gampaha,9800,650,2024,Petrol,Suzuki Wagon R
+8950000,Kalutara,0,660,2025,Hybrid,Suzuki Wagon R
+1325000,Narammala,150000,1350,1986,Petrol,Toyota Sprinter
+1690000,Kohuwala,152520,1500,1987,Petrol,Nissan Sunny
+8650000,Athurugiriya,0,650,2025,Petrol,Daihatsu Taft
+3500000,Tawalama,170000,990,2012,Petrol,Suzuki Alto
+2690000,Dambulla,200000,1500,1998,Petrol,Nissan FB 14
+8850000,Athurugiriya,212000,1500,2010,Petrol,Toyota Allion
+7250000,Kottawa,17000,650,2024,Petrol,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5700000,Medirigiriya,55000,650,2017,Petrol,Suzuki Wagon R
+5000000,Badulla,190000,1320,2003,Petrol,Suzuki Swift
+9200000,Dehiwala,120000,1500,2015,Hybrid,Honda Grace
+1975000,Kaduruwela,180000,1500,1990,Petrol,Mazda Familia
+3695000,Kuliyapitiya,105000,800,2015,Petrol,Suzuki Alto
+4450000,Ambalangoda,130000,990,2011,Petrol,Perodua Elite
+6000000,Ambalangoda,160000,1500,2006,Petrol,Toyota Corolla
+3600000,Ambalangoda,0,990,2011,Petrol,Perodua Elite
+12000000,Ambalangoda,85000,1000,2019,Petrol,Honda Civic
+8200000,Ambalangoda,69297,990,2017,Petrol,Audi A1
+15000000,Ambalangoda,115000,990,2018,Petrol,Audi A3
+4195000,Panadura,0,990,1999,Petrol,Toyota Vitz
+5350000,Aniwatta,130000,1000,2008,Petrol,Toyota Vitz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5490000,Bandaragama,112000,1500,2009,Petrol,Suzuki Swift
+3400000,Batticaloa,96000,1498,2000,Petrol,Toyota Soluna
+3500000,Batticaloa,65000,650,2011,Petrol,Suzuki Estilo
+8100000,Ahangama,150000,1497,2009,Petrol,Toyota Prius
+6100000,Gampaha,160000,1490,2004,Petrol,Toyota Allion
+7450000,Pannipitiya,129600,660,2018,Hybrid,Suzuki Spacia
+9600000,Adampan,164000,1800,2010,Hybrid,Toyota Prius
+8450000,Walasmulla,126000,1500,2015,Hybrid,Toyota Aqua
+8700000,Nugegoda,0,650,2025,Petrol,Suzuki Wagon R
+8900000,Nugegoda,56000,1000,2022,Petrol,Toyota Yaris
+7600000,Batticaloa,145000,1000,2018,Petrol,Toyota Vitz
+9210000,Cinnamon Garden (Colombo 07),0,30,2025,Electric,BYD ATTO1
+13250000,Battaramulla,132000,1500,2018,Hybrid,Toyota Axio
+3000000,Malabe,0,1290,1996,Petrol,Nissan Sunny
+8800000,Puttalam,120000,1790,2011,Petrol,Toyota Prius
+6800000,Boralesgamuwa,90000,660,2018,Hybrid,Suzuki Wagon R
+7500000,Ambalangoda,159000,990,2018,Petrol,Toyota Vitz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6600000,Ambalangoda,125450,650,2017,Petrol,Honda N WGN
+6500000,Ambalangoda,81000,996,2017,Petrol,Daihatsu Boon
+4750000,Ambalangoda,0,1300,2004,Petrol,Suzuki Swift
+5875000,Ambalangoda,125000,658,2017,Petrol,Suzuki Spacia
+8650000,Ambalangoda,0,990,2019,Petrol,Toyota Vitz
+7700000,Ambalangoda,164547,1300,2014,Petrol,Honda Fit
+7850000,Ambalangoda,130000,1000,2017,Petrol,Suzuki Swift
+7500000,Katugastota,2800,660,2024,Hybrid,Suzuki Wagon R
+4050000,Ambalangoda,154328,1000,2011,Petrol,Perodua Viva
+4600000,Ambalangoda,134000,1497,2004,Petrol,Toyota Vios
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+10500000,Cinnamon Garden (Colombo 07),105000,1500,2016,Hybrid,Honda Grace
+10400000,Ambalangoda,140000,1500,2016,Hybrid,Toyota Axio
+8300000,Ambalangoda,37500,990,2019,Petrol,Toyota Vitz
+5200000,Ambalangoda,120000,990,2007,Petrol,Toyota Vitz
+16500000,Baddegama,48000,1496,2020,Petrol,Toyota Premio
+8900000,Ambalangoda,68700,1339,2013,Hybrid,Honda Fit
+8200000,Polonnaruwa,0,1000,2024,Petrol,Toyota Roomy
+12000000,Ambalangoda,92766,1500,2019,Hybrid,Toyota Axio
+7350000,Kurunegala,230,660,2024,Petrol,Suzuki Wagon R
+5400000,Ambalangoda,0,1300,2010,Petrol,Suzuki Swift
+19500000,Ambalangoda,160000,2000,2012,Diesel,BMW M Series
+8250000,Ambalangoda,165000,1600,2011,Hybrid,Toyota Prius
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+9650000,Ambalangoda,232000,1500,2011,Petrol,Toyota Allion
+5300000,Ambalangoda,150000,658,2015,Petrol,Suzuki Spacia
+25000000,Ambalangoda,0,2000,2019,Petrol,Mercedes Benz CLA
+11100000,Ambalangoda,141000,1800,2015,Hybrid,Toyota Prius
+5300000,Dematagoda (Colombo 09),93500,1500,2008,Petrol,Nissan Tiida
+2900000,Horana,127000,800,2006,Petrol,Suzuki Alto
+4250000,Beruwala,150000,1000,2011,Petrol,Perodua Viva
+1975000,Galgamuwa,90000,800,2006,Petrol,Suzuki Maruti
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7390000,Rajagiriya,1000,1000,2024,Petrol,Suzuki Wagon R
+4200000,Pussellawa,200117,650,2003,Petrol,Suzuki Alto
+8200000,Pussellawa,168000,1200,2014,Hybrid,Toyota Aqua
+6900000,Mahiyanganaya,123456,123456,2007,Petrol,Toyota Axio
+2285000,Mount Lavinia,135000,1000,1997,Petrol,Nissan March
+10000000,Deniyaya,89000,1500,2015,Petrol,Toyota Axio
+8100000,Rajagiriya,10000,1000,2023,Petrol,Toyota Passo
+10200000,Matara,134000,1500,2012,Petrol,Toyota Allion
+14800000,Galle,95000,1500,2017,Petrol,Toyota Premio
+16900000,Negombo,58000,1500,2019,Petrol,Toyota Allion
+19500000,Kelaniya,11500,1000,2023,Petrol,Audi A3
+3550000,Middeniya,0,1600,1996,Petrol,Toyota Carina
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+13500000,Negombo,116000,1500,2016,Petrol,Toyota Allion
+5800000,Embilipitiya,147000,1300,2010,Petrol,Toyota Vitz
+8200000,Kadawatha,64000,1000,2017,Petrol,Suzuki Swift
+9400000,Kolonnawa,180000,1800,2011,Petrol,Toyota Prius
+13175000,Kiribathgoda,198000,1790,2016,Hybrid,Toyota Prius
+6450000,Rajagiriya,0,660,2023,Petrol,Toyota Pixis
+7400000,Kurunegala,4900,650,2024,Petrol,Suzuki Wagon R
+7200000,Rajagiriya,0,660,2024,Petrol,Suzuki Wagon R
+8500000,Rajagiriya,0,1000,2023,Electric,Nissan Atlas
+6950000,Rajagiriya,0,660,2023,Petrol,Toyota Pixis
+8300000,Rajagiriya,0,660,2023,Petrol,Daihatsu Taft
+6390000,Rajagiriya,0,1500,2024,Petrol,Suzuki Alto
+9500000,Pussellawa,180000,1500,2007,Petrol,Toyota Premio
+6500000,Pussellawa,950000,650,2015,Petrol,Suzuki Hustler
+8200000,Anuradhapura,32000,1300,2014,Hybrid,Honda Fit
+8200000,Anuradhapura,32000,1500,2014,Petrol,Honda Fit
+5775000,Kalutara,119220,1300,2008,Petrol,Suzuki Swift
+7500000,Monaragala,109000,1500,2013,Petrol,Toyota Aqua
+6800000,Pussellawa,138000,650,2015,Petrol,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8600000,Pussellawa,81000,1000,2017,Petrol,Suzuki Swift
+8650000,Kandy,0,658,2025,Hybrid,Suzuki Wagon R
+7200000,Pussellawa,94000,650,2017,Petrol,Suzuki Wagon R
+9100000,Kurunegala,2000,660,2024,Petrol,Suzuki Spacia
+8500000,Pussellawa,130000,650,2017,Petrol,Suzuki Swift
+8200000,Alutgama,55000,1000,2017,Petrol,Toyota Vitz
+6800000,Pussellawa,85000,650,2016,Petrol,Suzuki Hustler
+6800000,Pussellawa,120000,650,2017,Petrol,Suzuki Spacia
+7800000,Pussellawa,68000,650,2018,Petrol,Suzuki Wagon R
+3890000,Welimada,130000,1000,1999,Petrol,Toyota Vitz
+6250000,Rajagiriya,0,660,2023,Petrol,Suzuki Alto
+6750000,Beruwala,125000,650,2016,Petrol,Suzuki Spacia
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+15800000,Ambalangoda,67000,1500,2017,Petrol,Toyota Premio
+21000000,Ambalangoda,147000,2000,2013,Diesel,BMW 5 Series
+4300000,Kurunegala,268000,1580,1999,Petrol,Toyota Corolla
+7990000,Ja-Ela,0,660,2023,Petrol,Nissan Dayz
+9400000,Akkaraipattu,0,650,2025,Hybrid,Suzuki Wagon R
+10500000,Ambalangoda,148000,1500,2013,Petrol,Toyota Premio
+5250000,Ragama,200000,660,2014,Petrol,Suzuki Wagon R
+8450000,Rajagiriya,0,660,2023,Petrol,Suzuki Spacia
+6500000,Ambalangoda,65000,650,2016,Petrol,Daihatsu Copen
+5500000,Ambalangoda,0,660,2016,Petrol,Nissan Dayz
+30500000,Battaramulla,0,1490,2025,Hybrid,Toyota Prius
+8950000,Angoda,0,1000,2023,Petrol,Toyota Yaris
+7500000,Angoda,5000,660,2024,Hybrid,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7900000,Angoda,0,660,2023,Petrol,Daihatsu Taft
+8800000,Angoda,0,0,2024,Electric,Mitsubishi eK
+7750000,Ja-Ela,172000,1496,2011,Petrol,Toyota Axio
+2800000,Kurunegala,125000,1000,2006,Petrol,Tata Indica
+3200000,Kurunegala,80000,800,2011,Petrol,Suzuki Alto
+4000000,Kurunegala,148000,1300,1999,Petrol,Toyota Sprinter
+7990000,Battaramulla,100000,1490,2015,Petrol,Honda Fit
+3395000,Uswetakeiyawa,148500,658,2013,Petrol,Suzuki Alto
+5530000,Kalmunai,120000,998,2019,Petrol,Suzuki Celerio
+4800000,Ambalangoda,170000,1300,2007,Petrol,Suzuki Swift
+11000000,Ambalangoda,77000,988,2017,Hybrid,Honda Civic
+4100000,Panadura,140000,1000,2011,Petrol,Suzuki A Star
+5700000,Wattala,76500,1240,2008,Petrol,Suzuki Swift
+7590000,Battaramulla,0,650,2024,Petrol,Suzuki Wagon R
+6700000,Ambalangoda,163000,1500,2013,Hybrid,Toyota Aqua
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7700000,Ambalangoda,159000,1000,2018,Petrol,Toyota Vitz
+3800000,Ambalangoda,0,1000,2018,Petrol,Micro Panda
+7200000,Valaichenai,50000,650,2018,Petrol,Suzuki Wagon R
+7200000,Batticaloa,61000,650,2018,Hybrid,Suzuki Wagon R
+3800000,Batticaloa,73267,650,2012,Petrol,Suzuki Estilo
+2100000,Ambalangoda,0,796,2009,Petrol,Suzuki Maruti
+7000000,Ambalangoda,94000,650,2017,Petrol,Suzuki Wagon R
+6000000,Ambalangoda,85000,1000,2016,Petrol,Suzuki Hustler
+12000000,Ambalangoda,69000,1500,2018,Petrol,Toyota Axio
+7150000,Beliatta,0,1500,2012,Hybrid,Toyota Aqua
+4100000,Kuliyapitiya,144000,800,2015,Petrol,Suzuki Alto
+4550000,Battaramulla,50400,1000,2015,Petrol,Suzuki Alto
+13200000,Dankotuwa,130000,1500,2014,Petrol,Toyota Premio
+7800000,Pussellawa,251780,1200,2013,Petrol,Toyota Aqua
+7000000,Anuradhapura,260000,1500,2004,Petrol,Toyota Allion
+15000000,Pussellawa,750000,1200,2013,Petrol,Toyota Premio
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8350000,Kottawa,6600,660,2023,Petrol,Toyota Passo
+7700000,Kottawa,3400,660,2023,Petrol,Mitsubishi eK
+6350000,Kottawa,6600,660,2024,Petrol,Suzuki Alto
+6200000,Pussellawa,2900000,650,2003,Petrol,Toyota IST
+1800000,Ambalangoda,0,1200,1997,Petrol,Mazda Familia
+10600000,Ambalangoda,140000,1984,2011,Petrol,Audi A4
+9200000,Negombo,117000,1500,2014,Hybrid,Toyota Axio
+8850000,Kurunegala,0,660,2025,Hybrid,Suzuki Wagon R
+5700000,Ambalangoda,88500,998,2016,Petrol,Perodua Axia
+7800000,Kottawa,6600,660,2023,Hybrid,Daihatsu Taft
+6800000,Ambalangoda,147000,1000,2015,Petrol,Toyota Vitz
+2750000,Ambalangoda,0,1200,1994,Petrol,Mazda Familia
+13000000,Negombo,103000,1500,2018,Petrol,Toyota Corolla
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8600000,Pussellawa,128000,1200,2012,Petrol,Honda Insight
+12150000,Naula,66000,1796,2012,Hybrid,Toyota Prius
+6975000,Kottawa,3400,660,2023,Petrol,Mitsubishi eK
+7950000,Kottawa,6600,660,2023,Petrol,Toyota Passo
+8700000,Ambalangoda,0,1500,2010,Petrol,Toyota Allion
+24000000,Ambalangoda,43000,2000,2017,Hybrid,Mercedes Benz C Class
+6950000,Anuradhapura,8003,660,2024,Petrol,Suzuki Wagon R
+9500000,Ja-Ela,0,660,2025,Hybrid,Suzuki Spacia
+850000,Kandy,0,1400,1974,Petrol,Toyota Corolla
+9300000,Galle,82000,1000,2017,Petrol,Audi A1
+9300000,Homagama,178000,1000,2008,Petrol,Toyota Premio
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+760000,Gampaha,0,1500,1985,Petrol,Mitsubishi Lancer
+7300000,Ambalangoda,97000,990,2017,Petrol,Toyota Vitz
+8900000,Ambalangoda,0,1500,2015,Petrol,Toyota Axio
+8200000,Galle,0,660,2023,Petrol,Suzuki Hustler
+2400000,Ambalangoda,80000,1342,2012,Petrol,Micro Panda
+7300000,Pussellawa,123000,650,2018,Petrol,Suzuki Wagon R
+13700000,Kurunegala,0,1000,2025,Petrol,Honda City
+7780000,Bambalapitiya (Colombo 04),76400,1000,2015,Petrol,Toyota Vitz
+3750000,Buttala,59000,800,2015,Petrol,Suzuki Alto
+7000000,Padukka,160000,1500,2007,Petrol,Toyota Corolla
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7200000,Ambalangoda,0,1500,2014,Hybrid,Toyota Aqua
+2550000,Matugama,63500,812,2015,Petrol,Chery QQ
+5450000,Wattala,99400,650,2014,Hybrid,Suzuki Wagon R
+4280000,Ambalangoda,146000,1197,2011,Petrol,Perodua Elite
+14000000,Ambalangoda,114000,1500,2017,Petrol,Toyota Premio
+7500000,Agaliya,0,690,2024,Hybrid,Suzuki Wagon R
+5790000,Malabe,101000,650,2014,Hybrid,Suzuki Wagon R
+5500000,Matara,90000,650,2014,Petrol,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7500000,Pussellawa,85000,650,2018,Petrol,Suzuki Wagon R
+10200000,Galle,180000,1800,2011,Hybrid,Toyota Prius
+3450000,Rikillagaskada,97500,1500,2000,Petrol,Toyota Corolla
+58500000,Kohuwala,20000,2500,2024,Petrol,Toyota Crown
+6450000,Ambalangoda,0,1500,2004,Petrol,Toyota Allion
+8900000,Ambalangoda,55000,1300,2019,Petrol,Suzuki Swift
+6700000,Ambalangoda,81000,650,2018,Hybrid,Suzuki Wagon R
+13500000,Malabe,90000,1500,2017,Hybrid,Toyota Axio
+5050000,Kurunegala,76000,650,2016,Petrol,Suzuki Wagon R
+8300000,Kandy,146000,1500,2014,Hybrid,Honda Grace
+6550000,Ambalangoda,123000,650,2018,Hybrid,Suzuki Wagon R
+7300000,Ambalangoda,113000,1000,2017,Petrol,Toyota Vitz
+8350000,Ambalangoda,125000,1600,2009,Hybrid,Toyota Prius
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+9850000,Panadura,142000,1600,2013,Hybrid,Toyota Prius
+6200000,Kandana,177000,1600,2007,Hybrid,Toyota Prius
+6375000,Ambalangoda,110000,650,2018,Hybrid,Suzuki Wagon R
+5600000,Ambalangoda,62000,658,2016,Petrol,Mazda Flair
+4450000,Ambalangoda,0,1497,2002,Petrol,Nissan Sunny
+8950000,Wellawatta (Colombo 06),0,1000,2025,Petrol,Suzuki Wagon R
+5550000,Panadura,130000,650,2014,Hybrid,Suzuki Wagon R
+5755000,Alawwa,80000,660,2017,Petrol,Daihatsu Mira
+6500000,Ambalangoda,0,1500,2012,Hybrid,Toyota Aqua
+6200000,Ambalangoda,160000,1500,2012,Hybrid,Honda Fit
+3575000,Borella (Colombo 08),200000,2000,2000,Petrol,Honda Odyssey
+8150000,Kegalle,129000,1000,2017,Hybrid,Suzuki Swift
+5100000,Yakkala,0,1500,2002,Petrol,Mitsubishi Lancer
+3700000,Kalmunai,96000,796,2015,Petrol,Suzuki Celerio
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+1975000,Kegalle,136000,800,2005,Petrol,Suzuki Alto
+3670000,Kahawatta,165000,990,2010,Petrol,Suzuki Estilo
+7000000,Elpitiya,150000,1000,2015,Petrol,Toyota Vitz
+7500000,Pussellawa,650000,1200,2002,Petrol,Toyota Corolla
+5500000,Bandarawela,103000,1299,2005,Diesel,Toyota Corolla
+5350000,Anuradhapura,0,1500,2004,Petrol,Toyota Vios
+4100000,Batticaloa,86000,814,2016,Petrol,Hyundai Eon
+8725000,Divulapitiya,0,660,2025,Petrol,Daihatsu Taft
+375000,Kataragama,0,1300,1985,Petrol,Mazda Flair
+7850000,Kurunegala,1000,660,2023,Petrol,Daihatsu Taft
+3400000,Kurunegala,0,800,2014,Petrol,Micro Panda
+7200000,Anuradhapura,119000,1500,2012,Hybrid,Toyota Aqua
+9800000,Kirillawala,283000,1500,2011,Petrol,Toyota Premio
+2900000,Kurunegala,148000,1300,1997,Petrol,Toyota Tercel
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7850000,Kurunegala,6500,660,2023,Petrol,Daihatsu Taft
+5700000,Kurunegala,66000,660,2015,Hybrid,Suzuki Alto
+5650000,Anuradhapura,203485,1300,2004,Petrol,Mitsubishi Lancer
+4875000,Kurunegala,65000,660,2015,Petrol,Suzuki Alto
+9400000,Polonnaruwa,0,1000,2022,Petrol,Toyota Yaris
+6500000,Ja-Ela,70000,660,2017,Hybrid,Suzuki Wagon R
+5850000,Maharagama,105455,1400,2011,Petrol,Suzuki Swift
+7400000,Polonnaruwa,0,650,2024,Petrol,Daihatsu Mira
+6300000,Kurunegala,148000,1400,2001,Petrol,Toyota Mark II
+3300000,Adampan,147000,800,2012,Petrol,Suzuki Alto
+5600000,Kurunegala,66000,1400,2012,Petrol,Nissan ExSunny
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6350000,Panadura,0,660,2024,Petrol,Daihatsu Mira
+8350000,Homagama,94500,1490,2008,Petrol,Toyota Allion
+10100000,Eravur,141000,1500,2015,Hybrid,Toyota Axio
+13500000,Batticaloa,96000,1500,2016,Hybrid,Toyota Prius
+4325000,Kalmunai,100000,850,2016,Petrol,Hyundai Eon
+4000000,Trincomalee,68500,800,2018,Petrol,Renault KWID
+4250000,Horana,130000,1600,2000,Petrol,Nissan Sunny
+5575000,Gampaha,92000,800,2015,Petrol,Suzuki Wagon R
+9000000,Panadura,73000,1300,2013,Petrol,Honda Fit
+3000000,Ambalangoda,202,1323,2002,Petrol,Mazda Familia
+11200000,Kadawatha,0,1600,2014,Petrol,Mitsubishi Lancer
+8000000,Divulapitiya,0,1500,2007,Petrol,Toyota Allion
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7390000,Yakkala,4000,650,2024,Petrol,Suzuki Wagon R
+2675000,Kandy,165000,800,2006,Petrol,Suzuki Alto
+5350000,Kalmunai,90000,1000,2015,Petrol,Suzuki Celerio
+3525000,Kalmunai,160000,800,2016,Petrol,Renault KWID
+5800000,Ambatenna,143000,1000,2017,Petrol,Toyota Wigo
+8800000,Wattala,146700,1800,2010,Hybrid,Toyota Prius
+3750000,Gampaha,0,1500,1997,Petrol,Toyota Corolla
+8700000,Welimada,37000,690,2019,Hybrid,Toyota Vitz
+6450000,Maharagama,65000,1000,2018,Petrol,Toyota Passo
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7950000,Negombo,68000,990,2018,Petrol,Toyota Vitz
+3550000,Battaramulla,0,800,2015,Petrol,Suzuki Alto
+6175000,Piliyandala,900,650,2024,Petrol,Suzuki Alto
+7300000,Moratuwa,91634,1000,2015,Petrol,Toyota Vitz
+4350000,Dambulla,180000,1600,2000,Petrol,Nissan Sunny
+6850000,Angoda,90000,650,2018,Petrol,Suzuki Wagon R
+8850000,Veyangoda,120000,1500,2008,Petrol,Toyota Premio
+3600000,Pannipitiya,398000,1990,1997,Diesel,Mitsubishi Lancer
+5900000,Gampaha,96000,650,2018,Petrol,Suzuki Wagon R
+650000,Kottawa,0,1500,1984,Petrol,Ford Laser
+3000000,Malabe,120000,800,2011,Petrol,Suzuki Alto
+7500000,Boralesgamuwa,1000,1000,2017,Petrol,Toyota Vitz
+5700000,Matara,129000,1500,2005,Petrol,Nissan Tiida
+9750000,Boralesgamuwa,147571,1450,2012,Hybrid,Toyota Prius
+7290000,Boralesgamuwa,0,650,2024,Petrol,Daihatsu Mira
+10850000,Boralesgamuwa,0,1490,2016,Hybrid,Toyota Axio
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6975000,Boralesgamuwa,0,1390,2013,Hybrid,Honda Fit
+5650000,Piliyandala,155000,1700,2002,Petrol,Honda Civic
+4100000,Ambalangoda,100000,1500,1999,Petrol,Nissan FB 15
+9000000,Ambalangoda,205000,1500,2011,Petrol,Toyota Allion
+5575000,Ambalangoda,0,1500,2000,Petrol,Toyota Corolla
+9800000,Borella (Colombo 08),109000,1500,2016,Petrol,Toyota Axio
+3650000,Kandy,0,1300,2002,Petrol,Nissan March
+10350000,Padukka,0,1000,2016,Diesel,Toyota Premio
+2800000,Padukka,0,1000,1997,Diesel,Nissan Sunny
+8950000,Borella (Colombo 08),0,1000,2014,Hybrid,Toyota Axio
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+3100000,Anuradhapura,0,1000,2015,Petrol,Micro Panda
+6000000,Ambalangoda,0,1300,2011,Petrol,Honda Fit
+6800000,Ambalangoda,123000,650,2018,Petrol,Suzuki Wagon R
+7800000,Ambalangoda,0,1500,2014,Petrol,Toyota Aqua
+5000000,Ambalangoda,136000,1000,2015,Petrol,Suzuki Celerio
+6000000,Ambalangoda,0,700,2016,Petrol,Mazda Flair
+4200000,Ambalangoda,0,1300,2003,Petrol,Suzuki Swift
+7500000,Ambalangoda,0,1500,2013,Petrol,Honda Insight
+5600000,Ambalangoda,120000,650,2014,Petrol,Suzuki Wagon R
+9600000,Slave Island (Colombo 02),197984,1490,2015,Hybrid,Toyota Axio
+680000,Kolonnawa,149000,1300,2002,Petrol,KIA Rio
+15000000,Matara,126000,1500,2017,Petrol,Toyota Premio
+6600000,Galle,170000,1499,2009,Petrol,Honda Insight
+5350000,Colombo Fort (Colombo 01),80000,650,2016,Petrol,Suzuki Wagon R
+8950000,Kurunegala,0,1000,2022,Petrol,Toyota Yaris
+3600000,Agaliya,130000,690,2013,Petrol,Suzuki Alto
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6500000,Divulapitiya,4210,660,2023,Petrol,Suzuki Alto
+8600000,Kurunegala,0,650,2024,Hybrid,Suzuki Wagon R
+7950000,Panadura,79500,1500,2014,Hybrid,Toyota Aqua
+6700000,Borella (Colombo 08),93000,660,2018,Hybrid,Suzuki Wagon R
+7800000,Pussellawa,140000,1200,2014,Petrol,Toyota Aqua
+6375000,Divulapitiya,4200,660,2023,Petrol,Daihatsu Mira
+3500000,Hambantota,172000,650,2015,Petrol,Suzuki Alto
+7975000,Kurunegala,0,660,2024,Hybrid,Suzuki Wagon R
+4450000,Hakmana,130000,1000,2011,Petrol,Perodua Elite
+6600000,Kadawatha,95000,800,2017,Petrol,Suzuki Wagon R
+6000000,Homagama,180000,1300,2008,Petrol,Toyota Vitz
+7050000,Piliyandala,244000,1500,2012,Hybrid,Toyota Aqua
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8400000,Kotte,0,1500,2023,Petrol,Suzuki Wagon R
+4200000,Kuliyapitiya,80000,1500,1997,Diesel,Toyota Starlet
+3650000,Kuliyapitiya,75000,1500,2001,Petrol,Toyota DX Wagon
+5300000,Rajagiriya,120000,660,2015,Petrol,Suzuki Alto
+8000000,Batuwatta,304,660,2024,Hybrid,Suzuki Wagon R
+8800000,Bandarawela,145500,1500,2014,Hybrid,Toyota Axio
+6850000,Galle,170000,990,2016,Petrol,Toyota Vitz
+6500000,Ambalangoda,165000,1490,2012,Hybrid,Toyota Aqua
+5900000,Ambalangoda,96000,650,2018,Hybrid,Suzuki Wagon R
+5475000,Ambalangoda,124654,650,2014,Hybrid,Suzuki Wagon R
+22500000,Ambalangoda,96000,1995,2015,Diesel,BMW 5 Series
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+1360000,Ginigathhena,150000,1500,1987,Petrol,Nissan Sunny
+2495000,Badulla,200800,1300,1993,Petrol,Toyota Corsa
+16900000,Kohuwala,18000,1500,2023,Petrol,Mazda 3
+2800000,Batticaloa,190000,1400,2003,Petrol,Hyundai Getz
+12500000,Kalutara,136500,1490,2013,Petrol,Toyota Allion
+14350000,Kohuwala,0,1490,2025,Petrol,Honda City
+33500000,Kohuwala,0,2000,2018,Petrol,BMW 740Le
+7850000,Kohuwala,128000,1000,2017,Petrol,Suzuki Baleno
+14700000,Ragama,0,1499,2024,Petrol,Nissan Note
+7800000,Dehiwala,102000,1490,2013,Hybrid,Honda Fit
+6875000,Matara,165000,1500,2012,Hybrid,Toyota Aqua
+2950000,Kelaniya,181000,990,1997,Petrol,Nissan March
+1840000,Kelaniya,175000,800,2004,Petrol,Suzuki Maruti
+5275000,Pallekelle,129000,1000,2015,Petrol,Suzuki Celerio
+3800000,Panadura,87000,800,2018,Petrol,Renault KWID
+7250000,Wadduwa,125000,990,2016,Petrol,Toyota Vitz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5800000,Ambalangoda,140000,1330,2011,Hybrid,Honda Fit
+5475000,Poddala,124654,650,2014,Petrol,Suzuki Wagon R
+6400000,Ambalangoda,0,1500,2007,Petrol,Toyota Axio
+35000000,Nugegoda,0,208,2025,Electric,Tesla Model 3
+3000000,Bandarawela,1412000,800,2011,Petrol,Suzuki Alto
+6490000,Nittambuwa,2000,660,2025,Petrol,Daihatsu Mira
+9700000,Panadura,170000,1500,2010,Petrol,Toyota Allion
+2975000,Hanwella,132500,1500,1997,Petrol,Nissan Presea
+6000000,Ambalangoda,119587,650,2017,Hybrid,Suzuki Wagon R
+12700000,Katunayake,100000,1790,2016,Petrol,Toyota Prius
+2800000,Ambalangoda,0,1300,1994,Petrol,Mitsubishi Lancer
+11000000,Ambalangoda,0,2480,2010,Petrol,Audi RS3
+7000000,Narammala,140000,1499,2013,Petrol,Toyota Aqua
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+1200000,Kegalle,300000,1500,1984,Petrol,Toyota Corolla
+9000000,Alutgama,205000,1500,2011,Petrol,Toyota Allion
+7300000,Colombo Fort (Colombo 01),200000,1490,2014,Petrol,Toyota Aqua
+4800000,Ambalangoda,0,1298,2009,Petrol,Mazda Demio
+11000000,Kandana,50500,1500,2015,Petrol,Toyota Axio
+7550000,Ja-Ela,0,1500,2004,Petrol,Toyota Allion
+13500000,Ambalangoda,97000,1500,2017,Petrol,Toyota Allion
+8500000,Kuruwita,150000,990,2017,Petrol,Suzuki Swift
+2000000,Moratuwa,175000,650,2015,Petrol,Tata Nano
+8750000,Ambalangoda,156000,1500,2016,Hybrid,Honda Grace
+5600000,Ambalangoda,40000,1000,2018,Petrol,Suzuki Celerio
+8900000,Ambalangoda,270000,1500,2008,Petrol,Toyota Premio
+5800000,Ambalangoda,140000,1000,2007,Petrol,Toyota Belta
+7900000,Ambalangoda,11000,658,2023,Petrol,Daihatsu Taft
+7400000,Ambalangoda,0,1500,2013,Hybrid,Honda Fit
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7600000,Ambalangoda,150000,1330,2014,Hybrid,Honda Fit
+8650000,Kurunegala,10800,650,2023,Petrol,Daihatsu Tanto
+11100000,Ambalangoda,160000,1600,2015,Petrol,Toyota Allion
+5300000,Ambalangoda,186000,1490,2004,Petrol,Mazda Axela
+4490000,Kandy,225000,1000,2011,Petrol,Perodua Elite
+7350000,Anuradhapura,122387,1490,2012,Hybrid,Toyota Aqua
+5800000,Ambalangoda,0,1700,2003,Petrol,Honda Civic
+22950000,Ambalangoda,61000,2000,2019,Petrol,Mercedes Benz CLA
+15600000,Ratnapura,97000,1500,2017,Petrol,Toyota Premio
+15800000,Colombo Fort (Colombo 01),24000,1000,2023,Petrol,Audi A3
+9400000,Kotte,1500,1000,2025,Hybrid,Toyota Yaris
+6600000,Ambalangoda,166000,1500,2012,Hybrid,Toyota Aqua
+7550000,Homagama,85000,1000,2017,Petrol,Toyota Vitz
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+10500000,Kurunegala,100000,3000,2002,Petrol,Mitsubishi Lancer
+7200000,Polonnaruwa,0,650,2024,Petrol,Daihatsu Esse
+7500000,Kurunegala,3500,690,2023,Hybrid,Suzuki Wagon R
+3700000,Colombo Fort (Colombo 01),51900,690,2016,Petrol,Renault KWID
+6650000,Colombo Fort (Colombo 01),75000,690,2018,Hybrid,Suzuki Wagon R
+5700000,Colombo Fort (Colombo 01),137000,690,2015,Petrol,Suzuki Wagon R
+5800000,Wennappuwa,150000,690,2017,Hybrid,Suzuki Wagon R
+5800000,Dehiwala,14000,1000,2007,Petrol,Toyota Belta
+27500000,Maradana (Colombo 10),35000,690,2014,Hybrid,BMW i8
+7200000,Gampaha,0,650,2024,Petrol,Suzuki Wagon R
+8900000,Gampaha,0,650,2025,Petrol,Suzuki Wagon R
+9700000,Polonnaruwa,0,950,2024,Petrol,Toyota Yaris
+7200000,Polonnaruwa,0,660,2023,Petrol,Mitsubishi Space Wagon
+7000000,Polonnaruwa,0,650,2024,Petrol,Daihatsu Esse
+4400000,Ambalangoda,0,1000,2015,Petrol,Suzuki Celerio
+7290000,Kundasale,53000,1000,2016,Petrol,Toyota Vitz
+1795000,Kaduwela,88000,1075,2012,Petrol,Micro Trend
+7350000,Kaduwela,178000,1500,2013,Hybrid,Toyota Aqua
+10800000,Kurunegala,0,1000,2025,Petrol,Toyota Yaris
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5650000,Kurunegala,86000,650,2017,Hybrid,Suzuki Alto
+9450000,Kurunegala,1000,660,2025,Hybrid,Suzuki Spacia
+7850000,Kegalle,120000,1500,2008,Petrol,Toyota Axio
+7850000,Kegalle,129000,1500,2013,Hybrid,Honda Fit
+1600000,Matale,190000,1300,1986,Petrol,Toyota Corolla
+7300000,Ambalangoda,0,1500,2014,Hybrid,Toyota Aqua
+9000000,Kurunegala,0,650,2025,Hybrid,Suzuki Wagon R
+4250000,Ja-Ela,178000,1330,2003,Petrol,Suzuki Swift
+14500000,Ampara,107000,690,2017,Petrol,Toyota Premio
+15500000,Kalutara,81000,1500,2018,Petrol,Toyota Premio
+9500000,Gampaha,160000,1500,2014,Hybrid,Toyota Axio
+5450000,Akkarayankulam,86000,1000,2015,Petrol,Suzuki Celerio
+5800000,Cheddikulam,150000,1330,2007,Petrol,Toyota Vitz
+1860000,Seeduwa,200000,1300,1987,Petrol,Toyota Starlet
+4900000,Ampara,176000,690,2014,Petrol,Suzuki Wagon R
+11600000,Ampara,120000,690,2013,Petrol,Toyota Premio
+8000000,Ambalangoda,153000,1600,2011,Hybrid,Toyota Prius
+6000000,Ambalangoda,167000,1300,2008,Petrol,Toyota Belta
+6100000,Ambalangoda,164000,650,2017,Hybrid,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5900000,Ambalangoda,250000,1500,2006,Petrol,Toyota Corolla
+4750000,Ambalangoda,99312,990,2005,Petrol,Toyota Vitz
+6300000,Ambalangoda,279000,1500,2012,Hybrid,Toyota Aqua
+7800000,Ambalangoda,136000,1500,2016,Hybrid,Toyota Aqua
+7800000,Ambalangoda,97000,1300,2017,Petrol,Suzuki Swift
+3550000,Moratuwa,200000,800,2016,Petrol,Renault KWID
+6800000,Ambalangoda,0,1500,2004,Petrol,Toyota Allion
+6650000,Ambalangoda,187000,1600,2010,Hybrid,Toyota Prius
+3700000,Ambalangoda,0,999,2017,Petrol,Renault KWID
+8500000,Ambalangoda,158000,1500,2016,Hybrid,Honda Grace
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5600000,Ambalangoda,0,650,2016,Petrol,Suzuki Wagon R
+8100000,Ambalangoda,0,1500,2015,Petrol,Toyota Axio
+7000000,Ambalangoda,200000,1300,2013,Petrol,Toyota Aqua
+3200000,Gampaha,179000,990,2000,Petrol,Nissan March
+9250000,Kurunegala,0,1500,2011,Petrol,Toyota Premio
+7000000,Ambalangoda,90905,1500,2014,Hybrid,Toyota Aqua
+7800000,Ambalangoda,0,1600,2008,Petrol,Toyota Premio
+10200000,Ambalangoda,142400,1600,2014,Hybrid,Toyota Prius
+2400000,Ambalangoda,0,1700,1997,Diesel,Mazda Familia
+8950000,Anuradhapura,120000,1500,2015,Hybrid,Honda Grace
+5650000,Kollupitiya (Colombo 03),165000,1330,2008,Petrol,Suzuki Swift
+7000000,Alawwa,5562,660,2024,Hybrid,Suzuki Wagon R
+6890000,Moratuwa,3000,650,2024,Petrol,Daihatsu Mira
+8500000,Kurunegala,6500,650,2023,Petrol,Suzuki Wagon R
+7200000,Ambalangoda,0,1800,2012,Petrol,Honda Civic
+8700000,Gampaha,2500,650,2023,Petrol,Suzuki Wagon R
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+3475000,Ambalangoda,135000,800,2015,Petrol,Suzuki Alto
+6000000,Ambalangoda,88750,2000,2001,Petrol,Toyota Mark II
+9000000,Ambalangoda,155000,1500,2016,Hybrid,Honda Grace
+14500000,Ambalangoda,150000,1500,2017,Petrol,Toyota Premio
+8000000,Ambalangoda,0,1500,2015,Hybrid,Toyota Axio
+3340000,Ambalangoda,0,1295,2001,Petrol,Nissan ExSunny
+7750000,Bandaragama,161000,990,2016,Petrol,Toyota Vitz
+7275000,Ambalangoda,108000,1500,2013,Hybrid,Toyota Aqua
+2975000,Ambalangoda,9800000,800,2011,Petrol,Suzuki Alto
+3295000,Bandaragama,65000,800,2017,Petrol,Zotye Z100
+12000000,Ambalangoda,120000,1500,2013,Petrol,Toyota Premio
+3850000,Hikkaduwa,160000,880,2016,Petrol,Hyundai Eon
+14350000,Kottawa,0,1000,2025,Petrol,Honda City
+8050000,Kegalle,120000,1500,2014,Hybrid,Honda Fit
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5850000,Kegalle,92000,650,2014,Petrol,Suzuki Wagon R
+7350000,Ambalangoda,140000,1500,2014,Hybrid,Toyota Aqua
+1600000,Maharagama,126000,1500,1991,Petrol,Mitsubishi Lancer
+10500000,Ambalangoda,120000,1500,2016,Petrol,Toyota Axio
+11200000,Ambalangoda,150000,1500,2017,Hybrid,Toyota Axio
+5300000,Ambalangoda,137000,650,2015,Hybrid,Suzuki Wagon R
+10500000,Ambalangoda,143000,1600,2013,Hybrid,Toyota Prius
+5900000,Ambalangoda,100000,650,2016,Petrol,Suzuki Wagon R
+10500000,Katupota,75000,1500,2011,Petrol,Audi A4
+9400000,Piliyandala,113000,1490,2015,Petrol,Toyota Axio
+9000000,Ambalangoda,140000,1500,2015,Petrol,Honda Grace
+7000000,Gampaha,0,1500,2013,Hybrid,Toyota Aqua
+5050000,Ambalangoda,117000,658,2015,Petrol,Suzuki Alto
+6300000,Ambalangoda,96000,650,2018,Petrol,Suzuki Wagon R
+10500000,Ambalangoda,143000,1500,2013,Petrol,Toyota Prius
+8900000,Malabe,1050000,1800,2011,Hybrid,Toyota Prius
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8425000,Kadawatha,64000,1000,2017,Petrol,Suzuki Swift
+3580000,Galle,92800,800,2015,Petrol,Suzuki Alto
+5100000,Matara,124000,1000,2016,Petrol,Suzuki Celerio
+5300000,Kuliyapitiya,123,123,2013,Petrol,Honda ARIA
+10200000,Kuliyapitiya,81000,690,2013,Hybrid,Toyota Prius
+2500000,Malabe,0,1300,1984,Diesel,Mitsubishi Lancer
+11700000,Piliyandala,129251,1800,2014,Hybrid,Toyota Prius
+13800000,Mirigama,66800,1200,2019,Petrol,Toyota Corolla
+6900000,Athurugiriya,180000,1796,2003,Petrol,Toyota Allion
+4500000,Mawathagama,99000,1320,1999,Petrol,Mazda Demio
+1880000,Warakapola,220000,800,2006,Petrol,Suzuki Maruti
+8200000,Ratnapura,63000,1000,2018,Petrol,Toyota Vitz
+1375000,Kirillawala,400000,1500,1990,Petrol,Nissan Sunny
+3725000,Elpitiya,28500,1000,2020,Petrol,Zotye Z100
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7450000,Kuliyapitiya,148000,1500,2013,Petrol,Toyota Aqua
+4525000,Kottawa,151000,1000,2011,Petrol,Perodua Viva
+7900000,Akkaraipattu,650,650,2024,Petrol,Suzuki Wagon R
+7350000,Akkaraipattu,600,650,2023,Petrol,Suzuki Wagon R
+13700000,Athurugiriya,135,1000,2025,Petrol,Honda City
+3700000,Kegalle,120000,800,2011,Petrol,Suzuki Maruti
+2700000,Kegalle,120000,800,2012,Petrol,Suzuki Maruti
+8400000,Ja-Ela,0,1500,2015,Petrol,Toyota Axio
+9900000,Rajagiriya,191500,1500,2011,Petrol,Toyota Prius
+9450000,Nittambuwa,155000,1496,2016,Petrol,Honda Grace
+7750000,Kegalle,5000,660,2024,Petrol,Suzuki Wagon R
+4395000,Panadura,0,1000,2017,Petrol,Micro Panda Cross
+3700000,Kegalle,160000,660,2003,Petrol,Suzuki Alto
+835000,Pitipana Homagama,1000000,1300,1983,Petrol,Nissan B11
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+3265000,Panadura,0,800,2016,Petrol,Datsun Redi Go
+3095000,Panadura,0,1500,2013,Petrol,Micro MX7
+9300000,Pilimatalawa,0,1000,2025,Petrol,Daihatsu Taft
+3195000,Panadura,0,650,2000,Petrol,Suzuki Alto
+3900000,Homagama,75800,1000,2008,Petrol,Suzuki Wagon R
+6450000,Oluvil,150000,1500,2007,Petrol,Toyota Belta
+7350000,Beliatta,167000,1200,2011,Petrol,Honda Insight
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+1890000,Batapola,95780,800,2012,Petrol,Suzuki Maruti
+7950000,Pussellawa,200000,1500,2016,Petrol,Toyota Aqua
+8375000,Welimada,63000,1000,2017,Petrol,Suzuki Swift
+8000000,Badalgama,50000,1500,2013,Hybrid,Toyota Aqua
+3925000,Kalmunai,103000,800,2015,Petrol,Suzuki Alto
+2050000,Godakawela,120000,800,2005,Petrol,Suzuki Maruti
+7400000,Kamburupitiya,23350,660,2018,Hybrid,Suzuki Wagon R
+7925000,Kalmunai,105000,1490,2017,Petrol,Toyota Vitz
+8450000,Batticaloa,102000,1000,2017,Petrol,Suzuki Swift
+1875000,Kaduwela,0,800,2003,Petrol,Suzuki Maruti
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+1980000,Horana,126000,800,2004,Petrol,Suzuki Maruti
+6900000,Ampara,150000,690,2018,Hybrid,Suzuki Wagon R
+3000000,Hambantota,172000,800,2015,Petrol,Suzuki Alto
+13475000,Kiribathgoda,196500,1790,2016,Hybrid,Toyota Prius
+4750000,Peradeniya,158600,1500,2002,Petrol,Nissan Sunny
+3390000,Ibbagamuwa,210000,1500,1996,Petrol,Nissan FB 14
+4000000,Mirigama,15000,1000,2020,Petrol,Standard Vanguard
+7300000,Kundasale,107000,1500,2014,Hybrid,Toyota Aqua
+2100000,Pitipana Homagama,168000,1600,2006,Petrol,Tata Indigo
+27500000,Colombo Fort (Colombo 01),110000,2995,2013,Petrol,Audi A8
+7150000,Gampaha,12500,660,2023,Petrol,Suzuki Wagon R
+4900000,Kataragama,0,1200,2012,Hybrid,Toyota Prius
+10800000,Wariyapola,102172,1500,2014,Petrol,Toyota Premio
+12700000,Wattala,22068,1500,2023,Petrol,Toyota Yaris
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+7250000,Maharagama,92000,1500,2013,Hybrid,Toyota Aqua
+2650000,Homagama,0,800,2014,Petrol,Micro Panda
+14700000,Kurunegala,152000,1496,2017,Petrol,Toyota Premio
+7775000,Athurugiriya,180000,1500,2014,Petrol,Toyota Aqua
+6650000,Gampaha,25000,600,2023,Petrol,Nissan Dayz
+3540000,Matale,203000,1970,1996,Diesel,Toyota Sprinter
+8500000,Kotahena (Colombo 13),89000,990,2017,Petrol,Audi A1
+7600000,Matara,161000,1500,2013,Hybrid,Toyota Aqua
+7900000,Matara,159000,1500,2014,Hybrid,Toyota Aqua
+7500000,Pepiliyana,116000,1490,2014,Hybrid,Toyota Aqua
+6150000,Siyambalape,164000,1330,2012,Petrol,Honda Fit
+6175000,Ja-Ela,179000,660,2015,Hybrid,Mazda Flair
+3490000,Kalutara,98000,650,2002,Petrol,Daihatsu Mira
+3380000,Battaramulla,250000,1500,1992,Petrol,Mitsubishi Lancer
+20500000,Piliyandala,71000,2000,2016,Petrol,BMW 3 Series
+7290000,Sooriyawewa Town,108000,1490,2013,Hybrid,Toyota Aqua
+4775000,Athurugiriya,180000,1500,2004,Petrol,Toyota Vios
+3975000,Imbulgoda,50000,800,2017,Petrol,Suzuki Alto
+18000000,Imbulgoda,20000,1500,2018,Petrol,Mercedes Benz C180
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5750000,Imbulgoda,50000,650,2015,Hybrid,Suzuki Wagon R
+6800000,Kottawa,89000,660,2018,Hybrid,Suzuki Wagon R
+3425000,Homagama,164000,1000,2011,Petrol,Suzuki Alto
+11650000,Kesbewa,16000,70,2025,Petrol,BYD Dolphin
+7200000,Minuwangoda,110700,660,2017,Petrol,Suzuki Wagon R
+6800000,Nikaweratiya,130000,1500,2014,Petrol,Toyota Aqua
+6250000,Maharagama,184000,1330,2010,Petrol,Honda Fit
+3650000,Ampara,123456,800,2015,Petrol,Suzuki Alto
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+850000,Kottawa,0,1200,1984,Diesel,Mazda Familia
+4190000,Katugastota,210000,1600,2003,Petrol,Nissan Sunny
+5650000,Narammala,150000,650,2015,Hybrid,Suzuki Wagon R
+4100000,Wennappuwa,180000,1490,2003,Petrol,Nissan Sunny
+7125000,Siyambalape,249143,1490,2013,Petrol,Toyota Aqua
+6700000,Siyambalape,153115,1330,2012,Petrol,Honda Fit
+7850000,Peradeniya,4300,650,2025,Hybrid,Suzuki Wagon R
+7500000,Ragama,182012,1498,2012,Petrol,Nissan AD Wagon
+6350000,Kurunegala,0,660,2023,Petrol,Suzuki Alto
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+6950000,Kurunegala,0,660,2023,Hybrid,Suzuki Alto
+8200000,Kurunegala,0,660,2023,Hybrid,Daihatsu Taft
+8200000,Kurunegala,0,660,2023,Hybrid,Daihatsu Taft
+8200000,Kurunegala,0,660,2023,Hybrid,Daihatsu Taft
+5500000,Kadawatha,48000,1500,2017,Petrol,Micro D20
+12500000,Negombo,178000,1200,2017,Petrol,Toyota Allion
+12700000,Kegalle,0,1000,2025,Petrol,Toyota Yaris
+6750000,Mahakumbukkadawala,83000,660,2017,Petrol,Suzuki Wagon R
+6550000,Kurunegala,0,660,2024,Petrol,Suzuki Alto
+5150000,Gampaha,200000,1500,1999,Petrol,Toyota Carina
+8000000,Dunagaha,123,660,2023,Hybrid,Suzuki Wagon R
+7500000,Ragama,171909,1490,2012,Petrol,Nissan AD Wagon
+2850000,Tangalla,105605,1300,2011,Petrol,Micro Panda
+5675000,Horana,215000,1500,2004,Petrol,Honda Civic
+6300000,Benthara,168000,1500,2004,Petrol,Toyota Allion
+20800000,Galle,110000,2000,2012,Diesel,BMW 5 Series
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8975000,Narahenpita (Colombo 05),125000,1500,2014,Hybrid,Toyota Axio
+4450000,Ambalangoda,0,1600,2001,Petrol,Nissan Sunny
+7250000,Ambalangoda,125000,1600,2007,Petrol,Toyota Corolla
+6500000,Ambalangoda,168000,1500,2004,Petrol,Toyota Allion
+11500000,Ambalangoda,128000,1790,2014,Hybrid,Toyota Prius
+9200000,Wennappuwa,0,660,2025,Petrol,Suzuki Wagon R
+6250000,Matara,42400,660,2018,Petrol,Nissan Dayz
+2750000,Akkaraipattu,94000,1000,2012,Petrol,Micro Panda
+4500000,Kalmunai,125000,1320,2004,Petrol,Suzuki Swift
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+8200000,Kurunegala,14000,650,2023,Hybrid,Suzuki Hustler
+5400000,Kurunegala,75000,660,2015,Hybrid,Suzuki Wagon R
+5700000,Kurunegala,80000,650,2017,Hybrid,Suzuki Alto
+6900000,Ambalangoda,88000,650,2018,Hybrid,Suzuki Wagon R
+8250000,Ambalangoda,90000,1500,2015,Hybrid,Toyota Aqua
+3690000,Mulleriyawa New Town,240000,2000,1997,Diesel,Toyota Corolla
+5250000,Ambalangoda,85000,658,2017,Petrol,Suzuki Alto
+7900000,Ambalangoda,97500,1300,2017,Hybrid,Suzuki Swift
+10900000,Ambalangoda,155000,1600,2014,Hybrid,Toyota Prius
+8625000,Ambalangoda,62500,1300,2017,Hybrid,Suzuki Swift
+16900000,Ambalangoda,11600,1500,2023,Petrol,Toyota Corolla
+10600000,Ambalangoda,0,1600,2014,Hybrid,Toyota Prius
+8900000,Ambalangoda,150000,1600,2011,Hybrid,Toyota Prius
+21800000,Ambalangoda,84000,1500,2019,Petrol,Mercedes Benz C Class
+11600000,Ambalangoda,121000,1500,2017,Hybrid,Toyota Axio
+10500000,Ambalangoda,110000,1600,2013,Hybrid,Toyota Prius
+7450000,Ambalangoda,99000,1490,2014,Hybrid,Toyota Aqua
+4900000,Ambalangoda,157000,1500,2007,Petrol,Toyota Vios
+8700000,Batticaloa,59500,990,2019,Petrol,Toyota Vitz
+3890000,Adampan,0,1300,2003,Petrol,Nissan March
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+1950000,Ampara,0,1500,1990,Petrol,Honda Civic
+4300000,Batticaloa,66000,850,2017,Petrol,Hyundai Eon
+9500000,Ambalangoda,150000,1500,2015,Hybrid,Toyota Axio
+5200000,Ambalangoda,0,1300,2007,Petrol,Toyota Vitz
+5300000,Ambalangoda,90000,650,2016,Hybrid,Suzuki Wagon R
+8050000,Kalmunai,128000,1330,2015,Petrol,Toyota Aqua
+3850000,Ampara,133000,800,2015,Petrol,Suzuki Alto
+29000000,Ratmalana,6251,1500,2019,Petrol,Mercedes Benz C200
+1600000,Beruwala,0,1000,1987,Petrol,Daihatsu G100s
+350000,Aluthkade (Colombo 12),200000,1500,1985,Petrol,Honda Integra
+2695000,Godakawela,0,1500,1997,Petrol,Nissan Pulsar
+13600000,Ratmalana,0,1000,2025,Petrol,Honda City
+6800000,Matara,3200,660,2024,Petrol,Daihatsu Mira
+3800000,Badulla,160000,650,2004,Petrol,Suzuki Alto
+12500000,Telijjawila,82285,1000,2017,Petrol,Honda Civic
+2600000,Mattegoda,162481,1331,2002,Petrol,KIA Sephia
+5500000,Homagama,166600,1000,2007,Petrol,Toyota Belta
+5250000,Kadawatha,61000,1000,2016,Petrol,Suzuki Wagon R
+25200000,Ambalangoda,130000,1995,2014,Diesel,BMW 5 Series
+3250000,Kandy,193134,1300,1996,Petrol,Toyota Corolla
+5600000,Ja-Ela,34602,650,2018,Petrol,Suzuki Alto
+7000000,Kohuwala,0,660,2025,Petrol,Suzuki Wagon R
+2100000,Kalutara,83472,1830,1992,Diesel,Toyota Corolla
+3340000,Uswetakeiyawa,98500,800,2013,Petrol,Suzuki Alto
+8750000,Cinnamon Garden (Colombo 07),0,998,2025,Petrol,Suzuki Wagon R
+4300000,Polgahawela,0,1300,2006,Petrol,Suzuki Liana
