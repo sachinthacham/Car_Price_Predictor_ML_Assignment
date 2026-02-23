@@ -41,14 +41,14 @@ def preprocess_data(input_file='patpat_targeted_data.csv', output_file='patpat_M
     df_clean['Price'] = df_clean['Price'].astype(int)
     df_clean['Mileage'] = df_clean['Mileage'].astype(int)
 
-    # 9. ENCODING: formally declare the text columns as categories for XGBoost
+    # 9. formally declare the text columns as categories for XGBoost
     df_clean['Location'] = df_clean['Location'].astype('category')
     df_clean['Fuel_Type'] = df_clean['Fuel_Type'].astype('category')
     df_clean['Make_Model'] = df_clean['Make_Model'].astype('category')
 
     print(f"Cleaned dataset size: {df_clean.shape}")
 
-    # 10. Save the ML-Ready dataset permanently
+    # 10. Save the ML-Ready dataset
     df_clean.to_csv(output_file, index=False)
     print(f"Data fully cleaned, encoded, and saved as '{output_file}'!")
 

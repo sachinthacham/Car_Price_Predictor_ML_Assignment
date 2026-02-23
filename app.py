@@ -193,7 +193,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-# 3. Load Models, Explainer, and Categories
+
 
 @st.cache_resource
 def load_models():
@@ -214,7 +214,7 @@ def load_models():
 
 model, explainer, make_models_list, locations, fuel_types, raw_df = load_models()
 
-# Create Cascading Dictionary
+
 car_dictionary = {}
 for item in make_models_list:
     parts = str(item).split(" ", 1)
@@ -263,7 +263,7 @@ if predict_button:
     # Predict Price
     prediction = model.predict(input_df)[0]
     
-    # 1. Top Span: Massive High-End Price Component
+  
     st.markdown(f"""
     <div class="price-card">
         <div class="price-label">Real-Time Algorithmic Valuation</div>
@@ -272,12 +272,12 @@ if predict_button:
     </div>
     """, unsafe_allow_html=True)
     
-    # Layout definition inside the results
+  
     col1, col2 = st.columns([1, 1.4], gap="large") 
     
     with col1:
         st.markdown('<div class="section-title">Vehicle Identity</div>', unsafe_allow_html=True)
-        # Beautiful Tabular Specs Card
+       
         st.markdown(f"""
         <div class="info-card">
             <div class="info-item">
@@ -316,17 +316,16 @@ if predict_button:
      
     
         try:
-            # Generate the SHAP object
+          
             shap_obj = explainer(input_df)
             
-            # Setup pure white background for the plot for better visibility
+           
             fig, ax = plt.subplots(figsize=(8, 6), facecolor="white")
             
-            # Customizing the waterfall plot lines and colors inherently isn't fully supported via kwargs, 
-            # but we can configure the plot figure.
+           
             shap.plots.waterfall(shap_obj[0], show=False)
             
-            # Formatting title and outputting
+            
             plt.title("How Specific Technical Features Shifted The Baseline Price", fontsize=11, color="#2C3E50", pad=20, weight='bold')
             plt.tight_layout()
             
@@ -337,7 +336,7 @@ if predict_button:
             
         st.markdown('</div>', unsafe_allow_html=True)
 
-    # --- Horizontal Divider & New Analytics Section ---
+    
     st.markdown('<br>', unsafe_allow_html=True)
     st.markdown('<div class="section-title">Market Analytics & Trends</div>', unsafe_allow_html=True)
     
@@ -393,7 +392,7 @@ if predict_button:
         st.plotly_chart(fig2, use_container_width=True)
         st.markdown('</div>', unsafe_allow_html=True)
 
-    # --- New Row for 2 Additional Charts ---
+   
     st.markdown('<br>', unsafe_allow_html=True)
     
     col5, col6 = st.columns(2, gap="large")
@@ -401,15 +400,14 @@ if predict_button:
     with col5:
         
         st.markdown('<h4 style="color:#A0B2C6; font-size: 1.1rem; margin-top:0; margin-bottom:15px; font-weight:600;"><span style="color:#00FFD1;">📊</span> Similar Vehicles in Market</h4>', unsafe_allow_html=True)
-        
-        # Filter raw data for similar models
+      
         similar_cars = raw_df[raw_df['Make_Model'] == combined_make_model]
         
         if len(similar_cars) > 1:
             fig3 = px.histogram(similar_cars, x='Price', nbins=15)
             fig3.update_traces(marker_color='rgba(0, 255, 209, 0.6)', marker_line_color='#00FFD1', marker_line_width=1.5)
             
-            # Add a vertical line showing exactly where our prediction sits
+           
             fig3.add_vline(x=prediction, line_width=3, line_dash="dash", line_color="#E0E6ED", 
                            annotation_text="Your Valuation", annotation_position="top", annotation_font_color="white")
             
@@ -430,7 +428,7 @@ if predict_button:
         
         st.markdown('<h4 style="color:#A0B2C6; font-size: 1.1rem; margin-top:0; margin-bottom:15px; font-weight:600;"><span style="color:#00FFD1;">📍</span> Price Variation by Major Cities</h4>', unsafe_allow_html=True)
         
-        # Take the top 8 most frequent locations in the whole dataset
+       
         top_locs = raw_df['Location'].value_counts().head(8).index.tolist()
         loc_prices = []
         for loc in top_locs:
@@ -450,7 +448,7 @@ if predict_button:
             yaxis=dict(showgrid=False, title=""),
             margin=dict(l=10, r=10, t=10, b=10)
         )
-        # Highlight the current selected location if it's in the top 8
+        
         if selected_location in top_locs:
             colors = ['#00FFD1' if loc == selected_location else 'rgba(0, 255, 209, 0.3)' for loc in chart_data4['Location']]
             fig4.update_traces(marker_color=colors)
@@ -459,7 +457,7 @@ if predict_button:
         st.markdown('</div>', unsafe_allow_html=True)
 
 else:
-    # Beautiful empty state
+    
     st.markdown("""
     <div style="background-color: #0F2027; background-image: linear-gradient(180deg, #0F2027 0%, #203A43 100%); border: 1px dashed rgba(255,255,255,0.2); border-radius: 12px; padding: 60px 20px; text-align: center; margin-top: 40px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
         <h3 style="color: #00FFD1; font-weight: 600;">Awaiting Inputs</h3>
